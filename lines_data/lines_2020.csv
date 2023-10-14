@@ -1,0 +1,542 @@
+,id,season,week,season_type,date,home_team,home_conference,home_score,away_team,away_conference,away_score,formatted_spread,home_spread,home_result,home_diff,away_spread,away_result,away_diff,covering_team,vegas_error
+1585,401207101,2020,1,regular,2020-09-04,Southern Mississippi,Conference USA,21,South Alabama,Sun Belt,32,Southern Mississippi -12.5,-12.5,11,-23.5,12.5,-11,23.5,South Alabama,23.5
+891,401238035,2020,1,regular,2020-09-04,UAB,Conference USA,45,Central Arkansas,Southland,35,UAB -21,-21.0,-10,-11.0,21.0,10,11.0,Central Arkansas,11.0
+1677,401207098,2020,1,regular,2020-09-05,North Texas,Conference USA,57,Houston Christian,Southland,31,North Texas -23,-23.0,-26,3.0,23.0,26,-3.0,North Texas,3.0
+2545,401212484,2020,1,regular,2020-09-05,Texas State,Sun Belt,24,SMU,American Athletic,31,SMU -24.5,24.5,7,17.5,-24.5,-7,-17.5,Texas State,17.5
+1674,401235700,2020,1,regular,2020-09-05,Army,FBS Independents,42,Middle Tennessee,Conference USA,0,Army -3.5,-3.5,-42,38.5,3.5,42,-38.5,Army,38.5
+303,401237353,2020,1,regular,2020-09-05,Marshall,Conference USA,59,Eastern Kentucky,OVC,0,Marshall -25.5,-25.5,-59,33.5,25.5,59,-33.5,Marshall,33.5
+1681,401212553,2020,1,regular,2020-09-06,Memphis,American Athletic,37,Arkansas State,Sun Belt,24,Memphis -18.5,-18.5,-13,-5.5,18.5,13,5.5,Arkansas State,5.5
+1684,401239884,2020,1,regular,2020-09-06,UTEP,Conference USA,24,Stephen F. Austin,Southland,14,UTEP -4,-4.0,-10,6.0,4.0,10,-6.0,UTEP,6.0
+29,401234576,2020,1,regular,2020-09-08,Navy,American Athletic,3,BYU,FBS Independents,55,BYU -1,1.0,52,-51.0,-1.0,-52,51.0,BYU,51.0
+1688,401234559,2020,2,regular,2020-09-11,Miami,ACC,31,UAB,Conference USA,14,Miami -15.5,-15.5,-17,1.5,15.5,17,-1.5,Miami,1.5
+2601,401207113,2020,2,regular,2020-09-12,Texas State,Sun Belt,48,UT San Antonio,Conference USA,51,Texas State -6,-6.0,3,-9.0,6.0,-3,9.0,UT San Antonio,9.0
+2568,401215298,2020,2,regular,2020-09-12,Georgia Southern,Sun Belt,27,Campbell,Big South,26,Georgia Southern -27.5,-27.5,-1,-26.5,27.5,1,26.5,Campbell,26.5
+2565,401234562,2020,2,regular,2020-09-12,Wake Forest,ACC,13,Clemson,ACC,37,Clemson -34.5,34.5,24,10.5,-34.5,-24,-10.5,Wake Forest,10.5
+2334,401234563,2020,2,regular,2020-09-12,Florida State,ACC,13,Georgia Tech,ACC,16,Florida State -12.5,-12.5,3,-15.5,12.5,-3,15.5,Georgia Tech,15.5
+14,401234565,2020,2,regular,2020-09-12,North Carolina,ACC,31,Syracuse,ACC,6,North Carolina -24,-24.0,-25,1.0,24.0,25,-1.0,North Carolina,1.0
+1693,401234574,2020,2,regular,2020-09-12,Notre Dame,FBS Independents,27,Duke,ACC,13,Notre Dame -21.5,-21.5,-14,-7.5,21.5,14,7.5,Duke,7.5
+1696,401236038,2020,2,regular,2020-09-12,West Virginia,Big 12,56,Eastern Kentucky,OVC,10,West Virginia -41,-41.0,-46,5.0,41.0,46,-5.0,West Virginia,5.0
+2591,401236053,2020,2,regular,2020-09-12,Kansas State,Big 12,31,Arkansas State,Sun Belt,35,Kansas State -14.5,-14.5,4,-18.5,14.5,-4,18.5,Arkansas State,18.5
+894,401236054,2020,2,regular,2020-09-12,Oklahoma,Big 12,48,Missouri State,MVFC,0,Oklahoma -50.5,-50.5,-48,-2.5,50.5,48,2.5,Missouri State,2.5
+2535,401236081,2020,2,regular,2020-09-12,Appalachian State,Sun Belt,35,Charlotte,Conference USA,20,Appalachian State -16.5,-16.5,-15,-1.5,16.5,15,1.5,Charlotte,1.5
+93,401236221,2020,2,regular,2020-09-12,Iowa State,Big 12,14,Louisiana,Sun Belt,31,Iowa State -13.5,-13.5,17,-30.5,13.5,-17,30.5,Louisiana,30.5
+1705,401239973,2020,2,regular,2020-09-12,South Alabama,Sun Belt,24,Tulane,American Athletic,27,Tulane -11.5,11.5,3,8.5,-11.5,-3,-8.5,South Alabama,8.5
+102,401240039,2020,2,regular,2020-09-12,South Florida,American Athletic,27,The Citadel,Southern,6,South Florida -17.5,-17.5,-21,3.5,17.5,21,-3.5,South Florida,3.5
+1700,401240113,2020,2,regular,2020-09-12,Army,FBS Independents,37,Louisiana Monroe,Sun Belt,7,Army -24.5,-24.5,-30,5.5,24.5,30,-5.5,Army,5.5
+104,401240233,2020,2,regular,2020-09-12,Pittsburgh,ACC,55,Austin Peay,OVC,0,Pittsburgh -30.5,-30.5,-55,24.5,30.5,55,-24.5,Pittsburgh,24.5
+2540,401234564,2020,2,regular,2020-09-13,Louisville,ACC,35,Western Kentucky,Conference USA,21,Louisville -13,-13.0,-14,1.0,13.0,14,-1.0,Louisville,1.0
+2162,401236039,2020,2,regular,2020-09-13,Texas Tech,Big 12,35,Houston Christian,Southland,33,Texas Tech -40,-40.0,-2,-38.0,40.0,2,38.0,Houston Christian,38.0
+2586,401236222,2020,2,regular,2020-09-13,Texas,Big 12,59,UTEP,Conference USA,3,Texas -45,-45.0,-56,11.0,45.0,56,-11.0,Texas,11.0
+99,401236658,2020,2,regular,2020-09-13,Kansas,Big 12,23,Coastal Carolina,Sun Belt,38,Kansas -6,-6.0,15,-21.0,6.0,-15,21.0,Coastal Carolina,21.0
+1708,401240126,2020,3,regular,2020-09-18,Coastal Carolina,Sun Belt,43,Campbell,Big South,21,Coastal Carolina -27.5,-27.5,-22,-5.5,27.5,22,5.5,Campbell,5.5
+1575,401207106,2020,3,regular,2020-09-19,Southern Mississippi,Conference USA,30,Louisiana Tech,Conference USA,31,Southern Mississippi -7,-7.0,1,-8.0,7.0,-1,8.0,Louisiana Tech,8.0
+1752,401207120,2020,3,regular,2020-09-19,North Texas,Conference USA,35,SMU,American Athletic,65,SMU -14.5,14.5,30,-15.5,-14.5,-30,15.5,SMU,15.5
+1741,401207124,2020,3,regular,2020-09-19,Western Kentucky,Conference USA,24,Liberty,FBS Independents,30,Western Kentucky -14.5,-14.5,6,-20.5,14.5,-6,20.5,Liberty,20.5
+1580,401212522,2020,3,regular,2020-09-19,Tulane,American Athletic,24,Navy,American Athletic,27,Tulane -5.5,-5.5,3,-8.5,5.5,-3,8.5,Navy,8.5
+6,401212541,2020,3,regular,2020-09-19,Cincinnati,American Athletic,55,Austin Peay,OVC,20,Cincinnati -39.5,-39.5,-35,-4.5,39.5,35,4.5,Austin Peay,4.5
+1732,401215301,2020,3,regular,2020-09-19,Georgia State,Sun Belt,31,Louisiana,Sun Belt,34,Louisiana -17,17.0,3,14.0,-17.0,-3,-14.0,Georgia State,14.0
+1757,401215302,2020,3,regular,2020-09-19,Louisiana Monroe,Sun Belt,17,Texas State,Sun Belt,38,Texas State -3,3.0,21,-18.0,-3.0,-21,18.0,Texas State,18.0
+19,401234567,2020,3,regular,2020-09-19,Duke,ACC,6,Boston College,ACC,26,Duke -3.5,-3.5,20,-23.5,3.5,-20,23.5,Boston College,23.5
+1722,401234568,2020,3,regular,2020-09-19,Georgia Tech,ACC,21,UCF,American Athletic,49,UCF -9.5,9.5,28,-18.5,-9.5,-28,18.5,UCF,18.5
+1727,401234569,2020,3,regular,2020-09-19,Louisville,ACC,34,Miami,ACC,47,Miami -2.5,2.5,13,-10.5,-2.5,-13,10.5,Miami,10.5
+24,401234571,2020,3,regular,2020-09-19,Pittsburgh,ACC,21,Syracuse,ACC,10,Pittsburgh -21,-21.0,-11,-10.0,21.0,11,10.0,Syracuse,10.0
+1717,401236041,2020,3,regular,2020-09-19,Oklahoma State,Big 12,16,Tulsa,American Athletic,7,Oklahoma State -24,-24.0,-9,-15.0,24.0,9,15.0,Tulsa,15.0
+1736,401236939,2020,3,regular,2020-09-19,Marshall,Conference USA,17,Appalachian State,Sun Belt,7,Appalachian State -6,6.0,-10,16.0,-6.0,10,-16.0,Marshall,16.0
+1709,401237492,2020,3,regular,2020-09-19,Clemson,ACC,49,The Citadel,Southern,0,Clemson -50.5,-50.5,-49,-1.5,50.5,49,1.5,The Citadel,1.5
+1744,401240041,2020,3,regular,2020-09-19,UT San Antonio,Conference USA,24,Stephen F. Austin,Southland,10,UT San Antonio -18,-18.0,-14,-4.0,18.0,14,4.0,Stephen F. Austin,4.0
+1747,401240640,2020,3,regular,2020-09-19,Middle Tennessee,Conference USA,14,Troy,Sun Belt,47,Troy -2,2.0,33,-31.0,-2.0,-33,31.0,Troy,31.0
+1712,401241282,2020,3,regular,2020-09-19,Notre Dame,FBS Independents,52,South Florida,American Athletic,0,Notre Dame -22.5,-22.5,-52,29.5,22.5,52,-29.5,Notre Dame,29.5
+300,401234570,2020,3,regular,2020-09-20,NC State,ACC,45,Wake Forest,ACC,42,Wake Forest -2,2.0,-3,5.0,-2.0,3,-5.0,NC State,5.0
+2164,401239885,2020,3,regular,2020-09-20,UTEP,Conference USA,17,Abilene Christian,Southland,13,UTEP -8.5,-8.5,-4,-4.5,8.5,4,4.5,Abilene Christian,4.5
+440,401207132,2020,4,regular,2020-09-24,South Alabama,Sun Belt,10,UAB,Conference USA,42,UAB -7.5,7.5,32,-24.5,-7.5,-32,24.5,UAB,24.5
+1772,401207126,2020,4,regular,2020-09-26,Liberty,FBS Independents,36,Florida International,Conference USA,34,Liberty -9.5,-9.5,-2,-7.5,9.5,2,7.5,Florida International,7.5
+326,401207134,2020,4,regular,2020-09-26,UT San Antonio,Conference USA,37,Middle Tennessee,Conference USA,35,UT San Antonio -6,-6.0,-2,-4.0,6.0,2,4.0,Middle Tennessee,4.0
+2165,401212485,2020,4,regular,2020-09-26,SMU,American Athletic,50,Stephen F. Austin,Southland,7,SMU -38.5,-38.5,-43,4.5,38.5,43,-4.5,SMU,4.5
+2637,401212536,2020,4,regular,2020-09-26,East Carolina,American Athletic,28,UCF,American Athletic,51,UCF -28,28.0,23,5.0,-28.0,-23,-5.0,East Carolina,5.0
+465,401215303,2020,4,regular,2020-09-26,Louisiana,Sun Belt,20,Georgia Southern,Sun Belt,18,Louisiana -11.5,-11.5,-2,-9.5,11.5,2,9.5,Georgia Southern,9.5
+1775,401232157,2020,4,regular,2020-09-26,Louisiana Tech,Conference USA,66,Houston Christian,Southland,38,Louisiana Tech -23.5,-23.5,-28,4.5,23.5,28,-4.5,Louisiana Tech,4.5
+2632,401234593,2020,4,regular,2020-09-26,Miami,ACC,52,Florida State,ACC,10,Miami -12,-12.0,-42,30.0,12.0,42,-30.0,Miami,30.0
+34,401234594,2020,4,regular,2020-09-26,Syracuse,ACC,37,Georgia Tech,ACC,20,Georgia Tech -7.5,7.5,-17,24.5,-7.5,17,-24.5,Syracuse,24.5
+39,401234595,2020,4,regular,2020-09-26,Pittsburgh,ACC,23,Louisville,ACC,20,Pittsburgh -2.5,-2.5,-3,0.5,2.5,3,-0.5,Pittsburgh,0.5
+435,401234638,2020,4,regular,2020-09-26,Virginia,ACC,38,Duke,ACC,20,Virginia -4,-4.0,-18,14.0,4.0,18,-14.0,Virginia,14.0
+1618,401234734,2020,4,regular,2020-09-26,Southern Mississippi,Conference USA,24,Tulane,American Athletic,66,Tulane -3.5,3.5,42,-38.5,-3.5,-42,38.5,Tulane,38.5
+483,401235993,2020,4,regular,2020-09-26,Baylor,Big 12,47,Kansas,Big 12,14,Baylor -17,-17.0,-33,16.0,17.0,33,-16.0,Baylor,16.0
+473,401235994,2020,4,regular,2020-09-26,TCU,Big 12,34,Iowa State,Big 12,37,Iowa State -3.5,3.5,3,0.5,-3.5,-3,-0.5,TCU,0.5
+1762,401235995,2020,4,regular,2020-09-26,Texas Tech,Big 12,56,Texas,Big 12,63,Texas -17.5,17.5,7,10.5,-17.5,-7,-10.5,Texas Tech,10.5
+330,401235996,2020,4,regular,2020-09-26,Oklahoma,Big 12,35,Kansas State,Big 12,38,Oklahoma -27.5,-27.5,3,-30.5,27.5,-3,30.5,Kansas State,30.5
+460,401235997,2020,4,regular,2020-09-26,Oklahoma State,Big 12,27,West Virginia,Big 12,13,Oklahoma State -6.5,-6.5,-14,7.5,6.5,14,-7.5,Oklahoma State,7.5
+96,401236253,2020,4,regular,2020-09-26,Appalachian State,Sun Belt,52,Campbell,Big South,21,Appalachian State -33.5,-33.5,-31,-2.5,33.5,31,2.5,Campbell,2.5
+2606,401236951,2020,4,regular,2020-09-26,Missouri,SEC,19,Alabama,SEC,38,Alabama -28.5,28.5,19,9.5,-28.5,-19,-9.5,Missouri,9.5
+335,401236952,2020,4,regular,2020-09-26,Ole Miss,SEC,35,Florida,SEC,51,Florida -14,14.0,16,-2.0,-14.0,-16,2.0,Florida,2.0
+445,401237033,2020,4,regular,2020-09-26,Arkansas,SEC,10,Georgia,SEC,37,Georgia -28,28.0,27,1.0,-28.0,-27,-1.0,Arkansas,1.0
+455,401237034,2020,4,regular,2020-09-26,Auburn,SEC,29,Kentucky,SEC,13,Auburn -6.5,-6.5,-16,9.5,6.5,16,-9.5,Auburn,9.5
+450,401237035,2020,4,regular,2020-09-26,LSU,SEC,34,Mississippi State,SEC,44,LSU -14.5,-14.5,10,-24.5,14.5,-10,24.5,Mississippi State,24.5
+1767,401237036,2020,4,regular,2020-09-26,South Carolina,SEC,27,Tennessee,SEC,31,Tennessee -4,4.0,4,0.0,-4.0,-4,-0.0,Tennessee,0.0
+1623,401237037,2020,4,regular,2020-09-26,Texas A&M,SEC,17,Vanderbilt,SEC,12,Texas A&M -31.5,-31.5,-5,-26.5,31.5,5,26.5,Vanderbilt,26.5
+478,401240194,2020,4,regular,2020-09-26,Louisiana Monroe,Sun Belt,6,UTEP,Conference USA,31,Louisiana Monroe -9.5,-9.5,25,-34.5,9.5,-25,34.5,UTEP,34.5
+108,401240996,2020,4,regular,2020-09-26,Cincinnati,American Athletic,24,Army,FBS Independents,10,Cincinnati -12.5,-12.5,-14,1.5,12.5,14,-1.5,Cincinnati,1.5
+113,401241303,2020,4,regular,2020-09-26,Boston College,ACC,24,Texas State,Sun Belt,21,Boston College -21.5,-21.5,-3,-18.5,21.5,3,18.5,Texas State,18.5
+468,401234566,2020,4,regular,2020-09-27,Virginia Tech,ACC,45,NC State,ACC,24,Virginia Tech -6,-6.0,-21,15.0,6.0,21,-15.0,Virginia Tech,15.0
+2648,401236223,2020,4,regular,2020-09-27,BYU,FBS Independents,48,Troy,Sun Belt,7,BYU -14.5,-14.5,-41,26.5,14.5,41,-26.5,BYU,26.5
+338,401240282,2020,5,regular,2020-10-02,Wake Forest,ACC,66,Campbell,Big South,14,Wake Forest -34.5,-34.5,-52,17.5,34.5,52,-17.5,Wake Forest,17.5
+294,401207136,2020,5,regular,2020-10-03,Florida Atlantic,Conference USA,21,Charlotte,Conference USA,17,Florida Atlantic -5,-5.0,-4,-1.0,5.0,4,1.0,Charlotte,1.0
+1603,401207138,2020,5,regular,2020-10-03,Middle Tennessee,Conference USA,17,Western Kentucky,Conference USA,20,Western Kentucky -7,7.0,3,4.0,-7.0,-3,-4.0,Middle Tennessee,4.0
+386,401207139,2020,5,regular,2020-10-03,North Texas,Conference USA,31,Southern Mississippi,Conference USA,41,North Texas -1.5,-1.5,10,-11.5,1.5,-10,11.5,Southern Mississippi,11.5
+382,401207141,2020,5,regular,2020-10-03,UAB,Conference USA,21,UT San Antonio,Conference USA,13,UAB -21.5,-21.5,-8,-13.5,21.5,8,13.5,UT San Antonio,13.5
+548,401212476,2020,5,regular,2020-10-03,Cincinnati,American Athletic,28,South Florida,American Athletic,7,Cincinnati -22.5,-22.5,-21,-1.5,22.5,21,1.5,South Florida,1.5
+377,401212486,2020,5,regular,2020-10-03,SMU,American Athletic,30,Memphis,American Athletic,27,SMU -2,-2.0,-3,1.0,2.0,3,-1.0,SMU,1.0
+373,401212531,2020,5,regular,2020-10-03,UCF,American Athletic,26,Tulsa,American Athletic,34,UCF -20.5,-20.5,8,-28.5,20.5,-8,28.5,Tulsa,28.5
+416,401212547,2020,5,regular,2020-10-03,Georgia State,Sun Belt,49,East Carolina,American Athletic,29,East Carolina -1.5,1.5,-20,21.5,-1.5,20,-21.5,Georgia State,21.5
+1608,401212557,2020,5,regular,2020-10-03,Air Force,Mountain West,40,Navy,American Athletic,7,Navy -6.5,6.5,-33,39.5,-6.5,33,-39.5,Air Force,39.5
+421,401215304,2020,5,regular,2020-10-03,Coastal Carolina,Sun Belt,52,Arkansas State,Sun Belt,23,Arkansas State -3.5,3.5,-29,32.5,-3.5,29,-32.5,Coastal Carolina,32.5
+431,401215305,2020,5,regular,2020-10-03,Louisiana Monroe,Sun Belt,30,Georgia Southern,Sun Belt,35,Georgia Southern -19.5,19.5,5,14.5,-19.5,-5,-14.5,Louisiana Monroe,14.5
+553,401234597,2020,5,regular,2020-10-03,Boston College,ACC,22,North Carolina,ACC,26,North Carolina -14.5,14.5,4,10.5,-14.5,-4,-10.5,Boston College,10.5
+1613,401234599,2020,5,regular,2020-10-03,Duke,ACC,31,Virginia Tech,ACC,38,Virginia Tech -11,11.0,7,4.0,-11.0,-7,-4.0,Duke,4.0
+44,401234600,2020,5,regular,2020-10-03,Pittsburgh,ACC,29,NC State,ACC,30,Pittsburgh -14,-14.0,1,-15.0,14.0,-1,15.0,NC State,15.0
+426,401235998,2020,5,regular,2020-10-03,West Virginia,Big 12,27,Baylor,Big 12,21,Baylor -1.5,1.5,-6,7.5,-1.5,6,-7.5,West Virginia,7.5
+503,401235999,2020,5,regular,2020-10-03,Iowa State,Big 12,37,Oklahoma,Big 12,30,Oklahoma -7.5,7.5,-7,14.5,-7.5,7,-14.5,Iowa State,14.5
+488,401236000,2020,5,regular,2020-10-03,Kansas,Big 12,7,Oklahoma State,Big 12,47,Oklahoma State -21.5,21.5,40,-18.5,-21.5,-40,18.5,Oklahoma State,18.5
+1592,401236001,2020,5,regular,2020-10-03,Kansas State,Big 12,31,Texas Tech,Big 12,21,Kansas State -1,-1.0,-10,9.0,1.0,10,-9.0,Kansas State,9.0
+498,401236002,2020,5,regular,2020-10-03,Texas,Big 12,31,TCU,Big 12,33,Texas -10.5,-10.5,2,-12.5,10.5,-2,12.5,TCU,12.5
+368,401237093,2020,5,regular,2020-10-03,Alabama,SEC,52,Texas A&M,SEC,24,Alabama -18,-18.0,-28,10.0,18.0,28,-10.0,Alabama,10.0
+401,401237094,2020,5,regular,2020-10-03,Mississippi State,SEC,14,Arkansas,SEC,21,Mississippi State -16.5,-16.5,7,-23.5,16.5,-7,23.5,Arkansas,23.5
+396,401237095,2020,5,regular,2020-10-03,Georgia,SEC,27,Auburn,SEC,6,Georgia -7.5,-7.5,-21,13.5,7.5,21,-13.5,Georgia,13.5
+391,401237096,2020,5,regular,2020-10-03,Florida,SEC,38,South Carolina,SEC,24,Florida -14.5,-14.5,-14,-0.5,14.5,14,0.5,South Carolina,0.5
+1597,401237097,2020,5,regular,2020-10-03,Kentucky,SEC,41,Ole Miss,SEC,42,Kentucky -7,-7.0,1,-8.0,7.0,-1,8.0,Ole Miss,8.0
+406,401237098,2020,5,regular,2020-10-03,Vanderbilt,SEC,7,LSU,SEC,41,LSU -21,21.0,34,-13.0,-21.0,-34,13.0,LSU,13.0
+411,401237099,2020,5,regular,2020-10-03,Tennessee,SEC,35,Missouri,SEC,12,Tennessee -10,-10.0,-23,13.0,10.0,23,-13.0,Tennessee,13.0
+1588,401237513,2020,5,regular,2020-10-03,Liberty,FBS Independents,28,North Alabama,Big South,7,Liberty -33,-33.0,-21,-12.0,33.0,21,12.0,North Alabama,12.0
+1600,401238034,2020,5,regular,2020-10-03,Florida State,ACC,41,Jacksonville State,OVC,24,Florida State -27,-27.0,-17,-10.0,27.0,17,10.0,Jacksonville State,10.0
+1589,401240040,2020,5,regular,2020-10-03,Army,FBS Independents,55,Abilene Christian,Southland,23,Army -31,-31.0,-32,1.0,31.0,32,-1.0,Army,1.0
+558,401246275,2020,5,regular,2020-10-03,BYU,FBS Independents,45,Louisiana Tech,Conference USA,14,BYU -24,-24.0,-31,7.0,24.0,31,-7.0,BYU,7.0
+493,401234598,2020,5,regular,2020-10-04,Clemson,ACC,41,Virginia,ACC,23,Clemson -28,-28.0,-18,-10.0,28.0,18,10.0,Virginia,10.0
+341,401212523,2020,6,regular,2020-10-08,Houston,American Athletic,49,Tulane,American Athletic,31,Houston -6.5,-6.5,-18,11.5,6.5,18,-11.5,Houston,11.5
+347,401234601,2020,6,regular,2020-10-09,Georgia Tech,ACC,46,Louisville,ACC,27,Louisville -4.5,4.5,-19,23.5,-4.5,19,-23.5,Georgia Tech,23.5
+573,401207143,2020,6,regular,2020-10-10,Florida International,Conference USA,28,Middle Tennessee,Conference USA,31,Florida International -6.5,-6.5,3,-9.5,6.5,-3,9.5,Middle Tennessee,9.5
+645,401207145,2020,6,regular,2020-10-10,Louisiana Tech,Conference USA,21,UTEP,Conference USA,17,Louisiana Tech -14.5,-14.5,-4,-10.5,14.5,4,10.5,UTEP,10.5
+651,401207146,2020,6,regular,2020-10-10,Western Kentucky,Conference USA,14,Marshall,Conference USA,38,Marshall -6.5,6.5,24,-17.5,-6.5,-24,17.5,Marshall,17.5
+1648,401207215,2020,6,regular,2020-10-10,Liberty,FBS Independents,40,Louisiana Monroe,Sun Belt,7,Liberty -17,-17.0,-33,16.0,17.0,33,-16.0,Liberty,16.0
+590,401212477,2020,6,regular,2020-10-10,South Florida,American Athletic,24,East Carolina,American Athletic,44,South Florida -5.5,-5.5,20,-25.5,5.5,-20,25.5,East Carolina,25.5
+363,401212515,2020,6,regular,2020-10-10,Navy,American Athletic,31,Temple,American Athletic,29,Temple -4,4.0,-2,6.0,-4.0,2,-6.0,Navy,6.0
+359,401215308,2020,6,regular,2020-10-10,Troy,Sun Belt,37,Texas State,Sun Belt,17,Troy -7,-7.0,-20,13.0,7.0,20,-13.0,Troy,13.0
+1663,401234603,2020,6,regular,2020-10-10,Boston College,ACC,31,Pittsburgh,ACC,30,Pittsburgh -6.5,6.5,-1,7.5,-6.5,1,-7.5,Boston College,7.5
+353,401234604,2020,6,regular,2020-10-10,Clemson,ACC,42,Miami,ACC,17,Clemson -14.5,-14.5,-25,10.5,14.5,25,-10.5,Clemson,10.5
+606,401234605,2020,6,regular,2020-10-10,Syracuse,ACC,24,Duke,ACC,38,Duke -2.5,2.5,14,-11.5,-2.5,-14,11.5,Duke,11.5
+627,401234606,2020,6,regular,2020-10-10,Notre Dame,FBS Independents,42,Florida State,ACC,26,Notre Dame -20.5,-20.5,-16,-4.5,20.5,16,4.5,Florida State,4.5
+579,401234607,2020,6,regular,2020-10-10,North Carolina,ACC,56,Virginia Tech,ACC,45,North Carolina -3.5,-3.5,-11,7.5,3.5,11,-7.5,North Carolina,7.5
+639,401234608,2020,6,regular,2020-10-10,Virginia,ACC,21,NC State,ACC,38,Virginia -7,-7.0,17,-24.0,7.0,-17,24.0,NC State,24.0
+585,401236003,2020,6,regular,2020-10-10,Iowa State,Big 12,31,Texas Tech,Big 12,15,Iowa State -10,-10.0,-16,6.0,10.0,16,-6.0,Iowa State,6.0
+616,401236004,2020,6,regular,2020-10-10,TCU,Big 12,14,Kansas State,Big 12,21,TCU -11,-11.0,7,-18.0,11.0,-7,18.0,Kansas State,18.0
+1778,401236005,2020,6,regular,2020-10-10,Oklahoma,Big 12,53,Texas,Big 12,45,Oklahoma -3,-3.0,-8,5.0,3.0,8,-5.0,Oklahoma,5.0
+1637,401237100,2020,6,regular,2020-10-10,Ole Miss,SEC,48,Alabama,SEC,63,Alabama -24,24.0,15,9.0,-24.0,-15,-9.0,Ole Miss,9.0
+633,401237101,2020,6,regular,2020-10-10,Auburn,SEC,30,Arkansas,SEC,28,Auburn -13.5,-13.5,-2,-11.5,13.5,2,11.5,Arkansas,11.5
+622,401237102,2020,6,regular,2020-10-10,Texas A&M,SEC,41,Florida,SEC,38,Florida -6,6.0,-3,9.0,-6.0,3,-9.0,Texas A&M,9.0
+1643,401237103,2020,6,regular,2020-10-10,Georgia,SEC,44,Tennessee,SEC,21,Georgia -12,-12.0,-23,11.0,12.0,23,-11.0,Georgia,11.0
+595,401237104,2020,6,regular,2020-10-10,Kentucky,SEC,24,Mississippi State,SEC,2,Kentucky -3.5,-3.5,-22,18.5,3.5,22,-18.5,Kentucky,18.5
+1787,401237105,2020,6,regular,2020-10-10,LSU,SEC,41,Missouri,SEC,45,Missouri -14,14.0,4,10.0,-14.0,-4,-10.0,LSU,10.0
+1653,401237106,2020,6,regular,2020-10-10,Vanderbilt,SEC,7,South Carolina,SEC,41,South Carolina -14,14.0,34,-20.0,-14.0,-34,20.0,South Carolina,20.0
+1782,401240114,2020,6,regular,2020-10-10,Army,FBS Independents,14,The Citadel,Southern,9,Army -30.5,-30.5,-5,-25.5,30.5,5,25.5,The Citadel,25.5
+612,401240997,2020,6,regular,2020-10-10,BYU,FBS Independents,27,UT San Antonio,Conference USA,20,BYU -34,-34.0,-7,-27.0,34.0,7,27.0,UT San Antonio,27.0
+1784,401246425,2020,6,regular,2020-10-10,Arkansas State,Sun Belt,50,Central Arkansas,Southland,27,Arkansas State -15.5,-15.5,-23,7.5,15.5,23,-7.5,Arkansas State,7.5
+601,401207142,2020,6,regular,2020-10-11,North Texas,Conference USA,21,Charlotte,Conference USA,49,Charlotte -3,3.0,28,-25.0,-3.0,-28,25.0,Charlotte,25.0
+2112,401215311,2020,7,regular,2020-10-14,Louisiana,Sun Belt,27,Coastal Carolina,Sun Belt,30,Louisiana -9.5,-9.5,3,-12.5,9.5,-3,12.5,Coastal Carolina,12.5
+738,401215310,2020,7,regular,2020-10-15,Arkansas State,Sun Belt,59,Georgia State,Sun Belt,52,Arkansas State -3.5,-3.5,-7,3.5,3.5,7,-3.5,Arkansas State,3.5
+2,401212487,2020,7,regular,2020-10-16,Tulane,American Athletic,34,SMU,American Athletic,37,SMU -6.5,6.5,3,3.5,-6.5,-3,-3.5,Tulane,3.5
+2107,401207149,2020,7,regular,2020-10-17,Louisiana Tech,Conference USA,17,Marshall,Conference USA,35,Marshall -12,12.0,18,-6.0,-12.0,-18,6.0,Marshall,6.0
+820,401207150,2020,7,regular,2020-10-17,Middle Tennessee,Conference USA,35,North Texas,Conference USA,52,Middle Tennessee -3.5,-3.5,17,-20.5,3.5,-17,20.5,North Texas,20.5
+657,401207153,2020,7,regular,2020-10-17,UAB,Conference USA,37,Western Kentucky,Conference USA,14,UAB -11.5,-11.5,-23,11.5,11.5,23,-11.5,UAB,11.5
+793,401212478,2020,7,regular,2020-10-17,Temple,American Athletic,39,South Florida,American Athletic,37,Temple -14,-14.0,-2,-12.0,14.0,2,12.0,South Florida,12.0
+2626,401212537,2020,7,regular,2020-10-17,Memphis,American Athletic,50,UCF,American Athletic,49,UCF -3,3.0,-1,4.0,-3.0,1,-4.0,Memphis,4.0
+799,401212548,2020,7,regular,2020-10-17,East Carolina,American Athletic,23,Navy,American Athletic,27,Navy -3.5,3.5,4,-0.5,-3.5,-4,0.5,Navy,0.5
+744,401212551,2020,7,regular,2020-10-17,Houston,American Athletic,26,BYU,FBS Independents,43,BYU -3,3.0,17,-14.0,-3.0,-17,14.0,BYU,14.0
+720,401215313,2020,7,regular,2020-10-17,South Alabama,Sun Belt,30,Texas State,Sun Belt,20,South Alabama -5,-5.0,-10,5.0,5.0,10,-5.0,South Alabama,5.0
+749,401234610,2020,7,regular,2020-10-17,Georgia Tech,ACC,7,Clemson,ACC,73,Clemson -26.5,26.5,66,-39.5,-26.5,-66,39.5,Clemson,39.5
+804,401234611,2020,7,regular,2020-10-17,NC State,ACC,31,Duke,ACC,20,NC State -3.5,-3.5,-11,7.5,3.5,11,-7.5,NC State,7.5
+759,401234612,2020,7,regular,2020-10-17,Florida State,ACC,31,North Carolina,ACC,28,North Carolina -13.5,13.5,-3,16.5,-13.5,3,-16.5,Florida State,16.5
+754,401234613,2020,7,regular,2020-10-17,Notre Dame,FBS Independents,12,Louisville,ACC,7,Notre Dame -15.5,-15.5,-5,-10.5,15.5,5,10.5,Louisville,10.5
+770,401234614,2020,7,regular,2020-10-17,Miami,ACC,31,Pittsburgh,ACC,19,Miami -11.5,-11.5,-12,0.5,11.5,12,-0.5,Miami,0.5
+49,401234615,2020,7,regular,2020-10-17,Syracuse,ACC,21,Liberty,FBS Independents,38,Liberty -3,3.0,17,-14.0,-3.0,-17,14.0,Liberty,14.0
+814,401234616,2020,7,regular,2020-10-17,Wake Forest,ACC,40,Virginia,ACC,23,Wake Forest -2.5,-2.5,-17,14.5,2.5,17,-14.5,Wake Forest,14.5
+1792,401236007,2020,7,regular,2020-10-17,West Virginia,Big 12,38,Kansas,Big 12,17,West Virginia -21,-21.0,-21,0.0,21.0,21,-0.0,Kansas,0.0
+809,401237108,2020,7,regular,2020-10-17,Arkansas,SEC,33,Ole Miss,SEC,21,Arkansas -1,-1.0,-12,11.0,1.0,12,-11.0,Arkansas,11.0
+776,401237109,2020,7,regular,2020-10-17,South Carolina,SEC,30,Auburn,SEC,22,Auburn -2.5,2.5,-8,10.5,-2.5,8,-10.5,South Carolina,10.5
+781,401237111,2020,7,regular,2020-10-17,Tennessee,SEC,7,Kentucky,SEC,34,Tennessee -6.5,-6.5,27,-33.5,6.5,-27,33.5,Kentucky,33.5
+764,401237112,2020,7,regular,2020-10-17,Mississippi State,SEC,14,Texas A&M,SEC,28,Texas A&M -4.5,4.5,14,-9.5,-4.5,-14,9.5,Texas A&M,9.5
+1795,401239872,2020,7,regular,2020-10-17,Troy,Sun Belt,31,Eastern Kentucky,OVC,29,Troy -30,-30.0,-2,-28.0,30.0,2,28.0,Eastern Kentucky,28.0
+725,401240115,2020,7,regular,2020-10-17,UT San Antonio,Conference USA,16,Army,FBS Independents,28,Army -8.5,8.5,12,-3.5,-8.5,-12,3.5,Army,3.5
+1799,401250215,2020,7,regular,2020-10-17,Georgia Southern,Sun Belt,41,UMass,FBS Independents,0,Georgia Southern -31,-31.0,-41,10.0,31.0,41,-10.0,Georgia Southern,10.0
+787,401234609,2020,7,regular,2020-10-18,Virginia Tech,ACC,40,Boston College,ACC,14,Virginia Tech -13,-13.0,-26,13.0,13.0,26,-13.0,Virginia Tech,13.0
+2117,401237107,2020,7,regular,2020-10-18,Alabama,SEC,41,Georgia,SEC,24,Alabama -6,-6.0,-17,11.0,6.0,17,-11.0,Alabama,11.0
+825,401240642,2020,8,regular,2020-10-22,Appalachian State,Sun Belt,45,Arkansas State,Sun Belt,17,Appalachian State -13.5,-13.5,-28,14.5,13.5,28,-14.5,Appalachian State,14.5
+1805,401212479,2020,8,regular,2020-10-23,South Florida,American Athletic,13,Tulsa,American Athletic,42,Tulsa -12,12.0,29,-17.0,-12.0,-29,17.0,Tulsa,17.0
+1802,401250783,2020,8,regular,2020-10-23,Florida International,Conference USA,10,Jacksonville State,OVC,19,Florida International -10.5,-10.5,9,-19.5,10.5,-9,19.5,Jacksonville State,19.5
+861,401207102,2020,8,regular,2020-10-24,Western Kentucky,Conference USA,13,Chattanooga,Southern,10,Western Kentucky -14,-14.0,-3,-11.0,14.0,3,11.0,Chattanooga,11.0
+1899,401207154,2020,8,regular,2020-10-24,Charlotte,Conference USA,38,UTEP,Conference USA,28,Charlotte -17.5,-17.5,-10,-7.5,17.5,10,7.5,UTEP,7.5
+1887,401207156,2020,8,regular,2020-10-24,Marshall,Conference USA,20,Florida Atlantic,Conference USA,9,Marshall -19,-19.0,-11,-8.0,19.0,11,8.0,Florida Atlantic,8.0
+837,401207158,2020,8,regular,2020-10-24,Rice,Conference USA,34,Middle Tennessee,Conference USA,40,Rice -3.5,-3.5,6,-9.5,3.5,-6,9.5,Middle Tennessee,9.5
+1930,401207160,2020,8,regular,2020-10-24,Liberty,FBS Independents,56,Southern Mississippi,Conference USA,35,Liberty -14,-14.0,-21,7.0,14.0,21,-7.0,Liberty,7.0
+1905,401212516,2020,8,regular,2020-10-24,Memphis,American Athletic,41,Temple,American Athletic,29,Memphis -14,-14.0,-12,-2.0,14.0,12,2.0,Temple,2.0
+1936,401212524,2020,8,regular,2020-10-24,UCF,American Athletic,51,Tulane,American Athletic,34,UCF -21,-21.0,-17,-4.0,21.0,17,4.0,Tulane,4.0
+1941,401212552,2020,8,regular,2020-10-24,Navy,American Athletic,21,Houston,American Athletic,37,Houston -15.5,15.5,16,-0.5,-15.5,-16,0.5,Houston,0.5
+1893,401215316,2020,8,regular,2020-10-24,Coastal Carolina,Sun Belt,28,Georgia Southern,Sun Belt,14,Coastal Carolina -1,-1.0,-14,13.0,1.0,14,-13.0,Coastal Carolina,13.0
+1953,401215317,2020,8,regular,2020-10-24,Troy,Sun Belt,34,Georgia State,Sun Belt,36,Troy -2.5,-2.5,2,-4.5,2.5,-2,4.5,Georgia State,4.5
+55,401234617,2020,8,regular,2020-10-24,Boston College,ACC,48,Georgia Tech,ACC,27,Boston College -3.5,-3.5,-21,17.5,3.5,21,-17.5,Boston College,17.5
+1811,401234618,2020,8,regular,2020-10-24,Clemson,ACC,47,Syracuse,ACC,21,Clemson -47.5,-47.5,-26,-21.5,47.5,26,21.5,Syracuse,21.5
+1911,401234619,2020,8,regular,2020-10-24,Louisville,ACC,48,Florida State,ACC,16,Louisville -5.5,-5.5,-32,26.5,5.5,32,-26.5,Louisville,26.5
+1863,401234621,2020,8,regular,2020-10-24,North Carolina,ACC,48,NC State,ACC,21,North Carolina -15,-15.0,-27,12.0,15.0,27,-12.0,North Carolina,12.0
+1823,401234622,2020,8,regular,2020-10-24,Pittsburgh,ACC,3,Notre Dame,FBS Independents,45,Notre Dame -10,10.0,42,-32.0,-10.0,-42,32.0,Notre Dame,32.0
+1875,401234623,2020,8,regular,2020-10-24,Wake Forest,ACC,23,Virginia Tech,ACC,16,Virginia Tech -10.5,10.5,-7,17.5,-10.5,7,-17.5,Wake Forest,17.5
+831,401236008,2020,8,regular,2020-10-24,Texas,Big 12,27,Baylor,Big 12,16,Texas -11,-11.0,-11,0.0,11.0,11,-0.0,Baylor,0.0
+1835,401236009,2020,8,regular,2020-10-24,Oklahoma State,Big 12,24,Iowa State,Big 12,21,Oklahoma State -2.5,-2.5,-3,0.5,2.5,3,-0.5,Oklahoma State,0.5
+1881,401236010,2020,8,regular,2020-10-24,Kansas State,Big 12,55,Kansas,Big 12,14,Kansas State -19,-19.0,-41,22.0,19.0,41,-22.0,Kansas State,22.0
+1917,401236011,2020,8,regular,2020-10-24,TCU,Big 12,14,Oklahoma,Big 12,33,Oklahoma -6.5,6.5,19,-12.5,-6.5,-19,12.5,Oklahoma,12.5
+1964,401236012,2020,8,regular,2020-10-24,Texas Tech,Big 12,34,West Virginia,Big 12,27,West Virginia -2.5,2.5,-7,9.5,-2.5,7,-9.5,Texas Tech,9.5
+1817,401237114,2020,8,regular,2020-10-24,Tennessee,SEC,17,Alabama,SEC,48,Alabama -21.5,21.5,31,-9.5,-21.5,-31,9.5,Alabama,9.5
+1923,401237115,2020,8,regular,2020-10-24,Ole Miss,SEC,28,Auburn,SEC,35,Auburn -3.5,3.5,7,-3.5,-3.5,-7,3.5,Auburn,3.5
+1969,401237118,2020,8,regular,2020-10-24,LSU,SEC,52,South Carolina,SEC,24,LSU -4.5,-4.5,-28,23.5,4.5,28,-23.5,LSU,23.5
+1959,401237122,2020,8,regular,2020-10-24,Missouri,SEC,20,Kentucky,SEC,10,Kentucky -3,3.0,-10,13.0,-3.0,10,-13.0,Missouri,13.0
+2150,401238036,2020,8,regular,2020-10-24,UAB,Conference USA,20,Louisiana,Sun Belt,24,Louisiana -2.5,2.5,4,-1.5,-2.5,-4,1.5,Louisiana,1.5
+1829,401247293,2020,8,regular,2020-10-24,Ohio State,Big Ten,52,Nebraska,Big Ten,17,Ohio State -27.5,-27.5,-35,7.5,27.5,35,-7.5,Ohio State,7.5
+1869,401247294,2020,8,regular,2020-10-24,Minnesota,Big Ten,24,Michigan,Big Ten,49,Michigan -3,3.0,25,-22.0,-3.0,-25,22.0,Michigan,22.0
+1841,401247295,2020,8,regular,2020-10-24,Indiana,Big Ten,36,Penn State,Big Ten,35,Penn State -6.5,6.5,-1,7.5,-6.5,1,-7.5,Indiana,7.5
+1947,401247296,2020,8,regular,2020-10-24,Purdue,Big Ten,24,Iowa,Big Ten,20,Iowa -3.5,3.5,-4,7.5,-3.5,4,-7.5,Purdue,7.5
+118,401247297,2020,8,regular,2020-10-24,Wisconsin,Big Ten,45,Illinois,Big Ten,7,Wisconsin -20.5,-20.5,-38,17.5,20.5,38,-17.5,Wisconsin,17.5
+2144,401247298,2020,8,regular,2020-10-24,Northwestern,Big Ten,43,Maryland,Big Ten,3,Northwestern -13,-13.0,-40,27.0,13.0,40,-27.0,Northwestern,27.0
+307,401247299,2020,8,regular,2020-10-24,Michigan State,Big Ten,27,Rutgers,Big Ten,38,Michigan State -9.5,-9.5,11,-20.5,9.5,-11,20.5,Rutgers,20.5
+2128,401248994,2020,8,regular,2020-10-24,Fresno State,Mountain West,19,Hawai'i,Mountain West,34,Fresno State -3,-3.0,15,-18.0,3.0,-15,18.0,Hawai'i,18.0
+143,401248997,2020,8,regular,2020-10-24,Boise State,Mountain West,42,Utah State,Mountain West,13,Boise State -17,-17.0,-29,12.0,17.0,29,-12.0,Boise State,12.0
+1974,401248998,2020,8,regular,2020-10-24,Nevada,Mountain West,37,Wyoming,Mountain West,34,Wyoming -3,3.0,-3,6.0,-3.0,3,-6.0,Nevada,6.0
+1978,401250784,2020,8,regular,2020-10-24,South Alabama,Sun Belt,38,Louisiana Monroe,Sun Belt,14,South Alabama -14.5,-14.5,-24,9.5,14.5,24,-9.5,South Alabama,9.5
+663,401207157,2020,8,regular,2020-10-25,UT San Antonio,Conference USA,27,Louisiana Tech,Conference USA,26,Louisiana Tech -2.5,2.5,-1,3.5,-2.5,1,-3.5,UT San Antonio,3.5
+1847,401212488,2020,8,regular,2020-10-25,SMU,American Athletic,13,Cincinnati,American Athletic,42,SMU -1,-1.0,29,-30.0,1.0,-29,30.0,Cincinnati,30.0
+1852,401234620,2020,8,regular,2020-10-25,Miami,ACC,19,Virginia,ACC,14,Miami -13.5,-13.5,-5,-8.5,13.5,5,8.5,Virginia,8.5
+1857,401240998,2020,8,regular,2020-10-25,BYU,FBS Independents,52,Texas State,Sun Belt,14,BYU -30,-30.0,-38,8.0,30.0,38,-8.0,BYU,8.0
+2123,401248993,2020,8,regular,2020-10-25,San José State,Mountain West,17,Air Force,Mountain West,6,Air Force -7.5,7.5,-11,18.5,-7.5,11,-18.5,San José State,18.5
+2134,401248996,2020,8,regular,2020-10-25,San Diego State,Mountain West,34,UNLV,Mountain West,6,San Diego State -14,-14.0,-28,14.0,14.0,28,-14.0,San Diego State,14.0
+668,401215321,2020,9,regular,2020-10-29,Georgia Southern,Sun Belt,24,South Alabama,Sun Belt,17,Georgia Southern -3.5,-3.5,-7,3.5,3.5,7,-3.5,Georgia Southern,3.5
+2227,401247302,2020,9,regular,2020-10-30,Maryland,Big Ten,45,Minnesota,Big Ten,44,Minnesota -18.5,18.5,-1,19.5,-18.5,1,-19.5,Maryland,19.5
+2139,401249000,2020,9,regular,2020-10-30,Fresno State,Mountain West,38,Colorado State,Mountain West,17,Colorado State -2.5,2.5,-21,23.5,-2.5,21,-23.5,Fresno State,23.5
+2174,401207162,2020,9,regular,2020-10-31,Florida Atlantic,Conference USA,24,UT San Antonio,Conference USA,3,Florida Atlantic -5,-5.0,-21,16.0,5.0,21,-16.0,Florida Atlantic,16.0
+2194,401207163,2020,9,regular,2020-10-31,Louisiana Tech,Conference USA,37,UAB,Conference USA,34,UAB -13,13.0,-3,16.0,-13.0,3,-16.0,Louisiana Tech,16.0
+2205,401207166,2020,9,regular,2020-10-31,Southern Mississippi,Conference USA,6,Rice,Conference USA,30,Rice -1,1.0,24,-23.0,-1.0,-24,23.0,Rice,23.0
+952,401212489,2020,9,regular,2020-10-31,SMU,American Athletic,51,Navy,American Athletic,37,SMU -13,-13.0,-14,1.0,13.0,14,-1.0,SMU,1.0
+997,401212517,2020,9,regular,2020-10-31,Tulane,American Athletic,38,Temple,American Athletic,3,Tulane -7,-7.0,-35,28.0,7.0,35,-28.0,Tulane,28.0
+2210,401212533,2020,9,regular,2020-10-31,Tulsa,American Athletic,34,East Carolina,American Athletic,30,Tulsa -17,-17.0,-4,-13.0,17.0,4,13.0,East Carolina,13.0
+1003,401212538,2020,9,regular,2020-10-31,Houston,American Athletic,21,UCF,American Athletic,44,UCF -3,3.0,23,-20.0,-3.0,-23,20.0,UCF,20.0
+2221,401212543,2020,9,regular,2020-10-31,Cincinnati,American Athletic,49,Memphis,American Athletic,10,Cincinnati -6.5,-6.5,-39,32.5,6.5,39,-32.5,Cincinnati,32.5
+673,401215318,2020,9,regular,2020-10-31,Georgia State,Sun Belt,0,Coastal Carolina,Sun Belt,51,Coastal Carolina -3.5,3.5,51,-47.5,-3.5,-51,47.5,Coastal Carolina,47.5
+2200,401215319,2020,9,regular,2020-10-31,Louisiana Monroe,Sun Belt,13,Appalachian State,Sun Belt,31,Appalachian State -28.5,28.5,18,10.5,-28.5,-18,-10.5,Louisiana Monroe,10.5
+1009,401215320,2020,9,regular,2020-10-31,Arkansas State,Sun Belt,10,Troy,Sun Belt,38,Arkansas State -3.5,-3.5,28,-31.5,3.5,-28,31.5,Troy,31.5
+969,401234624,2020,9,regular,2020-10-31,Clemson,ACC,34,Boston College,ACC,28,Clemson -26.5,-26.5,-6,-20.5,26.5,6,20.5,Boston College,20.5
+61,401234625,2020,9,regular,2020-10-31,Duke,ACC,53,Charlotte,Conference USA,19,Duke -10.5,-10.5,-34,23.5,10.5,34,-23.5,Duke,23.5
+975,401234626,2020,9,regular,2020-10-31,Georgia Tech,ACC,13,Notre Dame,FBS Independents,31,Notre Dame -20.5,20.5,18,2.5,-20.5,-18,-2.5,Georgia Tech,2.5
+1069,401234627,2020,9,regular,2020-10-31,Louisville,ACC,35,Virginia Tech,ACC,42,Virginia Tech -5,5.0,7,-2.0,-5.0,-7,2.0,Virginia Tech,2.0
+67,401234629,2020,9,regular,2020-10-31,Syracuse,ACC,14,Wake Forest,ACC,38,Wake Forest -14,14.0,24,-10.0,-14.0,-24,10.0,Wake Forest,10.0
+1015,401236013,2020,9,regular,2020-10-31,Baylor,Big 12,23,TCU,Big 12,33,TCU -2.5,2.5,10,-7.5,-2.5,-10,7.5,TCU,7.5
+958,401236014,2020,9,regular,2020-10-31,Kansas,Big 12,22,Iowa State,Big 12,52,Iowa State -27.5,27.5,30,-2.5,-27.5,-30,2.5,Iowa State,2.5
+986,401236015,2020,9,regular,2020-10-31,West Virginia,Big 12,37,Kansas State,Big 12,10,West Virginia -5,-5.0,-27,22.0,5.0,27,-22.0,West Virginia,22.0
+936,401236017,2020,9,regular,2020-10-31,Oklahoma State,Big 12,34,Texas,Big 12,41,Oklahoma State -3.5,-3.5,7,-10.5,3.5,-7,10.5,Texas,10.5
+942,401237116,2020,9,regular,2020-10-31,Florida,SEC,41,Missouri,SEC,17,Florida -13.5,-13.5,-24,10.5,13.5,24,-10.5,Florida,10.5
+1051,401237117,2020,9,regular,2020-10-31,Kentucky,SEC,3,Georgia,SEC,14,Georgia -17,17.0,11,6.0,-17.0,-11,-6.0,Kentucky,6.0
+930,401237119,2020,9,regular,2020-10-31,Alabama,SEC,41,Mississippi State,SEC,0,Alabama -29.5,-29.5,-41,11.5,29.5,41,-11.5,Alabama,11.5
+981,401237120,2020,9,regular,2020-10-31,Texas A&M,SEC,42,Arkansas,SEC,31,Texas A&M -14.5,-14.5,-11,-3.5,14.5,11,3.5,Arkansas,3.5
+1021,401237121,2020,9,regular,2020-10-31,Auburn,SEC,48,LSU,SEC,11,Auburn -1,-1.0,-37,36.0,1.0,37,-36.0,Auburn,36.0
+964,401237123,2020,9,regular,2020-10-31,Vanderbilt,SEC,21,Ole Miss,SEC,54,Ole Miss -17,17.0,33,-16.0,-17.0,-33,16.0,Ole Miss,16.0
+2190,401247300,2020,9,regular,2020-10-31,Rutgers,Big Ten,21,Indiana,Big Ten,37,Indiana -11.5,11.5,16,-4.5,-11.5,-16,4.5,Indiana,4.5
+2179,401247301,2020,9,regular,2020-10-31,Illinois,Big Ten,24,Purdue,Big Ten,31,Purdue -9.5,9.5,7,2.5,-9.5,-7,-2.5,Illinois,2.5
+2185,401247303,2020,9,regular,2020-10-31,Iowa,Big Ten,20,Northwestern,Big Ten,21,Northwestern -1,1.0,1,0.0,-1.0,-1,-0.0,Northwestern,0.0
+1063,401247305,2020,9,regular,2020-10-31,Michigan,Big Ten,24,Michigan State,Big Ten,27,Michigan -21.5,-21.5,3,-24.5,21.5,-3,24.5,Michigan State,24.5
+2168,401247306,2020,9,regular,2020-10-31,Penn State,Big Ten,25,Ohio State,Big Ten,38,Ohio State -10,10.0,13,-3.0,-10.0,-13,3.0,Ohio State,3.0
+907,401248999,2020,9,regular,2020-10-31,Air Force,Mountain West,30,Boise State,Mountain West,49,Boise State -13.5,13.5,19,-5.5,-13.5,-19,5.5,Boise State,5.5
+902,401249001,2020,9,regular,2020-10-31,Wyoming,Mountain West,31,Hawai'i,Mountain West,7,Hawai'i -3,3.0,-24,27.0,-3.0,24,-27.0,Wyoming,27.0
+148,401249003,2020,9,regular,2020-10-31,New Mexico,Mountain West,21,San José State,Mountain West,38,New Mexico -13.5,-13.5,17,-30.5,13.5,-17,30.5,San José State,30.5
+2216,401215322,2020,9,regular,2020-11-01,Texas State,Sun Belt,34,Louisiana,Sun Belt,44,Louisiana -16.5,16.5,10,6.5,-16.5,-10,-6.5,Texas State,6.5
+947,401234628,2020,9,regular,2020-11-01,Virginia,ACC,44,North Carolina,ACC,41,North Carolina -7.5,7.5,-3,10.5,-7.5,3,-10.5,Virginia,10.5
+992,401236016,2020,9,regular,2020-11-01,Texas Tech,Big 12,28,Oklahoma,Big 12,62,Oklahoma -16,16.0,34,-18.0,-16.0,-34,18.0,Oklahoma,18.0
+1057,401239887,2020,9,regular,2020-11-01,BYU,FBS Independents,41,Western Kentucky,Conference USA,10,BYU -31,-31.0,-31,0.0,31.0,31,-0.0,Western Kentucky,0.0
+919,401249002,2020,9,regular,2020-11-01,UNLV,Mountain West,19,Nevada,Mountain West,37,Nevada -13.5,13.5,18,-4.5,-13.5,-18,4.5,Nevada,4.5
+913,401249004,2020,9,regular,2020-11-01,Utah State,Mountain West,7,San Diego State,Mountain West,38,San Diego State -9,9.0,31,-22.0,-9.0,-31,22.0,San Diego State,22.0
+1669,401249856,2020,10,regular,2020-11-04,Kent State,Mid-American,27,Eastern Michigan,Mid-American,23,Kent State -4.5,-4.5,-4,-0.5,4.5,4,0.5,Eastern Michigan,0.5
+2258,401249857,2020,10,regular,2020-11-04,Akron,Mid-American,13,Western Michigan,Mid-American,58,Western Michigan -20.5,20.5,45,-24.5,-20.5,-45,24.5,Western Michigan,24.5
+2248,401249858,2020,10,regular,2020-11-05,Toledo,Mid-American,38,Bowling Green,Mid-American,3,Toledo -24,-24.0,-35,11.0,24.0,35,-11.0,Toledo,11.0
+2611,401249859,2020,10,regular,2020-11-05,Northern Illinois,Mid-American,30,Buffalo,Mid-American,49,Buffalo -14.5,14.5,19,-4.5,-14.5,-19,4.5,Buffalo,4.5
+1074,401249860,2020,10,regular,2020-11-05,Central Michigan,Mid-American,30,Ohio,Mid-American,27,Ohio -2.5,2.5,-3,5.5,-2.5,3,-5.5,Central Michigan,5.5
+2253,401249889,2020,10,regular,2020-11-05,Miami (OH),Mid-American,38,Ball State,Mid-American,31,Ball State -1,1.0,-7,8.0,-1.0,7,-8.0,Miami (OH),8.0
+1632,401249009,2020,10,regular,2020-11-06,Nevada,Mountain West,34,Utah State,Mountain West,9,Nevada -17,-17.0,-25,8.0,17.0,25,-8.0,Nevada,8.0
+159,401249010,2020,10,regular,2020-11-06,Colorado State,Mountain West,34,Wyoming,Mountain West,24,Wyoming -3.5,3.5,-10,13.5,-3.5,10,-13.5,Colorado State,13.5
+2273,401207169,2020,10,regular,2020-11-07,Florida Atlantic,Conference USA,10,Western Kentucky,Conference USA,6,Florida Atlantic -7,-7.0,-4,-3.0,7.0,4,3.0,Western Kentucky,3.0
+1031,401212480,2020,10,regular,2020-11-07,Memphis,American Athletic,34,South Florida,American Athletic,33,Memphis -17.5,-17.5,-1,-16.5,17.5,1,16.5,South Florida,16.5
+1118,401212490,2020,10,regular,2020-11-07,Temple,American Athletic,23,SMU,American Athletic,47,SMU -17.5,17.5,24,-6.5,-17.5,-24,6.5,SMU,6.5
+1036,401212525,2020,10,regular,2020-11-07,East Carolina,American Athletic,21,Tulane,American Athletic,38,Tulane -3.5,3.5,17,-13.5,-3.5,-17,13.5,Tulane,13.5
+9,401212544,2020,10,regular,2020-11-07,Cincinnati,American Athletic,38,Houston,American Athletic,10,Cincinnati -12.5,-12.5,-28,15.5,12.5,28,-15.5,Cincinnati,15.5
+1046,401215324,2020,10,regular,2020-11-07,Texas State,Sun Belt,17,Appalachian State,Sun Belt,38,Appalachian State -21.5,21.5,21,0.5,-21.5,-21,-0.5,Texas State,0.5
+2283,401215326,2020,10,regular,2020-11-07,Georgia Southern,Sun Belt,20,Troy,Sun Belt,13,Troy -3,3.0,-7,10.0,-3.0,7,-10.0,Georgia Southern,10.0
+1041,401215327,2020,10,regular,2020-11-07,Georgia State,Sun Belt,52,Louisiana Monroe,Sun Belt,34,Georgia State -18.5,-18.5,-18,-0.5,18.5,18,0.5,Louisiana Monroe,0.5
+2550,401234630,2020,10,regular,2020-11-07,NC State,ACC,41,Miami,ACC,44,Miami -10.5,10.5,3,7.5,-10.5,-3,-7.5,NC State,7.5
+1177,401234631,2020,10,regular,2020-11-07,Syracuse,ACC,13,Boston College,ACC,16,Boston College -14.5,14.5,3,11.5,-14.5,-3,-11.5,Syracuse,11.5
+1132,401234633,2020,10,regular,2020-11-07,Duke,ACC,24,North Carolina,ACC,56,North Carolina -11.5,11.5,32,-20.5,-11.5,-32,20.5,North Carolina,20.5
+2298,401234634,2020,10,regular,2020-11-07,Florida State,ACC,17,Pittsburgh,ACC,41,Pittsburgh -1.5,1.5,24,-22.5,-1.5,-24,22.5,Pittsburgh,22.5
+2278,401234636,2020,10,regular,2020-11-07,Virginia Tech,ACC,35,Liberty,FBS Independents,38,Virginia Tech -17,-17.0,3,-20.0,17.0,-3,20.0,Liberty,20.0
+1156,401236019,2020,10,regular,2020-11-07,Oklahoma,Big 12,62,Kansas,Big 12,9,Oklahoma -38.5,-38.5,-53,14.5,38.5,53,-14.5,Oklahoma,14.5
+1151,401236020,2020,10,regular,2020-11-07,Kansas State,Big 12,18,Oklahoma State,Big 12,20,Oklahoma State -14,14.0,2,12.0,-14.0,-2,-12.0,Kansas State,12.0
+2288,401236021,2020,10,regular,2020-11-07,TCU,Big 12,34,Texas Tech,Big 12,18,TCU -9.5,-9.5,-16,6.5,9.5,16,-6.5,TCU,6.5
+1122,401236022,2020,10,regular,2020-11-07,Texas,Big 12,17,West Virginia,Big 12,13,Texas -6.5,-6.5,-4,-2.5,6.5,4,2.5,West Virginia,2.5
+1108,401237125,2020,10,regular,2020-11-07,Georgia,SEC,28,Florida,SEC,44,Georgia -3,-3.0,16,-19.0,3.0,-16,19.0,Florida,19.0
+2293,401237126,2020,10,regular,2020-11-07,Mississippi State,SEC,24,Vanderbilt,SEC,17,Mississippi State -18,-18.0,-7,-11.0,18.0,7,11.0,Vanderbilt,11.0
+1164,401240035,2020,10,regular,2020-11-07,Southern Mississippi,Conference USA,24,North Alabama,Big South,13,Southern Mississippi -17.5,-17.5,-11,-6.5,17.5,11,6.5,North Alabama,6.5
+2268,401247307,2020,10,regular,2020-11-07,Northwestern,Big Ten,21,Nebraska,Big Ten,13,Northwestern -4,-4.0,-8,4.0,4.0,8,-4.0,Northwestern,4.0
+1207,401247308,2020,10,regular,2020-11-07,Illinois,Big Ten,14,Minnesota,Big Ten,41,Minnesota -7.5,7.5,27,-19.5,-7.5,-27,19.5,Minnesota,19.5
+1146,401247309,2020,10,regular,2020-11-07,Indiana,Big Ten,38,Michigan,Big Ten,21,Michigan -4,4.0,-17,21.0,-4.0,17,-21.0,Indiana,21.0
+2263,401247312,2020,10,regular,2020-11-07,Penn State,Big Ten,19,Maryland,Big Ten,35,Penn State -27.5,-27.5,16,-43.5,27.5,-16,43.5,Maryland,43.5
+1127,401247313,2020,10,regular,2020-11-07,Iowa,Big Ten,49,Michigan State,Big Ten,7,Iowa -5.5,-5.5,-42,36.5,5.5,42,-36.5,Iowa,36.5
+1093,401249005,2020,10,regular,2020-11-07,Boise State,Mountain West,17,BYU,FBS Independents,51,BYU -4.5,4.5,34,-29.5,-4.5,-34,29.5,BYU,29.5
+1098,401249006,2020,10,regular,2020-11-07,UNLV,Mountain West,27,Fresno State,Mountain West,40,Fresno State -11.5,11.5,13,-1.5,-11.5,-13,1.5,Fresno State,1.5
+1197,401249008,2020,10,regular,2020-11-07,San Diego State,Mountain West,17,San José State,Mountain West,28,San Diego State -10.5,-10.5,11,-21.5,10.5,-11,21.5,San José State,21.5
+194,401249400,2020,10,regular,2020-11-07,USC,Pac-12,28,Arizona State,Pac-12,27,USC -11.5,-11.5,-1,-10.5,11.5,1,10.5,Arizona State,10.5
+684,401251931,2020,10,regular,2020-11-07,Marshall,Conference USA,51,UMass,FBS Independents,10,Marshall -44.5,-44.5,-41,-3.5,44.5,41,3.5,UMass,3.5
+1078,401253924,2020,10,regular,2020-11-07,Louisiana,Sun Belt,27,Arkansas State,Sun Belt,20,Louisiana -14.5,-14.5,-7,-7.5,14.5,7,7.5,Arkansas State,7.5
+1026,401215325,2020,10,regular,2020-11-08,Coastal Carolina,Sun Belt,23,South Alabama,Sun Belt,6,Coastal Carolina -17,-17.0,-17,0.0,17.0,17,-0.0,South Alabama,0.0
+679,401234632,2020,10,regular,2020-11-08,Notre Dame,FBS Independents,47,Clemson,ACC,40,Clemson -5,5.0,-7,12.0,-5.0,7,-12.0,Notre Dame,12.0
+1113,401236018,2020,10,regular,2020-11-08,Iowa State,Big 12,38,Baylor,Big 12,31,Iowa State -14,-14.0,-7,-7.0,14.0,7,7.0,Baylor,7.0
+1212,401237124,2020,10,regular,2020-11-08,Arkansas,SEC,24,Tennessee,SEC,13,Tennessee -2,2.0,-11,13.0,-2.0,11,-13.0,Arkansas,13.0
+1141,401237127,2020,10,regular,2020-11-08,South Carolina,SEC,3,Texas A&M,SEC,48,Texas A&M -9.5,9.5,45,-35.5,-9.5,-45,35.5,Texas A&M,35.5
+1137,401247310,2020,10,regular,2020-11-08,Ohio State,Big Ten,49,Rutgers,Big Ten,27,Ohio State -37.5,-37.5,-22,-15.5,37.5,22,15.5,Rutgers,15.5
+154,401249007,2020,10,regular,2020-11-08,Hawai'i,Mountain West,39,New Mexico,Mountain West,33,Hawai'i -14,-14.0,-6,-8.0,14.0,6,8.0,New Mexico,8.0
+1202,401249397,2020,10,regular,2020-11-08,Oregon State,Pac-12,28,Washington State,Pac-12,38,Oregon State -3,-3.0,10,-13.0,3.0,-10,13.0,Washington State,13.0
+2233,401249399,2020,10,regular,2020-11-08,Oregon,Pac-12,35,Stanford,Pac-12,14,Oregon -11.5,-11.5,-21,9.5,11.5,21,-9.5,Oregon,9.5
+1088,401249402,2020,10,regular,2020-11-08,Colorado,Pac-12,48,UCLA,Pac-12,42,UCLA -6.5,6.5,-6,12.5,-6.5,6,-12.5,Colorado,12.5
+1083,401249861,2020,11,regular,2020-11-11,Ohio,Mid-American,24,Akron,Mid-American,10,Ohio -27.5,-27.5,-14,-13.5,27.5,14,13.5,Akron,13.5
+1227,401249862,2020,11,regular,2020-11-11,Bowling Green,Mid-American,24,Kent State,Mid-American,62,Kent State -20.5,20.5,38,-17.5,-20.5,-38,17.5,Kent State,17.5
+1217,401249890,2020,11,regular,2020-11-11,Buffalo,Mid-American,42,Miami (OH),Mid-American,10,Buffalo -7.5,-7.5,-32,24.5,7.5,32,-24.5,Buffalo,24.5
+2521,401249864,2020,11,regular,2020-11-12,Northern Illinois,Mid-American,10,Central Michigan,Mid-American,40,Central Michigan -6,6.0,30,-24.0,-6.0,-30,24.0,Central Michigan,24.0
+1232,401249865,2020,11,regular,2020-11-12,Ball State,Mid-American,38,Eastern Michigan,Mid-American,31,Ball State -8.5,-8.5,-7,-1.5,8.5,7,1.5,Eastern Michigan,1.5
+1222,401249866,2020,11,regular,2020-11-12,Western Michigan,Mid-American,41,Toledo,Mid-American,38,Western Michigan -1.5,-1.5,-3,1.5,1.5,3,-1.5,Western Michigan,1.5
+1103,401249012,2020,11,regular,2020-11-13,Boise State,Mountain West,52,Colorado State,Mountain West,21,Boise State -14,-14.0,-31,17.0,14.0,31,-17.0,Boise State,17.0
+1182,401207174,2020,11,regular,2020-11-14,Florida International,Conference USA,19,Florida Atlantic,Conference USA,38,Florida Atlantic -9.5,9.5,19,-9.5,-9.5,-19,9.5,Florida Atlantic,9.5
+2308,401207176,2020,11,regular,2020-11-14,Marshall,Conference USA,42,Middle Tennessee,Conference USA,14,Marshall -23.5,-23.5,-28,4.5,23.5,28,-4.5,Marshall,4.5
+2324,401207178,2020,11,regular,2020-11-14,Western Kentucky,Conference USA,10,Southern Mississippi,Conference USA,7,Western Kentucky -7.5,-7.5,-3,-4.5,7.5,3,4.5,Southern Mississippi,4.5
+1291,401207179,2020,11,regular,2020-11-14,UT San Antonio,Conference USA,52,UTEP,Conference USA,21,UT San Antonio -6,-6.0,-31,25.0,6.0,31,-25.0,UT San Antonio,25.0
+1167,401207200,2020,11,regular,2020-11-14,Tulane,American Athletic,38,Army,FBS Independents,12,Tulane -3,-3.0,-26,23.0,3.0,26,-23.0,Tulane,23.0
+2311,401207218,2020,11,regular,2020-11-14,Liberty,FBS Independents,58,Western Carolina,Southern,14,Liberty -39,-39.0,-44,5.0,39.0,44,-5.0,Liberty,5.0
+1316,401212481,2020,11,regular,2020-11-14,Houston,American Athletic,56,South Florida,American Athletic,21,Houston -14.5,-14.5,-35,20.5,14.5,35,-20.5,Houston,20.5
+1172,401212545,2020,11,regular,2020-11-14,Cincinnati,American Athletic,55,East Carolina,American Athletic,17,Cincinnati -27.5,-27.5,-38,10.5,27.5,38,-10.5,Cincinnati,10.5
+1311,401215328,2020,11,regular,2020-11-14,Appalachian State,Sun Belt,17,Georgia State,Sun Belt,13,Appalachian State -17.5,-17.5,-4,-13.5,17.5,4,13.5,Georgia State,13.5
+2526,401215331,2020,11,regular,2020-11-14,Georgia Southern,Sun Belt,40,Texas State,Sun Belt,38,Georgia Southern -11.5,-11.5,-2,-9.5,11.5,2,9.5,Texas State,9.5
+1306,401215332,2020,11,regular,2020-11-14,Louisiana,Sun Belt,38,South Alabama,Sun Belt,10,Louisiana -14,-14.0,-28,14.0,14.0,28,-14.0,Louisiana,14.0
+73,401234637,2020,11,regular,2020-11-14,Boston College,ACC,31,Notre Dame,FBS Independents,45,Notre Dame -13,13.0,14,-1.0,-13.0,-14,1.0,Notre Dame,1.0
+2303,401234641,2020,11,regular,2020-11-14,Virginia Tech,ACC,24,Miami,ACC,25,Virginia Tech -2,-2.0,1,-3.0,2.0,-1,3.0,Miami,3.0
+1187,401234642,2020,11,regular,2020-11-14,North Carolina,ACC,59,Wake Forest,ACC,53,North Carolina -12.5,-12.5,-6,-6.5,12.5,6,6.5,Wake Forest,6.5
+1345,401236023,2020,11,regular,2020-11-14,Texas Tech,Big 12,24,Baylor,Big 12,23,Texas Tech -1,-1.0,-1,0.0,1.0,1,-0.0,Baylor,0.0
+1192,401236024,2020,11,regular,2020-11-14,West Virginia,Big 12,24,TCU,Big 12,6,West Virginia -3,-3.0,-18,15.0,3.0,18,-15.0,West Virginia,15.0
+1277,401237132,2020,11,regular,2020-11-14,Kentucky,SEC,38,Vanderbilt,SEC,35,Kentucky -17.5,-17.5,-3,-14.5,17.5,3,14.5,Vanderbilt,14.5
+1387,401247314,2020,11,regular,2020-11-14,Rutgers,Big Ten,20,Illinois,Big Ten,23,Rutgers -5.5,-5.5,3,-8.5,5.5,-3,8.5,Illinois,8.5
+1301,401247315,2020,11,regular,2020-11-14,Purdue,Big Ten,20,Northwestern,Big Ten,27,Northwestern -3.5,3.5,7,-3.5,-3.5,-7,3.5,Northwestern,3.5
+1237,401247316,2020,11,regular,2020-11-14,Michigan State,Big Ten,0,Indiana,Big Ten,24,Indiana -7.5,7.5,24,-16.5,-7.5,-24,16.5,Indiana,16.5
+1161,401247317,2020,11,regular,2020-11-14,Minnesota,Big Ten,7,Iowa,Big Ten,35,Iowa -3,3.0,28,-25.0,-3.0,-28,25.0,Iowa,25.0
+2653,401247320,2020,11,regular,2020-11-14,Nebraska,Big Ten,30,Penn State,Big Ten,23,Penn State -2.5,2.5,-7,9.5,-2.5,7,-9.5,Nebraska,9.5
+164,401249013,2020,11,regular,2020-11-14,Utah State,Mountain West,16,Fresno State,Mountain West,35,Fresno State -11,11.0,19,-8.0,-11.0,-19,8.0,Fresno State,8.0
+169,401249014,2020,11,regular,2020-11-14,San Diego State,Mountain West,34,Hawai'i,Mountain West,10,San Diego State -10,-10.0,-24,14.0,10.0,24,-14.0,San Diego State,14.0
+2314,401249015,2020,11,regular,2020-11-14,New Mexico,Mountain West,20,Nevada,Mountain West,27,Nevada -17.5,17.5,7,10.5,-17.5,-7,-10.5,New Mexico,10.5
+2238,401249403,2020,11,regular,2020-11-14,Arizona,Pac-12,30,USC,Pac-12,34,USC -15,15.0,4,11.0,-15.0,-4,-11.0,Arizona,11.0
+2243,401249406,2020,11,regular,2020-11-14,Stanford,Pac-12,32,Colorado,Pac-12,35,Stanford -9.5,-9.5,3,-12.5,9.5,-3,12.5,Colorado,12.5
+1320,401257934,2020,11,regular,2020-11-14,Virginia,ACC,31,Louisville,ACC,17,Virginia -6,-6.0,-14,8.0,6.0,14,-8.0,Virginia,8.0
+689,401212491,2020,11,regular,2020-11-15,Tulsa,American Athletic,28,SMU,American Athletic,24,SMU -2,2.0,-4,6.0,-2.0,4,-6.0,Tulsa,6.0
+1325,401212518,2020,11,regular,2020-11-15,UCF,American Athletic,38,Temple,American Athletic,13,UCF -28.5,-28.5,-25,-3.5,28.5,25,3.5,Temple,3.5
+1330,401234639,2020,11,regular,2020-11-15,NC State,ACC,38,Florida State,ACC,22,NC State -11.5,-11.5,-16,4.5,11.5,16,-4.5,NC State,4.5
+1362,401237129,2020,11,regular,2020-11-15,Florida,SEC,63,Arkansas,SEC,35,Florida -17,-17.0,-28,11.0,17.0,28,-11.0,Florida,11.0
+1335,401237133,2020,11,regular,2020-11-15,Ole Miss,SEC,59,South Carolina,SEC,42,Ole Miss -12.5,-12.5,-17,4.5,12.5,17,-4.5,Ole Miss,4.5
+1296,401247319,2020,11,regular,2020-11-15,Michigan,Big Ten,11,Wisconsin,Big Ten,49,Wisconsin -7,7.0,38,-31.0,-7.0,-38,31.0,Wisconsin,31.0
+174,401249016,2020,11,regular,2020-11-15,San José State,Mountain West,34,UNLV,Mountain West,17,San José State -17,-17.0,-17,0.0,17.0,17,-0.0,UNLV,0.0
+925,401249404,2020,11,regular,2020-11-15,Washington,Pac-12,27,Oregon State,Pac-12,21,Washington -13.5,-13.5,-6,-7.5,13.5,6,7.5,Oregon State,7.5
+199,401249405,2020,11,regular,2020-11-15,Washington State,Pac-12,29,Oregon,Pac-12,43,Oregon -10.5,10.5,14,-3.5,-10.5,-14,3.5,Oregon,3.5
+274,401261454,2020,12,regular,2020-11-15,UCLA,Pac-12,34,California,Pac-12,10,California -3.5,3.5,-24,27.5,-3.5,24,-27.5,UCLA,27.5
+234,401249867,2020,12,regular,2020-11-18,Kent State,Mid-American,69,Akron,Mid-American,35,Kent State -26,-26.0,-34,8.0,26.0,34,-8.0,Kent State,8.0
+1340,401249868,2020,12,regular,2020-11-18,Bowling Green,Mid-American,17,Buffalo,Mid-American,42,Buffalo -31.5,31.5,25,6.5,-31.5,-25,-6.5,Bowling Green,6.5
+2596,401249870,2020,12,regular,2020-11-19,Ball State,Mid-American,31,Northern Illinois,Mid-American,25,Ball State -14.5,-14.5,-6,-8.5,14.5,6,8.5,Northern Illinois,8.5
+1406,401249871,2020,12,regular,2020-11-19,Eastern Michigan,Mid-American,28,Toledo,Mid-American,45,Toledo -6.5,6.5,17,-10.5,-6.5,-17,10.5,Toledo,10.5
+1401,401249872,2020,12,regular,2020-11-19,Central Michigan,Mid-American,44,Western Michigan,Mid-American,52,Western Michigan -1,1.0,8,-7.0,-1.0,-8,7.0,Western Michigan,7.0
+2156,401212526,2020,12,regular,2020-11-20,Tulsa,American Athletic,30,Tulane,American Athletic,24,Tulsa -5,-5.0,-6,1.0,5.0,6,-1.0,Tulsa,1.0
+715,401207181,2020,12,regular,2020-11-21,Western Kentucky,Conference USA,38,Florida International,Conference USA,21,Western Kentucky -7,-7.0,-17,10.0,7.0,17,-10.0,Western Kentucky,10.0
+1983,401207184,2020,12,regular,2020-11-21,North Texas,Conference USA,27,Rice,Conference USA,17,North Texas -2.5,-2.5,-10,7.5,2.5,10,-7.5,North Texas,7.5
+1658,401207185,2020,12,regular,2020-11-21,Southern Mississippi,Conference USA,20,UT San Antonio,Conference USA,23,UT San Antonio -9,9.0,3,6.0,-9.0,-3,-6.0,Southern Mississippi,6.0
+297,401209818,2020,12,regular,2020-11-21,BYU,FBS Independents,66,North Alabama,Big South,14,BYU -50,-50.0,-52,2.0,50.0,52,-2.0,BYU,2.0
+875,401212519,2020,12,regular,2020-11-21,Temple,American Athletic,3,East Carolina,American Athletic,28,East Carolina -7,7.0,25,-18.0,-7.0,-25,18.0,East Carolina,18.0
+843,401212540,2020,12,regular,2020-11-21,UCF,American Athletic,33,Cincinnati,American Athletic,36,Cincinnati -4.5,4.5,3,1.5,-4.5,-3,-1.5,UCF,1.5
+848,401215333,2020,12,regular,2020-11-21,Coastal Carolina,Sun Belt,34,Appalachian State,Sun Belt,23,Coastal Carolina -3,-3.0,-11,8.0,3.0,11,-8.0,Coastal Carolina,8.0
+704,401215334,2020,12,regular,2020-11-21,Texas State,Sun Belt,47,Arkansas State,Sun Belt,45,Arkansas State -4.5,4.5,-2,6.5,-4.5,2,-6.5,Texas State,6.5
+1987,401215335,2020,12,regular,2020-11-21,South Alabama,Sun Belt,14,Georgia State,Sun Belt,31,Georgia State -3.5,3.5,17,-13.5,-3.5,-17,13.5,Georgia State,13.5
+2516,401234643,2020,12,regular,2020-11-21,Louisville,ACC,30,Syracuse,ACC,0,Louisville -19.5,-19.5,-30,10.5,19.5,30,-10.5,Louisville,10.5
+1992,401234648,2020,12,regular,2020-11-21,Pittsburgh,ACC,47,Virginia Tech,ACC,14,Virginia Tech -6.5,6.5,-33,39.5,-6.5,33,-39.5,Pittsburgh,39.5
+709,401235975,2020,12,regular,2020-11-21,Army,FBS Independents,28,Georgia Southern,Sun Belt,27,Army -3.5,-3.5,-1,-2.5,3.5,1,2.5,Georgia Southern,2.5
+858,401236025,2020,12,regular,2020-11-21,Iowa State,Big 12,45,Kansas State,Big 12,0,Iowa State -13.5,-13.5,-45,31.5,13.5,45,-31.5,Iowa State,31.5
+1372,401237135,2020,12,regular,2020-11-21,Alabama,SEC,63,Kentucky,SEC,3,Alabama -31.5,-31.5,-60,28.5,31.5,60,-28.5,Alabama,28.5
+1382,401237136,2020,12,regular,2020-11-21,Arkansas,SEC,24,LSU,SEC,27,LSU -1.5,1.5,3,-1.5,-1.5,-3,1.5,LSU,1.5
+2572,401237138,2020,12,regular,2020-11-21,Vanderbilt,SEC,17,Florida,SEC,38,Florida -31.5,31.5,21,10.5,-31.5,-21,-10.5,Vanderbilt,10.5
+865,401240641,2020,12,regular,2020-11-21,Troy,Sun Belt,17,Middle Tennessee,Conference USA,20,Troy -11,-11.0,3,-14.0,11.0,-3,14.0,Middle Tennessee,14.0
+123,401247321,2020,12,regular,2020-11-21,Nebraska,Big Ten,23,Illinois,Big Ten,41,Nebraska -16.5,-16.5,18,-34.5,16.5,-18,34.5,Illinois,34.5
+128,401247323,2020,12,regular,2020-11-21,Northwestern,Big Ten,17,Wisconsin,Big Ten,7,Wisconsin -7.5,7.5,-10,17.5,-7.5,10,-17.5,Northwestern,17.5
+2531,401247325,2020,12,regular,2020-11-21,Minnesota,Big Ten,34,Purdue,Big Ten,31,Purdue -2.5,2.5,-3,5.5,-2.5,3,-5.5,Minnesota,5.5
+1377,401247326,2020,12,regular,2020-11-21,Ohio State,Big Ten,42,Indiana,Big Ten,35,Ohio State -21,-21.0,-7,-14.0,21.0,7,14.0,Indiana,14.0
+2343,401247327,2020,12,regular,2020-11-21,Penn State,Big Ten,21,Iowa,Big Ten,41,Penn State -1,-1.0,20,-21.0,1.0,-20,21.0,Iowa,21.0
+712,401247374,2020,12,regular,2020-11-21,Memphis,American Athletic,56,Stephen F. Austin,Southland,14,Memphis -31,-31.0,-42,11.0,31.0,42,-11.0,Memphis,11.0
+2640,401248275,2020,12,regular,2020-11-21,Virginia,ACC,55,Abilene Christian,Southland,15,Virginia -38.5,-38.5,-40,1.5,38.5,40,-1.5,Virginia,1.5
+1367,401249018,2020,12,regular,2020-11-21,Air Force,Mountain West,28,New Mexico,Mountain West,0,Air Force -8,-8.0,-28,20.0,8.0,28,-20.0,Air Force,20.0
+2555,401249019,2020,12,regular,2020-11-21,Nevada,Mountain West,26,San Diego State,Mountain West,21,San Diego State -1.5,1.5,-5,6.5,-1.5,5,-6.5,Nevada,6.5
+204,401249411,2020,12,regular,2020-11-21,Oregon State,Pac-12,31,California,Pac-12,27,California -1,1.0,-4,5.0,-1.0,4,-5.0,Oregon State,5.0
+1396,401249415,2020,12,regular,2020-11-21,Oregon,Pac-12,38,UCLA,Pac-12,35,Oregon -17.5,-17.5,-3,-14.5,17.5,3,14.5,UCLA,14.5
+1411,401261674,2020,12,regular,2020-11-21,Florida Atlantic,Conference USA,24,UMass,FBS Independents,2,Florida Atlantic -34,-34.0,-22,-12.0,34.0,22,12.0,UMass,12.0
+694,401234647,2020,12,regular,2020-11-22,NC State,ACC,15,Liberty,FBS Independents,14,NC State -4,-4.0,-1,-3.0,4.0,1,3.0,Liberty,3.0
+1416,401236027,2020,12,regular,2020-11-22,Oklahoma,Big 12,41,Oklahoma State,Big 12,13,Oklahoma -6.5,-6.5,-28,21.5,6.5,28,-21.5,Oklahoma,21.5
+699,401237137,2020,12,regular,2020-11-22,Auburn,SEC,30,Tennessee,SEC,17,Auburn -10.5,-10.5,-13,2.5,10.5,13,-2.5,Auburn,2.5
+2338,401237139,2020,12,regular,2020-11-22,Georgia,SEC,31,Mississippi State,SEC,24,Georgia -26.5,-26.5,-7,-19.5,26.5,7,19.5,Mississippi State,19.5
+1997,401237141,2020,12,regular,2020-11-22,South Carolina,SEC,10,Missouri,SEC,17,Missouri -4.5,4.5,7,-2.5,-4.5,-7,2.5,Missouri,2.5
+2582,401247324,2020,12,regular,2020-11-22,Rutgers,Big Ten,42,Michigan,Big Ten,48,Michigan -12,12.0,6,6.0,-12.0,-6,-6.0,Rutgers,6.0
+2643,401249017,2020,12,regular,2020-11-22,Hawai'i,Mountain West,32,Boise State,Mountain West,40,Boise State -13.5,13.5,8,5.5,-13.5,-8,-5.5,Hawai'i,5.5
+1391,401249410,2020,12,regular,2020-11-22,Utah,Pac-12,17,USC,Pac-12,33,Utah -1,-1.0,16,-17.0,1.0,-16,17.0,USC,17.0
+1421,401249413,2020,12,regular,2020-11-22,Washington,Pac-12,44,Arizona,Pac-12,27,Washington -12,-12.0,-17,5.0,12.0,17,-5.0,Washington,5.0
+853,401212483,2020,13,regular,2020-11-27,South Florida,American Athletic,46,UCF,American Athletic,58,UCF -25,25.0,12,13.0,-25.0,-12,-13.0,South Florida,13.0
+870,401234650,2020,13,regular,2020-11-27,North Carolina,ACC,17,Notre Dame,FBS Independents,31,Notre Dame -4.5,4.5,14,-9.5,-4.5,-14,9.5,Notre Dame,9.5
+508,401236029,2020,13,regular,2020-11-27,Texas,Big 12,20,Iowa State,Big 12,23,Iowa State -1.5,1.5,3,-1.5,-1.5,-3,1.5,Iowa State,1.5
+2402,401247332,2020,13,regular,2020-11-27,Iowa,Big Ten,26,Nebraska,Big Ten,20,Iowa -12.5,-12.5,-6,-6.5,12.5,6,6.5,Nebraska,6.5
+2388,401249025,2020,13,regular,2020-11-27,Utah State,Mountain West,41,New Mexico,Mountain West,27,New Mexico -6,6.0,-14,20.0,-6.0,14,-20.0,Utah State,20.0
+1545,401249028,2020,13,regular,2020-11-27,UNLV,Mountain West,14,Wyoming,Mountain West,45,Wyoming -16.5,16.5,31,-14.5,-16.5,-31,14.5,Wyoming,14.5
+1550,401249417,2020,13,regular,2020-11-27,California,Pac-12,23,Stanford,Pac-12,24,Stanford -1.5,1.5,1,0.5,-1.5,-1,-0.5,California,0.5
+2407,401249874,2020,13,regular,2020-11-27,Eastern Michigan,Mid-American,23,Central Michigan,Mid-American,31,Central Michigan -6.5,6.5,8,-1.5,-6.5,-8,1.5,Central Michigan,1.5
+1520,401251926,2020,13,regular,2020-11-27,Liberty,FBS Independents,45,UMass,FBS Independents,0,Liberty -35.5,-35.5,-45,9.5,35.5,45,-9.5,Liberty,9.5
+2012,401207191,2020,13,regular,2020-11-28,UT San Antonio,Conference USA,49,North Texas,Conference USA,17,UT San Antonio -1,-1.0,-32,31.0,1.0,32,-31.0,UT San Antonio,31.0
+538,401212513,2020,13,regular,2020-11-28,East Carolina,American Athletic,52,SMU,American Athletic,38,SMU -11.5,11.5,-14,25.5,-11.5,14,-25.5,East Carolina,25.5
+2022,401215336,2020,13,regular,2020-11-28,Appalachian State,Sun Belt,47,Troy,Sun Belt,10,Appalachian State -14,-14.0,-37,23.0,14.0,37,-23.0,Appalachian State,23.0
+568,401215337,2020,13,regular,2020-11-28,Arkansas State,Sun Belt,31,South Alabama,Sun Belt,38,Arkansas State -7.5,-7.5,7,-14.5,7.5,-7,14.5,South Alabama,14.5
+563,401215338,2020,13,regular,2020-11-28,Texas State,Sun Belt,14,Coastal Carolina,Sun Belt,49,Coastal Carolina -16.5,16.5,35,-18.5,-16.5,-35,18.5,Coastal Carolina,18.5
+543,401215339,2020,13,regular,2020-11-28,Georgia State,Sun Belt,30,Georgia Southern,Sun Belt,24,Georgia State -2.5,-2.5,-6,3.5,2.5,6,-3.5,Georgia State,3.5
+2017,401215340,2020,13,regular,2020-11-28,Louisiana Monroe,Sun Belt,20,Louisiana,Sun Belt,70,Louisiana -29.5,29.5,50,-20.5,-29.5,-50,20.5,Louisiana,20.5
+78,401234649,2020,13,regular,2020-11-28,Boston College,ACC,34,Louisville,ACC,27,Boston College -1,-1.0,-7,6.0,1.0,7,-6.0,Boston College,6.0
+2002,401234651,2020,13,regular,2020-11-28,Clemson,ACC,52,Pittsburgh,ACC,17,Clemson -24,-24.0,-35,11.0,24.0,35,-11.0,Clemson,11.0
+83,401234655,2020,13,regular,2020-11-28,Syracuse,ACC,29,NC State,ACC,36,NC State -17,17.0,7,10.0,-17.0,-7,-10.0,Syracuse,10.0
+533,401236032,2020,13,regular,2020-11-28,Oklahoma State,Big 12,50,Texas Tech,Big 12,44,Oklahoma State -11.5,-11.5,-6,-5.5,11.5,6,5.5,Texas Tech,5.5
+513,401237142,2020,13,regular,2020-11-28,Alabama,SEC,42,Auburn,SEC,13,Alabama -24.5,-24.5,-29,4.5,24.5,29,-4.5,Alabama,4.5
+2007,401237143,2020,13,regular,2020-11-28,Missouri,SEC,41,Vanderbilt,SEC,0,Missouri -14,-14.0,-41,27.0,14.0,41,-27.0,Missouri,27.0
+523,401237144,2020,13,regular,2020-11-28,Florida,SEC,34,Kentucky,SEC,10,Florida -24,-24.0,-24,0.0,24.0,24,-0.0,Kentucky,0.0
+2027,401237147,2020,13,regular,2020-11-28,Ole Miss,SEC,31,Mississippi State,SEC,24,Ole Miss -9.5,-9.5,-7,-2.5,9.5,7,2.5,Mississippi State,2.5
+2393,401247328,2020,13,regular,2020-11-28,Purdue,Big Ten,30,Rutgers,Big Ten,37,Purdue -12.5,-12.5,7,-19.5,12.5,-7,19.5,Rutgers,19.5
+311,401247329,2020,13,regular,2020-11-28,Indiana,Big Ten,27,Maryland,Big Ten,11,Indiana -11.5,-11.5,-16,4.5,11.5,16,-4.5,Indiana,4.5
+2353,401247330,2020,13,regular,2020-11-28,Michigan State,Big Ten,29,Northwestern,Big Ten,20,Northwestern -13.5,13.5,-9,22.5,-13.5,9,-22.5,Michigan State,22.5
+133,401247333,2020,13,regular,2020-11-28,Michigan,Big Ten,17,Penn State,Big Ten,27,Michigan -1,-1.0,10,-11.0,1.0,-10,11.0,Penn State,11.0
+1565,401249418,2020,13,regular,2020-11-28,Oregon State,Pac-12,41,Oregon,Pac-12,38,Oregon -13,13.0,-3,16.0,-13.0,3,-16.0,Oregon State,16.0
+239,401249873,2020,13,regular,2020-11-28,Toledo,Mid-American,24,Ball State,Mid-American,27,Toledo -10,-10.0,3,-13.0,10.0,-3,13.0,Ball State,13.0
+244,401249875,2020,13,regular,2020-11-28,Western Michigan,Mid-American,30,Northern Illinois,Mid-American,27,Western Michigan -18.5,-18.5,-3,-15.5,18.5,3,15.5,Northern Illinois,15.5
+1525,401249876,2020,13,regular,2020-11-28,Ohio,Mid-American,52,Bowling Green,Mid-American,10,Ohio -22.5,-22.5,-42,19.5,22.5,42,-19.5,Ohio,19.5
+1555,401249877,2020,13,regular,2020-11-28,Buffalo,Mid-American,70,Kent State,Mid-American,41,Buffalo -7.5,-7.5,-29,21.5,7.5,29,-21.5,Buffalo,21.5
+269,401249892,2020,13,regular,2020-11-28,Akron,Mid-American,7,Miami (OH),Mid-American,38,Miami (OH) -14,14.0,31,-17.0,-14.0,-31,17.0,Miami (OH),17.0
+2383,401265734,2020,13,regular,2020-11-28,Colorado,Pac-12,20,San Diego State,Mountain West,10,Colorado -5,-5.0,-10,5.0,5.0,10,-5.0,Colorado,5.0
+2032,401234652,2020,13,regular,2020-11-29,Georgia Tech,ACC,56,Duke,ACC,33,Duke -2.5,2.5,-23,25.5,-2.5,23,-25.5,Georgia Tech,25.5
+2037,401236028,2020,13,regular,2020-11-29,Baylor,Big 12,32,Kansas State,Big 12,31,Baylor -5.5,-5.5,-1,-4.5,5.5,1,4.5,Kansas State,4.5
+88,401236030,2020,13,regular,2020-11-29,Kansas,Big 12,23,TCU,Big 12,59,TCU -23,23.0,36,-13.0,-23.0,-36,13.0,TCU,13.0
+528,401237145,2020,13,regular,2020-11-29,South Carolina,SEC,16,Georgia,SEC,45,Georgia -22,22.0,29,-7.0,-22.0,-29,7.0,Georgia,7.0
+518,401237146,2020,13,regular,2020-11-29,Texas A&M,SEC,20,LSU,SEC,7,Texas A&M -15.5,-15.5,-13,-2.5,15.5,13,2.5,LSU,2.5
+1560,401249024,2020,13,regular,2020-11-29,Hawai'i,Mountain West,24,Nevada,Mountain West,21,Nevada -7,7.0,-3,10.0,-7.0,3,-10.0,Hawai'i,10.0
+209,401249421,2020,13,regular,2020-11-29,UCLA,Pac-12,27,Arizona,Pac-12,10,UCLA -7.5,-7.5,-17,9.5,7.5,17,-9.5,UCLA,9.5
+2348,401264080,2020,13,regular,2020-11-29,Navy,American Athletic,7,Memphis,American Athletic,10,Memphis -13.5,13.5,3,10.5,-13.5,-3,-10.5,Navy,10.5
+2042,401265458,2020,13,regular,2020-11-29,Washington,Pac-12,24,Utah,Pac-12,21,Washington -9,-9.0,-3,-6.0,9.0,3,6.0,Utah,6.0
+2047,401265703,2020,14,regular,2020-12-03,North Texas,Conference USA,31,Louisiana Tech,Conference USA,42,Louisiana Tech -1,1.0,11,-10.0,-1.0,-11,10.0,Louisiana Tech,10.0
+1530,401249029,2020,14,regular,2020-12-04,Utah State,Mountain West,7,Air Force,Mountain West,35,Air Force -13.5,13.5,28,-14.5,-13.5,-28,14.5,Air Force,14.5
+2077,401234656,2020,14,regular,2020-12-05,Virginia,ACC,43,Boston College,ACC,32,Virginia -6,-6.0,-11,5.0,6.0,11,-5.0,Virginia,5.0
+2082,401234659,2020,14,regular,2020-12-05,NC State,ACC,23,Georgia Tech,ACC,13,NC State -7,-7.0,-10,3.0,7.0,10,-3.0,NC State,3.0
+2358,401234662,2020,14,regular,2020-12-05,Notre Dame,FBS Independents,45,Syracuse,ACC,21,Notre Dame -34,-34.0,-24,-10.0,34.0,24,10.0,Syracuse,10.0
+2052,401236034,2020,14,regular,2020-12-05,Iowa State,Big 12,42,West Virginia,Big 12,6,Iowa State -6,-6.0,-36,30.0,6.0,36,-30.0,Iowa State,30.0
+2067,401236035,2020,14,regular,2020-12-05,Texas Tech,Big 12,16,Kansas,Big 12,13,Texas Tech -26.5,-26.5,-3,-23.5,26.5,3,23.5,Kansas,23.5
+2072,401236036,2020,14,regular,2020-12-05,Kansas State,Big 12,31,Texas,Big 12,69,Texas -7.5,7.5,38,-30.5,-7.5,-38,30.5,Texas,30.5
+2062,401236037,2020,14,regular,2020-12-05,TCU,Big 12,29,Oklahoma State,Big 12,22,Oklahoma State -2.5,2.5,-7,9.5,-2.5,7,-9.5,TCU,9.5
+2621,401237150,2020,14,regular,2020-12-05,Auburn,SEC,20,Texas A&M,SEC,31,Texas A&M -6,6.0,11,-5.0,-6.0,-11,5.0,Texas A&M,5.0
+2363,401237151,2020,14,regular,2020-12-05,Tennessee,SEC,19,Florida,SEC,31,Florida -18,18.0,12,6.0,-18.0,-12,-6.0,Tennessee,6.0
+2057,401237514,2020,14,regular,2020-12-05,Coastal Carolina,Sun Belt,22,BYU,FBS Independents,17,BYU -10.5,10.5,-5,15.5,-10.5,5,-15.5,Coastal Carolina,15.5
+729,401247335,2020,14,regular,2020-12-05,Purdue,Big Ten,27,Nebraska,Big Ten,37,Purdue -1,-1.0,10,-11.0,1.0,-10,11.0,Nebraska,11.0
+734,401247336,2020,14,regular,2020-12-05,Rutgers,Big Ten,7,Penn State,Big Ten,23,Penn State -13,13.0,16,-3.0,-13.0,-16,3.0,Penn State,3.0
+1350,401247337,2020,14,regular,2020-12-05,Illinois,Big Ten,21,Iowa,Big Ten,35,Iowa -13.5,13.5,14,-0.5,-13.5,-14,0.5,Iowa,0.5
+1430,401247338,2020,14,regular,2020-12-05,Wisconsin,Big Ten,6,Indiana,Big Ten,14,Wisconsin -13.5,-13.5,8,-21.5,13.5,-8,21.5,Indiana,21.5
+2560,401247340,2020,14,regular,2020-12-05,Michigan State,Big Ten,12,Ohio State,Big Ten,52,Ohio State -22.5,22.5,40,-17.5,-22.5,-40,17.5,Ohio State,17.5
+1358,401248781,2020,14,regular,2020-12-05,North Carolina,ACC,49,Western Carolina,Southern,9,North Carolina -48.5,-48.5,-40,-8.5,48.5,40,8.5,Western Carolina,8.5
+184,401249033,2020,14,regular,2020-12-05,San José State,Mountain West,35,Hawai'i,Mountain West,24,Hawai'i -2.5,2.5,-11,13.5,-2.5,11,-13.5,San José State,13.5
+1355,401249424,2020,14,regular,2020-12-05,Washington,Pac-12,26,Stanford,Pac-12,31,Washington -12,-12.0,5,-17.0,12.0,-5,17.0,Stanford,17.0
+249,401249878,2020,14,regular,2020-12-05,Central Michigan,Mid-American,20,Ball State,Mid-American,45,Ball State -2.5,2.5,25,-22.5,-2.5,-25,22.5,Ball State,22.5
+254,401249879,2020,14,regular,2020-12-05,Western Michigan,Mid-American,42,Eastern Michigan,Mid-American,53,Western Michigan -13.5,-13.5,11,-24.5,13.5,-11,24.5,Eastern Michigan,24.5
+259,401249880,2020,14,regular,2020-12-05,Northern Illinois,Mid-American,24,Toledo,Mid-American,41,Toledo -9.5,9.5,17,-7.5,-9.5,-17,7.5,Toledo,7.5
+264,401249881,2020,14,regular,2020-12-05,Akron,Mid-American,31,Bowling Green,Mid-American,3,Akron -2.5,-2.5,-28,25.5,2.5,28,-25.5,Akron,25.5
+2397,401252117,2020,14,regular,2020-12-05,Appalachian State,Sun Belt,21,Louisiana,Sun Belt,24,Appalachian State -3,-3.0,3,-6.0,3.0,-3,6.0,Louisiana,6.0
+1470,401257812,2020,14,regular,2020-12-05,Marshall,Conference USA,0,Rice,Conference USA,20,Marshall -24.5,-24.5,20,-44.5,24.5,-20,44.5,Rice,44.5
+1482,401261675,2020,14,regular,2020-12-05,Georgia Southern,Sun Belt,20,Florida Atlantic,Conference USA,3,Florida Atlantic -2.5,2.5,-17,19.5,-2.5,17,-19.5,Georgia Southern,19.5
+1477,401262493,2020,14,regular,2020-12-05,Arkansas State,Sun Belt,48,Louisiana Monroe,Sun Belt,15,Arkansas State -20,-20.0,-33,13.0,20.0,33,-13.0,Arkansas State,13.0
+1474,401262494,2020,14,regular,2020-12-05,South Alabama,Sun Belt,0,Troy,Sun Belt,29,Troy -4,4.0,29,-25.0,-4.0,-29,25.0,Troy,25.0
+2436,401264082,2020,14,regular,2020-12-05,Tulane,American Athletic,35,Memphis,American Athletic,21,Tulane -3,-3.0,-14,11.0,3.0,14,-11.0,Tulane,11.0
+2450,401264083,2020,14,regular,2020-12-05,Navy,American Athletic,6,Tulsa,American Athletic,19,Tulsa -12,12.0,13,-1.0,-12.0,-13,1.0,Tulsa,1.0
+1535,401265818,2020,14,regular,2020-12-05,Missouri,SEC,50,Arkansas,SEC,48,Missouri -2.5,-2.5,-2,-0.5,2.5,2,0.5,Arkansas,0.5
+2432,401234657,2020,14,regular,2020-12-06,Virginia Tech,ACC,10,Clemson,ACC,45,Clemson -23,23.0,35,-12.0,-23.0,-35,12.0,Clemson,12.0
+1465,401236033,2020,14,regular,2020-12-06,Oklahoma,Big 12,27,Baylor,Big 12,14,Oklahoma -23.5,-23.5,-13,-10.5,23.5,13,10.5,Baylor,10.5
+2087,401237153,2020,14,regular,2020-12-06,Kentucky,SEC,41,South Carolina,SEC,18,Kentucky -11.5,-11.5,-23,11.5,11.5,23,-11.5,Kentucky,11.5
+179,401249031,2020,14,regular,2020-12-06,San Diego State,Mountain West,29,Colorado State,Mountain West,17,San Diego State -7.5,-7.5,-12,4.5,7.5,12,-4.5,San Diego State,4.5
+1487,401249032,2020,14,regular,2020-12-06,Nevada,Mountain West,37,Fresno State,Mountain West,26,Nevada -6.5,-6.5,-11,4.5,6.5,11,-4.5,Nevada,4.5
+316,401249034,2020,14,regular,2020-12-06,New Mexico,Mountain West,17,Wyoming,Mountain West,16,Wyoming -15.5,15.5,-1,16.5,-15.5,1,-16.5,New Mexico,16.5
+1445,401249422,2020,14,regular,2020-12-06,Utah,Pac-12,30,Oregon State,Pac-12,24,Utah -14,-14.0,-6,-8.0,14.0,6,8.0,Oregon State,8.0
+1450,401249423,2020,14,regular,2020-12-06,California,Pac-12,21,Oregon,Pac-12,17,Oregon -9,9.0,-4,13.0,-9.0,4,-13.0,California,13.0
+214,401249425,2020,14,regular,2020-12-06,Arizona State,Pac-12,18,UCLA,Pac-12,25,Arizona State -2.5,-2.5,7,-9.5,2.5,-7,9.5,UCLA,9.5
+219,401249426,2020,14,regular,2020-12-06,Arizona,Pac-12,13,Colorado,Pac-12,24,Colorado -9.5,9.5,11,-1.5,-9.5,-11,1.5,Colorado,1.5
+2412,401265817,2020,14,regular,2020-12-06,LSU,SEC,17,Alabama,SEC,55,Alabama -28.5,28.5,38,-9.5,-28.5,-38,9.5,Alabama,9.5
+2417,401266134,2020,14,regular,2020-12-06,Duke,ACC,0,Miami,ACC,48,Miami -14.5,14.5,48,-33.5,-14.5,-48,33.5,Miami,33.5
+2455,401266789,2020,14,regular,2020-12-06,Charlotte,Conference USA,19,Western Kentucky,Conference USA,37,Charlotte -2.5,-2.5,18,-20.5,2.5,-18,20.5,Western Kentucky,20.5
+1570,401249427,2020,14,regular,2020-12-07,USC,Pac-12,38,Washington State,Pac-12,13,USC -11,-11.0,-25,14.0,11.0,25,-14.0,USC,14.0
+2329,401257813,2020,15,regular,2020-12-10,Southern Mississippi,Conference USA,45,Florida Atlantic,Conference USA,31,Florida Atlantic -9.5,9.5,-14,23.5,-9.5,14,-23.5,Southern Mississippi,23.5
+1492,401257816,2020,15,regular,2020-12-11,UTEP,Conference USA,43,North Texas,Conference USA,45,UTEP -10,-10.0,2,-12.0,10.0,-2,12.0,North Texas,12.0
+1425,401261245,2020,15,regular,2020-12-11,Georgia Tech,ACC,20,Pittsburgh,ACC,34,Pittsburgh -7.5,7.5,14,-6.5,-7.5,-14,6.5,Pittsburgh,6.5
+2097,401207203,2020,15,regular,2020-12-12,Army,FBS Independents,15,Navy,American Athletic,0,Army -7.5,-7.5,-15,7.5,7.5,15,-7.5,Army,7.5
+1257,401215309,2020,15,regular,2020-12-12,Georgia Southern,Sun Belt,26,Appalachian State,Sun Belt,34,Appalachian State -9.5,9.5,8,1.5,-9.5,-8,-1.5,Georgia Southern,1.5
+2092,401234661,2020,15,regular,2020-12-12,Miami,ACC,26,North Carolina,ACC,62,Miami -3,-3.0,36,-39.0,3.0,-36,39.0,North Carolina,39.0
+2319,401247342,2020,15,regular,2020-12-12,Maryland,Big Ten,24,Rutgers,Big Ten,27,Maryland -3,-3.0,3,-6.0,3.0,-3,6.0,Rutgers,6.0
+1435,401247344,2020,15,regular,2020-12-12,Northwestern,Big Ten,28,Illinois,Big Ten,10,Northwestern -13.5,-13.5,-18,4.5,13.5,18,-4.5,Northwestern,4.5
+138,401247345,2020,15,regular,2020-12-12,Nebraska,Big Ten,17,Minnesota,Big Ten,24,Nebraska -9.5,-9.5,7,-16.5,9.5,-7,16.5,Minnesota,16.5
+1242,401247346,2020,15,regular,2020-12-12,Penn State,Big Ten,39,Michigan State,Big Ten,24,Penn State -14.5,-14.5,-15,0.5,14.5,15,-0.5,Penn State,0.5
+1505,401247347,2020,15,regular,2020-12-12,Iowa,Big Ten,28,Wisconsin,Big Ten,7,Wisconsin -2,2.0,-21,23.0,-2.0,21,-23.0,Iowa,23.0
+1262,401249035,2020,15,regular,2020-12-12,Wyoming,Mountain West,9,Boise State,Mountain West,17,Boise State -9.5,9.5,8,1.5,-9.5,-8,-1.5,Wyoming,1.5
+1440,401249037,2020,15,regular,2020-12-12,San José State,Mountain West,30,Nevada,Mountain West,20,Nevada -2.5,2.5,-10,12.5,-2.5,10,-12.5,San José State,12.5
+224,401249428,2020,15,regular,2020-12-12,Colorado,Pac-12,21,Utah,Pac-12,38,Utah -2.5,2.5,17,-14.5,-2.5,-17,14.5,Utah,14.5
+229,401249429,2020,15,regular,2020-12-12,Arizona,Pac-12,7,Arizona State,Pac-12,70,Arizona State -9,9.0,63,-54.0,-9.0,-63,54.0,Arizona State,54.0
+1247,401249883,2020,15,regular,2020-12-12,Toledo,Mid-American,24,Central Michigan,Mid-American,23,Toledo -11,-11.0,-1,-10.0,11.0,1,10.0,Central Michigan,10.0
+1267,401249884,2020,15,regular,2020-12-12,Eastern Michigan,Mid-American,41,Northern Illinois,Mid-American,33,Eastern Michigan -6.5,-6.5,-8,1.5,6.5,8,-1.5,Eastern Michigan,1.5
+1272,401249885,2020,15,regular,2020-12-12,Ball State,Mid-American,30,Western Michigan,Mid-American,27,Western Michigan -2,2.0,-3,5.0,-2.0,3,-5.0,Ball State,5.0
+1252,401249886,2020,15,regular,2020-12-12,Buffalo,Mid-American,56,Akron,Mid-American,7,Buffalo -33,-33.0,-49,16.0,33.0,49,-16.0,Buffalo,16.0
+1540,401250713,2020,15,regular,2020-12-12,Baylor,Big 12,3,Oklahoma State,Big 12,42,Oklahoma State -6,6.0,39,-33.0,-6.0,-39,33.0,Oklahoma State,33.0
+1515,401257815,2020,15,regular,2020-12-12,Rice,Conference USA,16,UAB,Conference USA,21,UAB -7,7.0,5,2.0,-7.0,-5,-2.0,Rice,2.0
+1501,401259671,2020,15,regular,2020-12-12,Troy,Sun Belt,38,Coastal Carolina,Sun Belt,42,Coastal Carolina -12.5,12.5,4,8.5,-12.5,-4,-8.5,Troy,8.5
+1627,401264084,2020,15,regular,2020-12-12,Memphis,American Athletic,30,Houston,American Athletic,27,Houston -6.5,6.5,-3,9.5,-6.5,3,-9.5,Memphis,9.5
+2460,401266694,2020,15,regular,2020-12-12,Florida State,ACC,56,Duke,ACC,35,Florida State -3,-3.0,-21,18.0,3.0,21,-18.0,Florida State,18.0
+2440,401266696,2020,15,regular,2020-12-12,Louisville,ACC,45,Wake Forest,ACC,21,Louisville -2.5,-2.5,-24,21.5,2.5,24,-21.5,Louisville,21.5
+2480,401267161,2020,15,regular,2020-12-12,Missouri,SEC,14,Georgia,SEC,49,Georgia -14,14.0,35,-21.0,-14.0,-35,21.0,Georgia,21.0
+2485,401267163,2020,15,regular,2020-12-12,Vanderbilt,SEC,17,Tennessee,SEC,42,Tennessee -14.5,14.5,25,-10.5,-14.5,-25,10.5,Tennessee,10.5
+2475,401267164,2020,15,regular,2020-12-12,Arkansas,SEC,3,Alabama,SEC,52,Alabama -30,30.0,49,-19.0,-30.0,-49,19.0,Alabama,19.0
+2102,401234572,2020,15,regular,2020-12-13,Virginia Tech,ACC,33,Virginia,ACC,15,Virginia Tech -3,-3.0,-18,15.0,3.0,18,-15.0,Virginia Tech,15.0
+321,401249036,2020,15,regular,2020-12-13,New Mexico,Mountain West,49,Fresno State,Mountain West,39,Fresno State -14.5,14.5,-10,24.5,-14.5,10,-24.5,New Mexico,24.5
+189,401249038,2020,15,regular,2020-12-13,Hawai'i,Mountain West,38,UNLV,Mountain West,21,Hawai'i -18.5,-18.5,-17,-1.5,18.5,17,1.5,UNLV,1.5
+1455,401249431,2020,15,regular,2020-12-13,UCLA,Pac-12,38,USC,Pac-12,43,USC -3.5,3.5,5,-1.5,-3.5,-5,1.5,USC,1.5
+1460,401249432,2020,15,regular,2020-12-13,Oregon State,Pac-12,24,Stanford,Pac-12,27,Stanford -2.5,2.5,3,-0.5,-2.5,-3,0.5,Stanford,0.5
+1510,401249435,2020,15,regular,2020-12-13,BYU,FBS Independents,28,San Diego State,Mountain West,14,BYU -16.5,-16.5,-14,-2.5,16.5,14,2.5,San Diego State,2.5
+1496,401251100,2020,15,regular,2020-12-13,Florida,SEC,34,LSU,SEC,37,Florida -23,-23.0,3,-26.0,23.0,-3,26.0,LSU,26.0
+1281,401260157,2020,15,regular,2020-12-13,Mississippi State,SEC,10,Auburn,SEC,24,Auburn -5.5,5.5,14,-8.5,-5.5,-14,8.5,Auburn,8.5
+2465,401266711,2020,15,regular,2020-12-13,TCU,Big 12,52,Louisiana Tech,Conference USA,10,TCU -21.5,-21.5,-42,20.5,21.5,42,-20.5,TCU,20.5
+2512,401240101,2020,16,regular,2020-12-19,Marshall,Conference USA,13,UAB,Conference USA,22,Marshall -4.5,-4.5,9,-13.5,4.5,-9,13.5,UAB,13.5
+2616,401247349,2020,16,regular,2020-12-19,Ohio State,Big Ten,22,Northwestern,Big Ten,10,Ohio State -16.5,-16.5,-12,-4.5,16.5,12,4.5,Northwestern,4.5
+2445,401249043,2020,16,regular,2020-12-19,San José State,Mountain West,34,Boise State,Mountain West,20,Boise State -6.5,6.5,-14,20.5,-6.5,14,-20.5,San José State,20.5
+2504,401249434,2020,16,regular,2020-12-19,USC,Pac-12,24,Oregon,Pac-12,31,USC -3,-3.0,7,-10.0,3.0,-7,10.0,Oregon,10.0
+2500,401249854,2020,16,regular,2020-12-19,Buffalo,Mid-American,28,Ball State,Mid-American,38,Buffalo -12.5,-12.5,10,-22.5,12.5,-10,22.5,Ball State,22.5
+2577,401256001,2020,16,regular,2020-12-19,Notre Dame,FBS Independents,10,Clemson,ACC,34,Clemson -11,11.0,24,-13.0,-11.0,-24,13.0,Clemson,13.0
+1286,401260158,2020,16,regular,2020-12-19,Tennessee,SEC,13,Texas A&M,SEC,34,Texas A&M -13.5,13.5,21,-7.5,-13.5,-21,7.5,Texas A&M,7.5
+2373,401262060,2020,16,regular,2020-12-19,Iowa State,Big 12,21,Oklahoma,Big 12,27,Oklahoma -5.5,5.5,6,-0.5,-5.5,-6,0.5,Oklahoma,0.5
+2470,401265699,2020,16,regular,2020-12-19,Army,FBS Independents,10,Air Force,Mountain West,7,Air Force -2.5,2.5,-3,5.5,-2.5,3,-5.5,Army,5.5
+2490,401267165,2020,16,regular,2020-12-19,LSU,SEC,53,Ole Miss,SEC,48,Ole Miss -1,1.0,-5,6.0,-1.0,5,-6.0,LSU,6.0
+2495,401267166,2020,16,regular,2020-12-19,Mississippi State,SEC,51,Missouri,SEC,32,Missouri -1.5,1.5,-19,20.5,-1.5,19,-20.5,Mississippi State,20.5
+2422,401269375,2020,16,regular,2020-12-19,Utah,Pac-12,45,Washington State,Pac-12,28,Utah -11.5,-11.5,-17,5.5,11.5,17,-5.5,Utah,5.5
+289,401269381,2020,16,regular,2020-12-19,Penn State,Big Ten,56,Illinois,Big Ten,21,Penn State -16,-16.0,-35,19.0,16.0,35,-19.0,Penn State,19.0
+2508,401269382,2020,16,regular,2020-12-19,Rutgers,Big Ten,21,Nebraska,Big Ten,28,Nebraska -6.5,6.5,7,-0.5,-6.5,-7,0.5,Nebraska,0.5
+2427,401269384,2020,16,regular,2020-12-19,Wisconsin,Big Ten,20,Minnesota,Big Ten,17,Wisconsin -10.5,-10.5,-3,-7.5,10.5,3,7.5,Minnesota,7.5
+2368,401237074,2020,16,regular,2020-12-20,Florida,SEC,46,Alabama,SEC,52,Alabama -16,16.0,6,10.0,-16.0,-6,-10.0,Florida,10.0
+2378,401264085,2020,16,regular,2020-12-20,Cincinnati,American Athletic,27,Tulsa,American Athletic,24,Cincinnati -13.5,-13.5,-3,-10.5,13.5,3,10.5,Tulsa,10.5
+279,401269376,2020,16,regular,2020-12-20,UCLA,Pac-12,47,Stanford,Pac-12,48,UCLA -6.5,-6.5,1,-7.5,6.5,-1,7.5,Stanford,7.5
+284,401269378,2020,16,regular,2020-12-20,Oregon State,Pac-12,33,Arizona State,Pac-12,46,Arizona State -7.5,7.5,13,-5.5,-7.5,-13,5.5,Arizona State,5.5

@@ -1,0 +1,770 @@
+,id,season,week,season_type,date,home_team,home_conference,home_score,away_team,away_conference,away_score,formatted_spread,home_spread,home_result,home_diff,away_spread,away_result,away_diff,covering_team,vegas_error
+3504,401013357,2018,1,regular,2018-08-25,UMass,FBS Independents,63,Duquesne,NEC,15,UMass -21,-21.0,-48,27.0,21.0,48,-27.0,UMass,27.0
+3442,401014972,2018,1,regular,2018-08-25,Rice,Conference USA,31,Prairie View,SWAC,28,Rice -22.5,-22.5,-3,-19.5,22.5,3,19.5,Prairie View,19.5
+3444,401022510,2018,1,regular,2018-08-25,Colorado State,Mountain West,34,Hawai'i,Mountain West,43,Colorado State -17,-17.0,9,-26.0,17.0,-9,26.0,Hawai'i,26.0
+3450,401019470,2018,1,regular,2018-08-30,Connecticut,American Athletic,17,UCF,American Athletic,56,UCF -22.5,22.5,39,-16.5,-22.5,-39,16.5,UCF,16.5
+3424,401020671,2018,1,regular,2018-08-30,Ball State,Mid-American,42,Central Connecticut,NEC,6,Ball State -19.5,-19.5,-36,16.5,19.5,36,-16.5,Ball State,16.5
+3466,401012258,2018,1,regular,2018-08-31,Texas A&M,SEC,59,Northwestern State,Southland,7,Texas A&M -47,-47.0,-52,5.0,47.0,52,-5.0,Texas A&M,5.0
+3426,401012675,2018,1,regular,2018-08-31,Utah,Pac-12,41,Weber State,Big Sky,10,Utah -30.5,-30.5,-31,0.5,30.5,31,-0.5,Utah,0.5
+402,401012880,2018,1,regular,2018-08-31,Michigan State,Big Ten,38,Utah State,Mountain West,31,Michigan State -23.5,-23.5,-7,-16.5,23.5,7,16.5,Utah State,16.5
+3428,401013086,2018,1,regular,2018-08-31,Tulane,American Athletic,17,Wake Forest,ACC,23,Wake Forest -7.5,7.5,6,1.5,-7.5,-6,-1.5,Tulane,1.5
+414,401013089,2018,1,regular,2018-08-31,Duke,ACC,34,Army,FBS Independents,14,Duke -14,-14.0,-20,6.0,14.0,20,-6.0,Duke,6.0
+3432,401013342,2018,1,regular,2018-08-31,Purdue,Big Ten,27,Northwestern,Big Ten,31,Purdue -1,-1.0,4,-5.0,1.0,-4,5.0,Northwestern,5.0
+3435,401013489,2018,1,regular,2018-08-31,Oklahoma State,Big 12,58,Missouri State,MVFC,17,Oklahoma State -46,-46.0,-41,-5.0,46.0,41,5.0,Missouri State,5.0
+3436,401014979,2018,1,regular,2018-08-31,UAB,Conference USA,52,Savannah State,MEAC,0,UAB -39,-39.0,-52,13.0,39.0,52,-13.0,UAB,13.0
+3473,401020672,2018,1,regular,2018-08-31,Eastern Michigan,Mid-American,51,Monmouth,Big South,17,Eastern Michigan -23.5,-23.5,-34,10.5,23.5,34,-10.5,Eastern Michigan,10.5
+410,401020673,2018,1,regular,2018-08-31,Western Michigan,Mid-American,42,Syracuse,ACC,55,Syracuse -5,5.0,13,-8.0,-5.0,-13,8.0,Syracuse,8.0
+3465,401021655,2018,1,regular,2018-08-31,Louisiana Monroe,Sun Belt,34,Southeastern Louisiana,Southland,31,Louisiana Monroe -21,-21.0,-3,-18.0,21.0,3,18.0,Southeastern Louisiana,18.0
+3483,401012247,2018,1,regular,2018-09-01,Arkansas,SEC,55,Eastern Illinois,OVC,20,Arkansas -35,-35.0,-35,0.0,35.0,35,-0.0,Eastern Illinois,0.0
+3070,401012248,2018,1,regular,2018-09-01,Auburn,SEC,21,Washington,Pac-12,16,Auburn -1,-1.0,-5,4.0,1.0,5,-4.0,Auburn,4.0
+3474,401012249,2018,1,regular,2018-09-01,Florida,SEC,53,Charleston Southern,Big South,6,Florida -43,-43.0,-47,4.0,43.0,47,-4.0,Florida,4.0
+3481,401012250,2018,1,regular,2018-09-01,Georgia,SEC,45,Austin Peay,OVC,0,Georgia -48,-48.0,-45,-3.0,48.0,45,3.0,Austin Peay,3.0
+3055,401012253,2018,1,regular,2018-09-01,Texas Tech,Big 12,27,Ole Miss,SEC,47,Ole Miss -1.5,1.5,20,-18.5,-1.5,-20,18.5,Ole Miss,18.5
+44,401012254,2018,1,regular,2018-09-01,Mississippi State,SEC,63,Stephen F. Austin,Southland,6,Mississippi State -47.5,-47.5,-57,9.5,47.5,57,-9.5,Mississippi State,9.5
+3484,401012255,2018,1,regular,2018-09-01,Missouri,SEC,51,UT Martin,OVC,14,Missouri -35,-35.0,-37,2.0,35.0,37,-2.0,Missouri,2.0
+2919,401012256,2018,1,regular,2018-09-01,South Carolina,SEC,49,Coastal Carolina,Sun Belt,15,South Carolina -30.5,-30.5,-34,3.5,30.5,34,-3.5,South Carolina,3.5
+3295,401012257,2018,1,regular,2018-09-01,Tennessee,SEC,14,West Virginia,Big 12,40,West Virginia -10,10.0,26,-16.0,-10.0,-26,16.0,West Virginia,16.0
+60,401012259,2018,1,regular,2018-09-01,Vanderbilt,SEC,35,Middle Tennessee,Conference USA,7,Vanderbilt -3,-3.0,-28,25.0,3.0,28,-25.0,Vanderbilt,25.0
+3165,401012678,2018,1,regular,2018-09-01,USC,Pac-12,43,UNLV,Mountain West,21,USC -25,-25.0,-22,-3.0,25.0,22,3.0,UNLV,3.0
+418,401012680,2018,1,regular,2018-09-01,Colorado State,Mountain West,13,Colorado,Pac-12,45,Colorado State -7,-7.0,32,-39.0,7.0,-32,39.0,Colorado,39.0
+3126,401012682,2018,1,regular,2018-09-01,Ohio State,Big Ten,77,Oregon State,Pac-12,31,Ohio State -40,-40.0,-46,6.0,40.0,46,-6.0,Ohio State,6.0
+2801,401012683,2018,1,regular,2018-09-01,Wyoming,Mountain West,19,Washington State,Pac-12,41,Washington State -3,3.0,22,-19.0,-3.0,-22,19.0,Washington State,19.0
+3102,401012684,2018,1,regular,2018-09-01,California,Pac-12,24,North Carolina,ACC,17,California -7,-7.0,-7,0.0,7.0,7,-0.0,North Carolina,0.0
+3098,401012804,2018,1,regular,2018-09-01,Illinois,Big Ten,31,Kent State,Mid-American,24,Illinois -18,-18.0,-7,-11.0,18.0,7,11.0,Kent State,11.0
+513,401012820,2018,1,regular,2018-09-01,Rutgers,Big Ten,35,Texas State,Sun Belt,7,Rutgers -16.5,-16.5,-28,11.5,16.5,28,-11.5,Rutgers,11.5
+3002,401012851,2018,1,regular,2018-09-01,Florida International,Conference USA,28,Indiana,Big Ten,38,Indiana -13,13.0,10,3.0,-13.0,-10,-3.0,Florida International,3.0
+3405,401012862,2018,1,regular,2018-09-01,Iowa,Big Ten,33,Northern Illinois,Mid-American,7,Iowa -9.5,-9.5,-26,16.5,9.5,26,-16.5,Iowa,16.5
+422,401012872,2018,1,regular,2018-09-01,Maryland,Big Ten,34,Texas,Big 12,29,Texas -13,13.0,-5,18.0,-13.0,5,-18.0,Maryland,18.0
+2850,401012888,2018,1,regular,2018-09-01,Notre Dame,FBS Independents,24,Michigan,Big Ten,17,Michigan -3,3.0,-7,10.0,-3.0,7,-10.0,Notre Dame,10.0
+3467,401013048,2018,1,regular,2018-09-01,Kansas,Big 12,23,Nicholls,Southland,26,Kansas -8,-8.0,3,-11.0,8.0,-3,11.0,Nicholls,11.0
+3512,401013057,2018,1,regular,2018-09-01,Kansas State,Big 12,27,South Dakota,MVFC,24,Kansas State -24,-24.0,-3,-21.0,24.0,3,21.0,South Dakota,21.0
+3082,401013065,2018,1,regular,2018-09-01,Oklahoma,Big 12,63,Florida Atlantic,Conference USA,14,Oklahoma -19,-19.0,-49,30.0,19.0,49,-30.0,Oklahoma,30.0
+2971,401013072,2018,1,regular,2018-09-01,TCU,Big 12,55,Southern,SWAC,7,TCU -49,-49.0,-48,-1.0,49.0,48,1.0,Southern,1.0
+3387,401013087,2018,1,regular,2018-09-01,Boston College,ACC,55,UMass,FBS Independents,21,Boston College -20.5,-20.5,-34,13.5,20.5,34,-13.5,Boston College,13.5
+3488,401013088,2018,1,regular,2018-09-01,Clemson,ACC,48,Furman,Southern,7,Clemson -50.5,-50.5,-41,-9.5,50.5,41,9.5,Furman,9.5
+3403,401013090,2018,1,regular,2018-09-01,Georgia Tech,ACC,41,Alcorn State,SWAC,0,Georgia Tech -43,-43.0,-41,-2.0,43.0,41,2.0,Alcorn State,2.0
+3498,401013091,2018,1,regular,2018-09-01,NC State,ACC,24,James Madison,CAA,13,NC State -14.5,-14.5,-11,-3.5,14.5,11,3.5,James Madison,3.5
+3402,401013092,2018,1,regular,2018-09-01,Pittsburgh,ACC,33,Albany,CAA,7,Pittsburgh -27,-27.0,-26,-1.0,27.0,26,1.0,Albany,1.0
+3500,401013094,2018,1,regular,2018-09-01,Virginia,ACC,42,Richmond,CAA,13,Virginia -14.5,-14.5,-29,14.5,14.5,29,-14.5,Virginia,14.5
+3051,401013349,2018,1,regular,2018-09-01,Penn State,Big Ten,45,Appalachian State,Sun Belt,38,Penn State -24.5,-24.5,-7,-17.5,24.5,7,17.5,Appalachian State,17.5
+3439,401013354,2018,1,regular,2018-09-01,Wisconsin,Big Ten,34,Western Kentucky,Conference USA,3,Wisconsin -36,-36.0,-31,-5.0,36.0,31,5.0,Western Kentucky,5.0
+48,401013448,2018,1,regular,2018-09-01,Liberty,FBS Independents,52,Old Dominion,Conference USA,10,Old Dominion -5,5.0,-42,47.0,-5.0,42,-47.0,Liberty,47.0
+3461,401014973,2018,1,regular,2018-09-01,Charlotte,Conference USA,34,Fordham,Patriot,10,Charlotte -16.5,-16.5,-24,7.5,16.5,24,-7.5,Charlotte,7.5
+53,401014974,2018,1,regular,2018-09-01,South Alabama,Sun Belt,26,Louisiana Tech,Conference USA,30,Louisiana Tech -10.5,10.5,4,6.5,-10.5,-4,-6.5,South Alabama,6.5
+3417,401014975,2018,1,regular,2018-09-01,Miami (OH),Mid-American,28,Marshall,Conference USA,35,Miami (OH) -1.5,-1.5,7,-8.5,1.5,-7,8.5,Marshall,8.5
+3090,401014976,2018,1,regular,2018-09-01,North Texas,Conference USA,46,SMU,American Athletic,23,North Texas -3.5,-3.5,-23,19.5,3.5,23,-19.5,North Texas,19.5
+2939,401014977,2018,1,regular,2018-09-01,Rice,Conference USA,27,Houston,American Athletic,45,Houston -26,26.0,18,8.0,-26.0,-18,-8.0,Rice,8.0
+3010,401014978,2018,1,regular,2018-09-01,Southern Mississippi,Conference USA,55,Jackson State,SWAC,7,Southern Mississippi -33,-33.0,-48,15.0,33.0,48,-15.0,Southern Mississippi,15.0
+427,401014980,2018,1,regular,2018-09-01,UTEP,Conference USA,10,Northern Arizona,Big Sky,30,Northern Arizona -7,7.0,20,-13.0,-7.0,-20,13.0,Northern Arizona,13.0
+3501,401019472,2018,1,regular,2018-09-01,South Florida,American Athletic,34,Elon,CAA,14,South Florida -27,-27.0,-20,-7.0,27.0,20,7.0,Elon,7.0
+425,401019473,2018,1,regular,2018-09-01,Temple,American Athletic,17,Villanova,CAA,19,Temple -15,-15.0,2,-17.0,15.0,-2,17.0,Villanova,17.0
+3468,401019476,2018,1,regular,2018-09-01,Tulsa,American Athletic,38,Central Arkansas,Southland,27,Tulsa -11.5,-11.5,-11,-0.5,11.5,11,0.5,Central Arkansas,0.5
+3516,401020675,2018,1,regular,2018-09-01,Ohio,Mid-American,38,Howard,MEAC,32,Ohio -31,-31.0,-6,-25.0,31.0,6,25.0,Howard,25.0
+56,401020676,2018,1,regular,2018-09-01,Toledo,Mid-American,66,VMI,Southern,3,Toledo -48.5,-48.5,-63,14.5,48.5,63,-14.5,Toledo,14.5
+57,401021652,2018,1,regular,2018-09-01,Arkansas State,Sun Belt,48,Southeast Missouri State,OVC,21,Arkansas State -32.5,-32.5,-27,-5.5,32.5,27,5.5,Southeast Missouri State,5.5
+426,401021653,2018,1,regular,2018-09-01,Georgia Southern,Sun Belt,37,South Carolina State,MEAC,6,Georgia Southern -28,-28.0,-31,3.0,28.0,31,-3.0,Georgia Southern,3.0
+58,401021654,2018,1,regular,2018-09-01,Louisiana,Sun Belt,49,Grambling,SWAC,17,Louisiana -14,-14.0,-32,18.0,14.0,32,-18.0,Louisiana,18.0
+3413,401021656,2018,1,regular,2018-09-01,Troy,Sun Belt,20,Boise State,Mountain West,56,Boise State -9.5,9.5,36,-26.5,-9.5,-36,26.5,Boise State,26.5
+406,401022512,2018,1,regular,2018-09-01,Stanford,Pac-12,31,San Diego State,Mountain West,10,Stanford -14,-14.0,-21,7.0,14.0,21,-7.0,Stanford,7.0
+3499,401022514,2018,1,regular,2018-09-01,Air Force,Mountain West,38,Stony Brook,CAA,0,Air Force -14.5,-14.5,-38,23.5,14.5,38,-23.5,Air Force,23.5
+592,401022517,2018,1,regular,2018-09-01,Nevada,Mountain West,72,Portland State,Big Sky,19,Nevada -28,-28.0,-53,25.0,28.0,53,-25.0,Nevada,25.0
+3421,401012246,2018,1,regular,2018-09-02,Alabama,SEC,51,Louisville,ACC,14,Alabama -24,-24.0,-37,13.0,24.0,37,-13.0,Alabama,13.0
+3134,401012676,2018,1,regular,2018-09-02,Arizona,Pac-12,23,BYU,FBS Independents,28,Arizona -11,-11.0,5,-16.0,11.0,-5,16.0,BYU,16.0
+3130,401012677,2018,1,regular,2018-09-02,Arizona State,Pac-12,49,UT San Antonio,Conference USA,7,Arizona State -17.5,-17.5,-42,24.5,17.5,42,-24.5,Arizona State,24.5
+2893,401012681,2018,1,regular,2018-09-02,Oregon,Pac-12,58,Bowling Green,Mid-American,24,Oregon -34,-34.0,-34,0.0,34.0,34,-0.0,Bowling Green,0.0
+3469,401013026,2018,1,regular,2018-09-02,Baylor,Big 12,55,Abilene Christian,Southland,27,Baylor -41,-41.0,-28,-13.0,41.0,28,13.0,Abilene Christian,13.0
+3359,401013095,2018,1,regular,2018-09-02,LSU,SEC,33,Miami,ACC,17,Miami -3,3.0,-16,19.0,-3.0,16,-19.0,LSU,19.0
+3363,401019475,2018,1,regular,2018-09-02,Hawai'i,Mountain West,59,Navy,American Athletic,41,Navy -13.5,13.5,-18,31.5,-13.5,18,-31.5,Hawai'i,31.5
+3470,401022515,2018,1,regular,2018-09-02,New Mexico,Mountain West,62,Incarnate Word,Southland,30,New Mexico -36,-36.0,-32,-4.0,36.0,32,4.0,Incarnate Word,4.0
+2979,401022516,2018,1,regular,2018-09-02,Fresno State,Mountain West,79,Idaho,Big Sky,13,Fresno State -24.5,-24.5,-66,41.5,24.5,66,-41.5,Fresno State,41.5
+3517,401079833,2018,1,regular,2018-09-02,East Carolina,American Athletic,23,North Carolina A&T,MEAC,28,East Carolina -13,-13.0,5,-18.0,13.0,-5,18.0,North Carolina A&T,18.0
+3221,401013096,2018,1,regular,2018-09-04,Florida State,ACC,3,Virginia Tech,ACC,24,Florida State -7,-7.0,21,-28.0,7.0,-21,28.0,Virginia Tech,28.0
+429,401012260,2018,2,regular,2018-09-08,Alabama,SEC,57,Arkansas State,Sun Belt,7,Alabama -37,-37.0,-50,13.0,37.0,50,-13.0,Alabama,13.0
+2897,401012261,2018,2,regular,2018-09-08,Colorado State,Mountain West,34,Arkansas,SEC,27,Arkansas -14,14.0,-7,21.0,-14.0,7,-21.0,Colorado State,21.0
+2407,401012262,2018,2,regular,2018-09-08,Auburn,SEC,63,Alabama State,SWAC,9,Auburn -62,-62.0,-54,-8.0,62.0,54,8.0,Alabama State,8.0
+2990,401012263,2018,2,regular,2018-09-08,Florida,SEC,16,Kentucky,SEC,27,Florida -13.5,-13.5,11,-24.5,13.5,-11,24.5,Kentucky,24.5
+2408,401012264,2018,2,regular,2018-09-08,LSU,SEC,31,Southeastern Louisiana,Southland,0,LSU -42,-42.0,-31,-11.0,42.0,31,11.0,Southeastern Louisiana,11.0
+2543,401012265,2018,2,regular,2018-09-08,Ole Miss,SEC,76,Southern Illinois,MVFC,41,Ole Miss -28,-28.0,-35,7.0,28.0,35,-7.0,Ole Miss,7.0
+3074,401012266,2018,2,regular,2018-09-08,Kansas State,Big 12,10,Mississippi State,SEC,31,Mississippi State -7,7.0,21,-14.0,-7.0,-21,14.0,Mississippi State,14.0
+2835,401012267,2018,2,regular,2018-09-08,Missouri,SEC,40,Wyoming,Mountain West,13,Missouri -19.5,-19.5,-27,7.5,19.5,27,-7.5,Missouri,7.5
+3086,401012268,2018,2,regular,2018-09-08,South Carolina,SEC,17,Georgia,SEC,41,Georgia -9,9.0,24,-15.0,-9.0,-24,15.0,Georgia,15.0
+65,401012269,2018,2,regular,2018-09-08,Tennessee,SEC,59,East Tennessee State,Southern,3,Tennessee -37,-37.0,-56,19.0,37.0,56,-19.0,Tennessee,19.0
+433,401012270,2018,2,regular,2018-09-08,Texas A&M,SEC,26,Clemson,ACC,28,Clemson -12.5,12.5,2,10.5,-12.5,-2,-10.5,Texas A&M,10.5
+2805,401012271,2018,2,regular,2018-09-08,Vanderbilt,SEC,41,Nevada,Mountain West,10,Vanderbilt -10,-10.0,-31,21.0,10.0,31,-21.0,Vanderbilt,21.0
+3078,401012726,2018,2,regular,2018-09-08,Houston,American Athletic,45,Arizona,Pac-12,18,Houston -3.5,-3.5,-27,23.5,3.5,27,-23.5,Houston,23.5
+2968,401012728,2018,2,regular,2018-09-08,Oklahoma,Big 12,49,UCLA,Pac-12,21,Oklahoma -31,-31.0,-28,-3.0,31.0,28,3.0,UCLA,3.0
+2906,401012729,2018,2,regular,2018-09-08,Nebraska,Big Ten,28,Colorado,Pac-12,33,Nebraska -3.5,-3.5,5,-8.5,3.5,-5,8.5,Colorado,8.5
+949,401012730,2018,2,regular,2018-09-08,Northern Illinois,Mid-American,6,Utah,Pac-12,17,Utah -12,12.0,11,1.0,-12.0,-11,-1.0,Northern Illinois,1.0
+2980,401012731,2018,2,regular,2018-09-08,Oregon,Pac-12,62,Portland State,Big Sky,14,Oregon -49.5,-49.5,-48,-1.5,49.5,48,1.5,Portland State,1.5
+2943,401012821,2018,2,regular,2018-09-08,Ohio State,Big Ten,52,Rutgers,Big Ten,3,Ohio State -35.5,-35.5,-49,13.5,35.5,49,-13.5,Ohio State,13.5
+2977,401012852,2018,2,regular,2018-09-08,Indiana,Big Ten,20,Virginia,ACC,16,Indiana -5,-5.0,-4,-1.0,5.0,4,1.0,Virginia,1.0
+3006,401012863,2018,2,regular,2018-09-08,Iowa,Big Ten,13,Iowa State,Big 12,3,Iowa -3.5,-3.5,-10,6.5,3.5,10,-6.5,Iowa,6.5
+67,401012873,2018,2,regular,2018-09-08,Bowling Green,Mid-American,14,Maryland,Big Ten,45,Maryland -14,14.0,31,-17.0,-14.0,-31,17.0,Maryland,17.0
+2866,401012889,2018,2,regular,2018-09-08,Michigan,Big Ten,49,Western Michigan,Mid-American,3,Michigan -28,-28.0,-46,18.0,28.0,46,-18.0,Michigan,18.0
+943,401013027,2018,2,regular,2018-09-08,UT San Antonio,Conference USA,20,Baylor,Big 12,37,Baylor -17,17.0,17,0.0,-17.0,-17,-0.0,Baylor,0.0
+3299,401013098,2018,2,regular,2018-09-08,Northwestern,Big Ten,7,Duke,ACC,21,Northwestern -2.5,-2.5,14,-16.5,2.5,-14,16.5,Duke,16.5
+947,401013099,2018,2,regular,2018-09-08,Florida State,ACC,36,Samford,Southern,26,Florida State -33,-33.0,-10,-23.0,33.0,10,23.0,Samford,23.0
+2994,401013100,2018,2,regular,2018-09-08,South Florida,American Athletic,49,Georgia Tech,ACC,38,Georgia Tech -3,3.0,-11,14.0,-3.0,11,-14.0,South Florida,14.0
+2410,401013102,2018,2,regular,2018-09-08,Miami,ACC,77,Savannah State,MEAC,0,Miami -62,-62.0,-77,15.0,62.0,77,-15.0,Miami,15.0
+3138,401013103,2018,2,regular,2018-09-08,East Carolina,American Athletic,41,North Carolina,ACC,19,North Carolina -16,16.0,-22,38.0,-16.0,22,-38.0,East Carolina,38.0
+2879,401013107,2018,2,regular,2018-09-08,Virginia Tech,ACC,62,William & Mary,CAA,17,Virginia Tech -42,-42.0,-45,3.0,42.0,45,-3.0,Virginia Tech,3.0
+2541,401013108,2018,2,regular,2018-09-08,Wake Forest,ACC,51,Towson,CAA,20,Wake Forest -34,-34.0,-31,-3.0,34.0,31,3.0,Towson,3.0
+3225,401013322,2018,2,regular,2018-09-08,Texas Tech,Big 12,77,Lamar,Southland,0,Texas Tech -49,-49.0,-77,28.0,49.0,77,-28.0,Texas Tech,28.0
+2869,401013326,2018,2,regular,2018-09-08,West Virginia,Big 12,52,Youngstown State,MVFC,17,West Virginia -33.5,-33.5,-35,1.5,33.5,35,-1.5,West Virginia,1.5
+2754,401013329,2018,2,regular,2018-09-08,Minnesota,Big Ten,21,Fresno State,Mountain West,14,Fresno State -1,1.0,-7,8.0,-1.0,7,-8.0,Minnesota,8.0
+927,401013352,2018,2,regular,2018-09-08,Purdue,Big Ten,19,Eastern Michigan,Mid-American,20,Purdue -15.5,-15.5,1,-16.5,15.5,-1,16.5,Eastern Michigan,16.5
+437,401013355,2018,2,regular,2018-09-08,Wisconsin,Big Ten,45,New Mexico,Mountain West,14,Wisconsin -35.5,-35.5,-31,-4.5,35.5,31,4.5,New Mexico,4.5
+2973,401013358,2018,2,regular,2018-09-08,Georgia Southern,Sun Belt,34,UMass,FBS Independents,13,Georgia Southern -1.5,-1.5,-21,19.5,1.5,21,-19.5,Georgia Southern,19.5
+931,401013367,2018,2,regular,2018-09-08,Army,FBS Independents,38,Liberty,FBS Independents,14,Army -7.5,-7.5,-24,16.5,7.5,24,-16.5,Army,16.5
+3169,401013377,2018,2,regular,2018-09-08,Notre Dame,FBS Independents,24,Ball State,Mid-American,16,Notre Dame -34.5,-34.5,-8,-26.5,34.5,8,26.5,Ball State,26.5
+939,401014981,2018,2,regular,2018-09-08,Charlotte,Conference USA,9,Appalachian State,Sun Belt,45,Appalachian State -15,15.0,36,-21.0,-15.0,-36,21.0,Appalachian State,21.0
+2910,401014982,2018,2,regular,2018-09-08,Old Dominion,Conference USA,20,Florida International,Conference USA,28,Florida International -3,3.0,8,-5.0,-3.0,-8,5.0,Florida International,5.0
+3314,401014983,2018,2,regular,2018-09-08,Florida Atlantic,Conference USA,33,Air Force,Mountain West,26,Florida Atlantic -8,-8.0,-7,-1.0,8.0,7,1.0,Air Force,1.0
+2913,401014984,2018,2,regular,2018-09-08,Louisiana Tech,Conference USA,54,Southern,SWAC,17,Louisiana Tech -34,-34.0,-37,3.0,34.0,37,-3.0,Louisiana Tech,3.0
+3338,401014985,2018,2,regular,2018-09-08,Marshall,Conference USA,32,Eastern Kentucky,OVC,16,Marshall -32.5,-32.5,-16,-16.5,32.5,16,16.5,Eastern Kentucky,16.5
+3317,401014986,2018,2,regular,2018-09-08,Middle Tennessee,Conference USA,61,UT Martin,OVC,37,Middle Tennessee -19,-19.0,-24,5.0,19.0,24,-5.0,Middle Tennessee,5.0
+2757,401014987,2018,2,regular,2018-09-08,North Texas,Conference USA,58,Incarnate Word,Southland,16,North Texas -43.5,-43.5,-42,-1.5,43.5,42,1.5,Incarnate Word,1.5
+3565,401014989,2018,2,regular,2018-09-08,Southern Mississippi,Conference USA,20,Louisiana Monroe,Sun Belt,21,Southern Mississippi -5.5,-5.5,1,-6.5,5.5,-1,6.5,Louisiana Monroe,6.5
+71,401014990,2018,2,regular,2018-09-08,Coastal Carolina,Sun Belt,47,UAB,Conference USA,24,UAB -9,9.0,-23,32.0,-9.0,23,-32.0,Coastal Carolina,32.0
+952,401014992,2018,2,regular,2018-09-08,Western Kentucky,Conference USA,28,Maine,CAA,31,Western Kentucky -10,-10.0,3,-13.0,10.0,-3,13.0,Maine,13.0
+3409,401019477,2018,2,regular,2018-09-08,SMU,American Athletic,12,TCU,Big 12,42,TCU -23.5,23.5,30,-6.5,-23.5,-30,6.5,TCU,6.5
+2881,401019479,2018,2,regular,2018-09-08,Navy,American Athletic,22,Memphis,American Athletic,21,Memphis -7,7.0,-1,8.0,-7.0,1,-8.0,Navy,8.0
+63,401020677,2018,2,regular,2018-09-08,Kent State,Mid-American,54,Howard,MEAC,14,Kent State -9.5,-9.5,-40,30.5,9.5,40,-30.5,Kent State,30.5
+64,401020678,2018,2,regular,2018-09-08,Akron,Mid-American,41,Morgan State,MEAC,7,Akron -42.5,-42.5,-34,-8.5,42.5,34,8.5,Morgan State,8.5
+74,401021657,2018,2,regular,2018-09-08,Texas State,Sun Belt,36,Texas Southern,SWAC,20,Texas State -34,-34.0,-16,-18.0,34.0,16,18.0,Texas Southern,18.0
+2838,401021658,2018,2,regular,2018-09-08,Troy,Sun Belt,59,Florida A&M,MEAC,7,Troy -34.5,-34.5,-52,17.5,34.5,52,-17.5,Troy,17.5
+3335,401012727,2018,2,regular,2018-09-09,Arizona State,Pac-12,16,Michigan State,Big Ten,13,Michigan State -4.5,4.5,-3,7.5,-4.5,3,-7.5,Arizona State,7.5
+953,401012732,2018,2,regular,2018-09-09,Oregon State,Pac-12,48,Southern Utah,Big Sky,25,Oregon State -11,-11.0,-23,12.0,11.0,23,-12.0,Oregon State,12.0
+3340,401012735,2018,2,regular,2018-09-09,BYU,FBS Independents,18,California,Pac-12,21,BYU -2,-2.0,3,-5.0,2.0,-3,5.0,California,5.0
+919,401012736,2018,2,regular,2018-09-09,Stanford,Pac-12,17,USC,Pac-12,3,Stanford -4.5,-4.5,-14,9.5,4.5,14,-9.5,Stanford,9.5
+3153,401013105,2018,2,regular,2018-09-09,Pittsburgh,ACC,6,Penn State,Big Ten,51,Penn State -7.5,7.5,45,-37.5,-7.5,-45,37.5,Penn State,37.5
+3247,401013319,2018,2,regular,2018-09-09,Texas,Big 12,28,Tulsa,American Athletic,21,Texas -22,-22.0,-7,-15.0,22.0,7,15.0,Tulsa,15.0
+3205,401013490,2018,2,regular,2018-09-09,Oklahoma State,Big 12,55,South Alabama,Sun Belt,13,Oklahoma State -30.5,-30.5,-42,11.5,30.5,42,-11.5,Oklahoma State,11.5
+2809,401014988,2018,2,regular,2018-09-09,Hawai'i,Mountain West,43,Rice,Conference USA,29,Hawai'i -17.5,-17.5,-14,-3.5,17.5,14,3.5,Rice,3.5
+957,401014991,2018,2,regular,2018-09-09,UNLV,Mountain West,52,UTEP,Conference USA,24,UNLV -23,-23.0,-28,5.0,23.0,28,-5.0,UNLV,5.0
+2545,401019480,2018,2,regular,2018-09-09,Tulane,American Athletic,42,Nicholls,Southland,17,Tulane -17,-17.0,-25,8.0,17.0,25,-8.0,Tulane,8.0
+923,401019483,2018,2,regular,2018-09-09,Boise State,Mountain West,62,Connecticut,American Athletic,7,Boise State -33.5,-33.5,-55,21.5,33.5,55,-21.5,Boise State,21.5
+3011,401022518,2018,2,regular,2018-09-09,San Diego State,Mountain West,28,Sacramento State,Big Sky,14,San Diego State -25.5,-25.5,-14,-11.5,25.5,14,11.5,Sacramento State,11.5
+3094,401013109,2018,3,regular,2018-09-13,Wake Forest,ACC,34,Boston College,ACC,41,Boston College -6,6.0,7,-1.0,-6.0,-7,1.0,Boston College,1.0
+2840,401014993,2018,3,regular,2018-09-13,Charlotte,Conference USA,28,Old Dominion,Conference USA,25,Old Dominion -1.5,1.5,-3,4.5,-1.5,3,-4.5,Charlotte,4.5
+1007,401012272,2018,3,regular,2018-09-15,Arkansas,SEC,17,North Texas,Conference USA,44,Arkansas -5.5,-5.5,27,-32.5,5.5,-27,32.5,North Texas,32.5
+975,401012273,2018,3,regular,2018-09-15,Auburn,SEC,21,LSU,SEC,22,Auburn -10,-10.0,1,-11.0,10.0,-1,11.0,LSU,11.0
+1011,401012274,2018,3,regular,2018-09-15,Florida,SEC,48,Colorado State,Mountain West,10,Florida -21,-21.0,-38,17.0,21.0,38,-17.0,Florida,17.0
+967,401012275,2018,3,regular,2018-09-15,Georgia,SEC,49,Middle Tennessee,Conference USA,7,Georgia -34,-34.0,-42,8.0,34.0,42,-8.0,Georgia,8.0
+2900,401012276,2018,3,regular,2018-09-15,Kentucky,SEC,48,Murray State,OVC,10,Kentucky -41,-41.0,-38,-3.0,41.0,38,3.0,Murray State,3.0
+963,401012277,2018,3,regular,2018-09-15,Ole Miss,SEC,7,Alabama,SEC,62,Alabama -22.5,22.5,55,-32.5,-22.5,-55,32.5,Alabama,32.5
+84,401012278,2018,3,regular,2018-09-15,Mississippi State,SEC,56,Louisiana,Sun Belt,10,Mississippi State -34,-34.0,-46,12.0,34.0,46,-12.0,Mississippi State,12.0
+127,401012279,2018,3,regular,2018-09-15,Purdue,Big Ten,37,Missouri,SEC,40,Missouri -5.5,5.5,3,2.5,-5.5,-3,-2.5,Purdue,2.5
+77,401012281,2018,3,regular,2018-09-15,Tennessee,SEC,24,UTEP,Conference USA,0,Tennessee -33.5,-33.5,-24,-9.5,33.5,24,9.5,UTEP,9.5
+3287,401012282,2018,3,regular,2018-09-15,Texas A&M,SEC,48,Louisiana Monroe,Sun Belt,10,Texas A&M -27.5,-27.5,-38,10.5,27.5,38,-10.5,Texas A&M,10.5
+3142,401012283,2018,3,regular,2018-09-15,Notre Dame,FBS Independents,22,Vanderbilt,SEC,17,Notre Dame -14,-14.0,-5,-9.0,14.0,5,9.0,Vanderbilt,9.0
+2729,401012741,2018,3,regular,2018-09-15,Colorado,Pac-12,45,New Hampshire,CAA,14,Colorado -37,-37.0,-31,-6.0,37.0,31,6.0,New Hampshire,6.0
+3279,401012744,2018,3,regular,2018-09-15,Nevada,Mountain West,37,Oregon State,Pac-12,35,Nevada -4,-4.0,-2,-2.0,4.0,2,2.0,Oregon State,2.0
+3312,401012746,2018,3,regular,2018-09-15,California,Pac-12,45,Idaho State,Big Sky,23,California -36.5,-36.5,-22,-14.5,36.5,22,14.5,Idaho State,14.5
+3285,401012747,2018,3,regular,2018-09-15,Stanford,Pac-12,30,UC Davis,Big Sky,10,Stanford -31,-31.0,-20,-11.0,31.0,20,11.0,UC Davis,11.0
+999,401012806,2018,3,regular,2018-09-15,Illinois,Big Ten,19,South Florida,American Athletic,25,South Florida -14,14.0,6,8.0,-14.0,-6,-8.0,Illinois,8.0
+3146,401012822,2018,3,regular,2018-09-15,Kansas,Big 12,55,Rutgers,Big Ten,14,Kansas -1,-1.0,-41,40.0,1.0,41,-40.0,Kansas,40.0
+2727,401012853,2018,3,regular,2018-09-15,Indiana,Big Ten,38,Ball State,Mid-American,10,Indiana -15.5,-15.5,-28,12.5,15.5,28,-12.5,Indiana,12.5
+2870,401012864,2018,3,regular,2018-09-15,Iowa,Big Ten,38,Northern Iowa,MVFC,14,Iowa -21,-21.0,-24,3.0,21.0,24,-3.0,Iowa,3.0
+2927,401012874,2018,3,regular,2018-09-15,Maryland,Big Ten,14,Temple,American Athletic,35,Maryland -16,-16.0,21,-37.0,16.0,-21,37.0,Temple,37.0
+3251,401012890,2018,3,regular,2018-09-15,Michigan,Big Ten,45,SMU,American Athletic,20,Michigan -37,-37.0,-25,-12.0,37.0,25,12.0,SMU,12.0
+1003,401013028,2018,3,regular,2018-09-15,Baylor,Big 12,27,Duke,ACC,40,Baylor -2.5,-2.5,13,-15.5,2.5,-13,15.5,Duke,15.5
+2844,401013039,2018,3,regular,2018-09-15,Iowa State,Big 12,27,Oklahoma,Big 12,37,Oklahoma -18.5,18.5,10,8.5,-18.5,-10,-8.5,Iowa State,8.5
+2548,401013058,2018,3,regular,2018-09-15,Kansas State,Big 12,41,UT San Antonio,Conference USA,17,Kansas State -21,-21.0,-24,3.0,21.0,24,-3.0,Kansas State,3.0
+2915,401013110,2018,3,regular,2018-09-15,Clemson,ACC,38,Georgia Southern,Sun Belt,7,Clemson -32,-32.0,-31,-1.0,32.0,31,1.0,Georgia Southern,1.0
+987,401013111,2018,3,regular,2018-09-15,Syracuse,ACC,30,Florida State,ACC,7,Florida State -3.5,3.5,-23,26.5,-3.5,23,-26.5,Syracuse,26.5
+995,401013112,2018,3,regular,2018-09-15,Pittsburgh,ACC,24,Georgia Tech,ACC,19,Georgia Tech -3.5,3.5,-5,8.5,-3.5,5,-8.5,Pittsburgh,8.5
+2759,401013113,2018,3,regular,2018-09-15,Louisville,ACC,20,Western Kentucky,Conference USA,17,Louisville -23.5,-23.5,-3,-20.5,23.5,3,20.5,Western Kentucky,20.5
+3110,401013114,2018,3,regular,2018-09-15,Toledo,Mid-American,24,Miami,ACC,49,Miami -12,12.0,25,-13.0,-12.0,-25,13.0,Miami,13.0
+2552,401013117,2018,3,regular,2018-09-15,Virginia,ACC,45,Ohio,Mid-American,31,Virginia -5,-5.0,-14,9.0,5.0,14,-9.0,Virginia,9.0
+1016,401013323,2018,3,regular,2018-09-15,Texas Tech,Big 12,63,Houston,American Athletic,49,Texas Tech -1,-1.0,-14,13.0,1.0,14,-13.0,Texas Tech,13.0
+2947,401013330,2018,3,regular,2018-09-15,Minnesota,Big Ten,26,Miami (OH),Mid-American,3,Minnesota -13.5,-13.5,-23,9.5,13.5,23,-9.5,Minnesota,9.5
+3209,401013337,2018,3,regular,2018-09-15,Nebraska,Big Ten,19,Troy,Sun Belt,24,Nebraska -10,-10.0,5,-15.0,10.0,-5,15.0,Troy,15.0
+1021,401013343,2018,3,regular,2018-09-15,Northwestern,Big Ten,34,Akron,Mid-American,39,Northwestern -21,-21.0,5,-26.0,21.0,-5,26.0,Akron,26.0
+2813,401013350,2018,3,regular,2018-09-15,Penn State,Big Ten,63,Kent State,Mid-American,10,Penn State -35.5,-35.5,-53,17.5,35.5,53,-17.5,Penn State,17.5
+971,401013356,2018,3,regular,2018-09-15,Wisconsin,Big Ten,21,BYU,FBS Independents,24,Wisconsin -23.5,-23.5,3,-26.5,23.5,-3,26.5,BYU,26.5
+3059,401013359,2018,3,regular,2018-09-15,Florida International,Conference USA,63,UMass,FBS Independents,24,Florida International -3.5,-3.5,-39,35.5,3.5,39,-35.5,Florida International,35.5
+991,401013368,2018,3,regular,2018-09-15,Army,FBS Independents,28,Hawai'i,Mountain West,21,Army -6.5,-6.5,-7,0.5,6.5,7,-0.5,Army,0.5
+979,401013491,2018,3,regular,2018-09-15,Oklahoma State,Big 12,44,Boise State,Mountain West,21,Boise State -2,2.0,-23,25.0,-2.0,23,-25.0,Oklahoma State,25.0
+516,401014994,2018,3,regular,2018-09-15,Florida Atlantic,Conference USA,49,Bethune-Cookman,MEAC,28,Florida Atlantic -41,-41.0,-21,-20.0,41.0,21,20.0,Bethune-Cookman,20.0
+2902,401014996,2018,3,regular,2018-09-15,UAB,Conference USA,31,Tulane,American Athletic,24,Tulane -3.5,3.5,-7,10.5,-3.5,7,-10.5,UAB,10.5
+3277,401019487,2018,3,regular,2018-09-15,Navy,American Athletic,51,Lehigh,Patriot,21,Navy -33,-33.0,-30,-3.0,33.0,30,3.0,Lehigh,3.0
+2931,401019488,2018,3,regular,2018-09-15,Tulsa,American Athletic,20,Arkansas State,Sun Belt,29,Tulsa -1.5,-1.5,9,-10.5,1.5,-9,10.5,Arkansas State,10.5
+89,401020680,2018,3,regular,2018-09-15,Western Michigan,Mid-American,68,Delaware State,MEAC,0,Western Michigan -47,-47.0,-68,21.0,47.0,68,-21.0,Western Michigan,21.0
+82,401020681,2018,3,regular,2018-09-15,Bowling Green,Mid-American,42,Eastern Kentucky,OVC,35,Bowling Green -14,-14.0,-7,-7.0,14.0,7,7.0,Eastern Kentucky,7.0
+91,401021660,2018,3,regular,2018-09-15,South Alabama,Sun Belt,41,Texas State,Sun Belt,31,South Alabama -9.5,-9.5,-10,0.5,9.5,10,-0.5,South Alabama,0.5
+1014,401022520,2018,3,regular,2018-09-15,Wyoming,Mountain West,17,Wofford,Southern,14,Wyoming -14,-14.0,-3,-11.0,14.0,3,11.0,Wofford,11.0
+1695,401012737,2018,3,regular,2018-09-16,Arizona,Pac-12,62,Southern Utah,Big Sky,31,Arizona -26.5,-26.5,-31,4.5,26.5,31,-4.5,Arizona,4.5
+983,401012738,2018,3,regular,2018-09-16,San Diego State,Mountain West,28,Arizona State,Pac-12,21,Arizona State -5,5.0,-7,12.0,-5.0,7,-12.0,San Diego State,12.0
+3106,401012739,2018,3,regular,2018-09-16,Texas,Big 12,37,USC,Pac-12,14,Texas -3,-3.0,-23,20.0,3.0,23,-20.0,Texas,20.0
+2556,401012740,2018,3,regular,2018-09-16,UCLA,Pac-12,14,Fresno State,Mountain West,38,Fresno State -2.5,2.5,24,-21.5,-2.5,-24,21.5,Fresno State,21.5
+3274,401012742,2018,3,regular,2018-09-16,Utah,Pac-12,7,Washington,Pac-12,21,Washington -4,4.0,14,-10.0,-4.0,-14,10.0,Washington,10.0
+3390,401012745,2018,3,regular,2018-09-16,Washington State,Pac-12,59,Eastern Washington,Big Sky,24,Washington State -20,-20.0,-35,15.0,20.0,35,-15.0,Washington State,15.0
+135,401013074,2018,3,regular,2018-09-16,TCU,Big 12,28,Ohio State,Big Ten,40,Ohio State -12.5,12.5,12,0.5,-12.5,-12,-0.5,TCU,0.5
+2672,401022521,2018,3,regular,2018-09-16,UNLV,Mountain West,46,Prairie View,SWAC,17,UNLV -32,-32.0,-29,-3.0,32.0,29,3.0,Prairie View,3.0
+2604,401019489,2018,4,regular,2018-09-20,Temple,American Athletic,31,Tulsa,American Athletic,17,Temple -6.5,-6.5,-14,7.5,6.5,14,-7.5,Temple,7.5
+2982,401012284,2018,4,regular,2018-09-22,Alabama,SEC,45,Texas A&M,SEC,23,Alabama -24.5,-24.5,-22,-2.5,24.5,22,2.5,Texas A&M,2.5
+2935,401012285,2018,4,regular,2018-09-22,Auburn,SEC,34,Arkansas,SEC,3,Auburn -30,-30.0,-31,1.0,30.0,31,-1.0,Auburn,1.0
+1713,401012286,2018,4,regular,2018-09-22,Kentucky,SEC,28,Mississippi State,SEC,7,Mississippi State -10,10.0,-21,31.0,-10.0,21,-31.0,Kentucky,31.0
+1701,401012287,2018,4,regular,2018-09-22,LSU,SEC,38,Louisiana Tech,Conference USA,21,LSU -19.5,-19.5,-17,-2.5,19.5,17,2.5,Louisiana Tech,2.5
+3175,401012288,2018,4,regular,2018-09-22,Ole Miss,SEC,38,Kent State,Mid-American,17,Ole Miss -28.5,-28.5,-21,-7.5,28.5,21,7.5,Kent State,7.5
+1697,401012289,2018,4,regular,2018-09-22,Missouri,SEC,29,Georgia,SEC,43,Georgia -15,15.0,14,1.0,-15.0,-14,-1.0,Missouri,1.0
+1758,401012290,2018,4,regular,2018-09-22,Tennessee,SEC,21,Florida,SEC,47,Florida -3.5,3.5,26,-22.5,-3.5,-26,22.5,Florida,22.5
+111,401012291,2018,4,regular,2018-09-22,Vanderbilt,SEC,14,South Carolina,SEC,37,South Carolina -1.5,1.5,23,-21.5,-1.5,-23,21.5,South Carolina,21.5
+2696,401012748,2018,4,regular,2018-09-22,USC,Pac-12,39,Washington State,Pac-12,36,USC -4.5,-4.5,-3,-1.5,4.5,3,1.5,Washington State,1.5
+3355,401012750,2018,4,regular,2018-09-22,Oregon State,Pac-12,14,Arizona,Pac-12,35,Arizona -5,5.0,21,-16.0,-5.0,-21,16.0,Arizona,16.0
+3307,401012807,2018,4,regular,2018-09-22,Illinois,Big Ten,24,Penn State,Big Ten,63,Penn State -26.5,26.5,39,-12.5,-26.5,-39,12.5,Penn State,12.5
+3283,401012854,2018,4,regular,2018-09-22,Indiana,Big Ten,21,Michigan State,Big Ten,35,Michigan State -6.5,6.5,14,-7.5,-6.5,-14,7.5,Michigan State,7.5
+1738,401012875,2018,4,regular,2018-09-22,Maryland,Big Ten,42,Minnesota,Big Ten,13,Maryland -1.5,-1.5,-29,27.5,1.5,29,-27.5,Maryland,27.5
+1729,401012891,2018,4,regular,2018-09-22,Michigan,Big Ten,56,Nebraska,Big Ten,10,Michigan -18,-18.0,-46,28.0,18.0,46,-28.0,Michigan,28.0
+3227,401013029,2018,4,regular,2018-09-22,Baylor,Big 12,26,Kansas,Big 12,7,Baylor -7.5,-7.5,-19,11.5,7.5,19,-11.5,Baylor,11.5
+1742,401013040,2018,4,regular,2018-09-22,Iowa State,Big 12,26,Akron,Mid-American,13,Iowa State -19.5,-19.5,-13,-6.5,19.5,13,6.5,Akron,6.5
+2854,401013059,2018,4,regular,2018-09-22,West Virginia,Big 12,35,Kansas State,Big 12,6,West Virginia -16,-16.0,-29,13.0,16.0,29,-13.0,West Virginia,13.0
+2872,401013066,2018,4,regular,2018-09-22,Oklahoma,Big 12,28,Army,FBS Independents,21,Oklahoma -29.5,-29.5,-7,-22.5,29.5,7,22.5,Army,22.5
+1721,401013075,2018,4,regular,2018-09-22,Texas,Big 12,31,TCU,Big 12,16,TCU -3,3.0,-15,18.0,-3.0,15,-18.0,Texas,18.0
+1733,401013119,2018,4,regular,2018-09-22,Purdue,Big Ten,30,Boston College,ACC,13,Boston College -6.5,6.5,-17,23.5,-6.5,17,-23.5,Purdue,23.5
+484,401013120,2018,4,regular,2018-09-22,Georgia Tech,ACC,21,Clemson,ACC,49,Clemson -16.5,16.5,28,-11.5,-16.5,-28,11.5,Clemson,11.5
+1756,401013121,2018,4,regular,2018-09-22,Duke,ACC,55,North Carolina Central,MEAC,13,Duke -46,-46.0,-42,-4.0,46.0,42,4.0,North Carolina Central,4.0
+2876,401013122,2018,4,regular,2018-09-22,Florida State,ACC,37,Northern Illinois,Mid-American,19,Florida State -10,-10.0,-18,8.0,10.0,18,-8.0,Florida State,8.0
+2763,401013123,2018,4,regular,2018-09-22,Virginia,ACC,27,Louisville,ACC,3,Virginia -5,-5.0,-24,19.0,5.0,24,-19.0,Virginia,19.0
+2560,401013124,2018,4,regular,2018-09-22,Miami,ACC,31,Florida International,Conference USA,17,Miami -26,-26.0,-14,-12.0,26.0,14,12.0,Florida International,12.0
+1752,401013125,2018,4,regular,2018-09-22,North Carolina,ACC,38,Pittsburgh,ACC,35,Pittsburgh -3,3.0,-3,6.0,-3.0,3,-6.0,North Carolina,6.0
+1762,401013126,2018,4,regular,2018-09-22,Marshall,Conference USA,20,NC State,ACC,37,NC State -6,6.0,17,-11.0,-6.0,-17,11.0,NC State,11.0
+3017,401013127,2018,4,regular,2018-09-22,Syracuse,ACC,51,Connecticut,American Athletic,21,Syracuse -30,-30.0,-30,0.0,30.0,30,-0.0,Connecticut,0.0
+1709,401013128,2018,4,regular,2018-09-22,Old Dominion,Conference USA,49,Virginia Tech,ACC,35,Virginia Tech -28.5,28.5,-14,42.5,-28.5,14,-42.5,Old Dominion,42.5
+656,401013129,2018,4,regular,2018-09-22,Wake Forest,ACC,27,Notre Dame,FBS Independents,56,Notre Dame -6.5,6.5,29,-22.5,-6.5,-29,22.5,Notre Dame,22.5
+1717,401013324,2018,4,regular,2018-09-22,Oklahoma State,Big 12,17,Texas Tech,Big 12,41,Oklahoma State -14.5,-14.5,24,-38.5,14.5,-24,38.5,Texas Tech,38.5
+3013,401013346,2018,4,regular,2018-09-22,Ohio State,Big Ten,49,Tulane,American Athletic,6,Ohio State -37.5,-37.5,-43,5.5,37.5,43,-5.5,Ohio State,5.5
+106,401013360,2018,4,regular,2018-09-22,UMass,FBS Independents,49,Charlotte,Conference USA,31,UMass -6,-6.0,-18,12.0,6.0,18,-12.0,UMass,12.0
+115,401013450,2018,4,regular,2018-09-22,Liberty,FBS Independents,7,North Texas,Conference USA,47,North Texas -11,11.0,40,-29.0,-11.0,-40,29.0,North Texas,29.0
+2817,401014998,2018,4,regular,2018-09-22,Southern Mississippi,Conference USA,40,Rice,Conference USA,22,Southern Mississippi -13.5,-13.5,-18,4.5,13.5,18,-4.5,Southern Mississippi,4.5
+1766,401014999,2018,4,regular,2018-09-22,UT San Antonio,Conference USA,25,Texas State,Sun Belt,21,UT San Antonio -7,-7.0,-4,-3.0,7.0,4,3.0,Texas State,3.0
+97,401015000,2018,4,regular,2018-09-22,Ball State,Mid-American,20,Western Kentucky,Conference USA,28,Ball State -3,-3.0,8,-11.0,3.0,-8,11.0,Western Kentucky,11.0
+1736,401016406,2018,4,regular,2018-09-22,BYU,FBS Independents,30,McNeese,Southland,3,BYU -24.5,-24.5,-27,2.5,24.5,27,-2.5,BYU,2.5
+1748,401019495,2018,4,regular,2018-09-22,SMU,American Athletic,31,Navy,American Athletic,30,Navy -6.5,6.5,-1,7.5,-6.5,1,-7.5,SMU,7.5
+3351,401020685,2018,4,regular,2018-09-22,Toledo,Mid-American,63,Nevada,Mountain West,44,Toledo -10.5,-10.5,-19,8.5,10.5,19,-8.5,Toledo,8.5
+102,401020811,2018,4,regular,2018-09-22,Bowling Green,Mid-American,23,Miami (OH),Mid-American,38,Miami (OH) -6.5,6.5,15,-8.5,-6.5,-15,8.5,Miami (OH),8.5
+109,401021661,2018,4,regular,2018-09-22,Appalachian State,Sun Belt,72,Gardner-Webb,Big South,7,Appalachian State -45,-45.0,-65,20.0,45.0,65,-20.0,Appalachian State,20.0
+2564,401021662,2018,4,regular,2018-09-22,Arkansas State,Sun Belt,27,UNLV,Mountain West,20,Arkansas State -8,-8.0,-7,-1.0,8.0,7,1.0,UNLV,1.0
+119,401021663,2018,4,regular,2018-09-22,Louisiana,Sun Belt,28,Coastal Carolina,Sun Belt,30,Louisiana -3,-3.0,2,-5.0,3.0,-2,5.0,Coastal Carolina,5.0
+3047,401021664,2018,4,regular,2018-09-22,Louisiana Monroe,Sun Belt,27,Troy,Sun Belt,35,Troy -4.5,4.5,8,-3.5,-4.5,-8,3.5,Troy,3.5
+1755,401022523,2018,4,regular,2018-09-22,Colorado State,Mountain West,19,Illinois State,MVFC,35,Colorado State -4,-4.0,16,-20.0,4.0,-16,20.0,Illinois State,20.0
+1705,401012749,2018,4,regular,2018-09-23,Oregon,Pac-12,31,Stanford,Pac-12,38,Stanford -3,3.0,7,-4.0,-3.0,-7,4.0,Stanford,4.0
+3347,401012751,2018,4,regular,2018-09-23,Washington,Pac-12,27,Arizona State,Pac-12,20,Washington -18.5,-18.5,-7,-11.5,18.5,7,11.5,Arizona State,11.5
+1725,401012865,2018,4,regular,2018-09-23,Iowa,Big Ten,17,Wisconsin,Big Ten,28,Wisconsin -3,3.0,11,-8.0,-3.0,-11,8.0,Wisconsin,8.0
+1770,401019492,2018,4,regular,2018-09-23,South Florida,American Athletic,20,East Carolina,American Athletic,13,South Florida -20,-20.0,-7,-13.0,20.0,7,13.0,East Carolina,13.0
+2567,401019493,2018,4,regular,2018-09-23,Houston,American Athletic,70,Texas Southern,SWAC,14,Houston -55,-55.0,-56,1.0,55.0,56,-1.0,Houston,1.0
+1076,401019494,2018,4,regular,2018-09-23,Memphis,American Athletic,52,South Alabama,Sun Belt,35,Memphis -31.5,-31.5,-17,-14.5,31.5,17,14.5,South Alabama,14.5
+1080,401020683,2018,4,regular,2018-09-23,San Diego State,Mountain West,23,Eastern Michigan,Mid-American,20,San Diego State -10.5,-10.5,-3,-7.5,10.5,3,7.5,Eastern Michigan,7.5
+1084,401022522,2018,4,regular,2018-09-23,Utah State,Mountain West,42,Air Force,Mountain West,32,Utah State -10,-10.0,-10,0.0,10.0,10,-0.0,Air Force,0.0
+1087,401022524,2018,4,regular,2018-09-23,Hawai'i,Mountain West,42,Duquesne,NEC,21,Hawai'i -39,-39.0,-21,-18.0,39.0,21,18.0,Duquesne,18.0
+2986,401013466,2018,5,regular,2018-09-28,Miami,ACC,47,North Carolina,ACC,10,Miami -18.5,-18.5,-37,18.5,18.5,37,-18.5,Miami,18.5
+1093,401012292,2018,5,regular,2018-09-29,Alabama,SEC,56,Louisiana,Sun Belt,14,Alabama -49,-49.0,-42,-7.0,49.0,42,7.0,Louisiana,7.0
+2885,401012293,2018,5,regular,2018-09-29,Texas A&M,SEC,24,Arkansas,SEC,17,Texas A&M -20.5,-20.5,-7,-13.5,20.5,7,13.5,Arkansas,13.5
+1113,401012294,2018,5,regular,2018-09-29,Auburn,SEC,24,Southern Mississippi,Conference USA,13,Auburn -27,-27.0,-11,-16.0,27.0,11,16.0,Southern Mississippi,16.0
+3217,401012295,2018,5,regular,2018-09-29,Georgia,SEC,38,Tennessee,SEC,12,Georgia -30,-30.0,-26,-4.0,30.0,26,4.0,Tennessee,4.0
+1123,401012296,2018,5,regular,2018-09-29,Kentucky,SEC,24,South Carolina,SEC,10,South Carolina -1,1.0,-14,15.0,-1.0,14,-15.0,Kentucky,15.0
+2923,401012298,2018,5,regular,2018-09-29,Mississippi State,SEC,6,Florida,SEC,13,Mississippi State -6.5,-6.5,7,-13.5,6.5,-7,13.5,Florida,13.5
+683,401012299,2018,5,regular,2018-09-29,Vanderbilt,SEC,31,Tennessee State,OVC,27,Vanderbilt -28,-28.0,-4,-24.0,28.0,4,24.0,Tennessee State,24.0
+1089,401012752,2018,5,regular,2018-09-29,Colorado,Pac-12,38,UCLA,Pac-12,16,Colorado -9,-9.0,-22,13.0,9.0,22,-13.0,Colorado,13.0
+2674,401012756,2018,5,regular,2018-09-29,Washington State,Pac-12,28,Utah,Pac-12,24,Utah -1.5,1.5,-4,5.5,-1.5,4,-5.5,Washington State,5.5
+1109,401012758,2018,5,regular,2018-09-29,Notre Dame,FBS Independents,38,Stanford,Pac-12,17,Notre Dame -4.5,-4.5,-21,16.5,4.5,21,-16.5,Notre Dame,16.5
+1141,401012824,2018,5,regular,2018-09-29,Rutgers,Big Ten,17,Indiana,Big Ten,24,Indiana -15,15.0,7,8.0,-15.0,-7,-8.0,Rutgers,8.0
+501,401012892,2018,5,regular,2018-09-29,Northwestern,Big Ten,17,Michigan,Big Ten,20,Michigan -14.5,14.5,3,11.5,-14.5,-3,-11.5,Northwestern,11.5
+1105,401013030,2018,5,regular,2018-09-29,Oklahoma,Big 12,66,Baylor,Big 12,33,Oklahoma -22.5,-22.5,-33,10.5,22.5,33,-10.5,Oklahoma,10.5
+1166,401013041,2018,5,regular,2018-09-29,TCU,Big 12,17,Iowa State,Big 12,14,TCU -11,-11.0,-3,-8.0,11.0,3,8.0,Iowa State,8.0
+1144,401013050,2018,5,regular,2018-09-29,Kansas,Big 12,28,Oklahoma State,Big 12,48,Oklahoma State -17.5,17.5,20,-2.5,-17.5,-20,2.5,Oklahoma State,2.5
+1127,401013060,2018,5,regular,2018-09-29,Kansas State,Big 12,14,Texas,Big 12,19,Texas -8.5,8.5,5,3.5,-8.5,-5,-3.5,Kansas State,3.5
+1148,401013130,2018,5,regular,2018-09-29,Boston College,ACC,45,Temple,American Athletic,35,Boston College -13,-13.0,-10,-3.0,13.0,10,3.0,Temple,3.0
+1097,401013131,2018,5,regular,2018-09-29,Clemson,ACC,27,Syracuse,ACC,23,Clemson -24.5,-24.5,-4,-20.5,24.5,4,20.5,Syracuse,20.5
+1137,401013132,2018,5,regular,2018-09-29,Duke,ACC,14,Virginia Tech,ACC,31,Duke -6.5,-6.5,17,-23.5,6.5,-17,23.5,Virginia Tech,23.5
+3231,401013133,2018,5,regular,2018-09-29,Louisville,ACC,24,Florida State,ACC,28,Florida State -5.5,5.5,4,1.5,-5.5,-4,-1.5,Louisville,1.5
+1152,401013134,2018,5,regular,2018-09-29,Georgia Tech,ACC,63,Bowling Green,Mid-American,17,Georgia Tech -28,-28.0,-46,18.0,28.0,46,-18.0,Georgia Tech,18.0
+1156,401013135,2018,5,regular,2018-09-29,NC State,ACC,35,Virginia,ACC,21,NC State -6.5,-6.5,-14,7.5,6.5,14,-7.5,NC State,7.5
+2858,401013137,2018,5,regular,2018-09-29,Wake Forest,ACC,56,Rice,Conference USA,24,Wake Forest -28,-28.0,-32,4.0,28.0,32,-4.0,Wake Forest,4.0
+1117,401013325,2018,5,regular,2018-09-29,Texas Tech,Big 12,34,West Virginia,Big 12,42,West Virginia -3.5,3.5,8,-4.5,-3.5,-8,4.5,West Virginia,4.5
+2731,401013338,2018,5,regular,2018-09-29,Nebraska,Big Ten,28,Purdue,Big Ten,42,Purdue -3.5,3.5,14,-10.5,-3.5,-14,10.5,Purdue,10.5
+1101,401013347,2018,5,regular,2018-09-29,Penn State,Big Ten,26,Ohio State,Big Ten,27,Ohio State -3.5,3.5,1,2.5,-3.5,-1,-2.5,Penn State,2.5
+664,401013361,2018,5,regular,2018-09-29,Ohio,Mid-American,58,UMass,FBS Independents,42,Ohio -11.5,-11.5,-16,4.5,11.5,16,-4.5,Ohio,4.5
+685,401013451,2018,5,regular,2018-09-29,New Mexico,Mountain West,43,Liberty,FBS Independents,52,New Mexico -7,-7.0,9,-16.0,7.0,-9,16.0,Liberty,16.0
+2715,401015001,2018,5,regular,2018-09-29,UAB,Conference USA,28,Charlotte,Conference USA,7,UAB -15.5,-15.5,-21,5.5,15.5,21,-5.5,UAB,5.5
+1173,401015002,2018,5,regular,2018-09-29,Florida International,Conference USA,55,Arkansas-Pine Bluff,SWAC,9,Florida International -59,-59.0,-46,-13.0,59.0,46,13.0,Arkansas-Pine Bluff,13.0
+3181,401015003,2018,5,regular,2018-09-29,Middle Tennessee,Conference USA,25,Florida Atlantic,Conference USA,24,Florida Atlantic -2.5,2.5,-1,3.5,-2.5,1,-3.5,Middle Tennessee,3.5
+693,401015004,2018,5,regular,2018-09-29,North Texas,Conference USA,27,Louisiana Tech,Conference USA,29,North Texas -7,-7.0,2,-9.0,7.0,-2,9.0,Louisiana Tech,9.0
+3118,401015005,2018,5,regular,2018-09-29,Western Kentucky,Conference USA,17,Marshall,Conference USA,20,Marshall -3.5,3.5,3,0.5,-3.5,-3,-0.5,Western Kentucky,0.5
+505,401015006,2018,5,regular,2018-09-29,East Carolina,American Athletic,37,Old Dominion,Conference USA,35,East Carolina -7,-7.0,-2,-5.0,7.0,2,5.0,Old Dominion,5.0
+1170,401015007,2018,5,regular,2018-09-29,UT San Antonio,Conference USA,30,UTEP,Conference USA,21,UT San Antonio -10,-10.0,-9,-1.0,10.0,9,1.0,UTEP,1.0
+3213,401019496,2018,5,regular,2018-09-29,Tulane,American Athletic,40,Memphis,American Athletic,24,Memphis -14.5,14.5,-16,30.5,-14.5,16,-30.5,Tulane,30.5
+2950,401019498,2018,5,regular,2018-09-29,SMU,American Athletic,63,Houston Christian,Southland,27,SMU -44.5,-44.5,-36,-8.5,44.5,36,8.5,Houston Christian,8.5
+668,401020687,2018,5,regular,2018-09-29,Ball State,Mid-American,52,Kent State,Mid-American,24,Ball State -7.5,-7.5,-28,20.5,7.5,28,-20.5,Ball State,20.5
+689,401020688,2018,5,regular,2018-09-29,Eastern Michigan,Mid-American,23,Northern Illinois,Mid-American,26,Eastern Michigan -3.5,-3.5,3,-6.5,3.5,-3,6.5,Northern Illinois,6.5
+672,401020750,2018,5,regular,2018-09-29,Miami (OH),Mid-American,39,Western Michigan,Mid-American,40,Western Michigan -2.5,2.5,1,1.5,-2.5,-1,-1.5,Miami (OH),1.5
+676,401021665,2018,5,regular,2018-09-29,Appalachian State,Sun Belt,52,South Alabama,Sun Belt,7,Appalachian State -25.5,-25.5,-45,19.5,25.5,45,-19.5,Appalachian State,19.5
+123,401021666,2018,5,regular,2018-09-29,Georgia Southern,Sun Belt,28,Arkansas State,Sun Belt,21,Arkansas State -3,3.0,-7,10.0,-3.0,7,-10.0,Georgia Southern,10.0
+680,401021667,2018,5,regular,2018-09-29,Troy,Sun Belt,45,Coastal Carolina,Sun Belt,21,Troy -14,-14.0,-24,10.0,14.0,24,-10.0,Troy,10.0
+1162,401022525,2018,5,regular,2018-09-29,Air Force,Mountain West,25,Nevada,Mountain West,28,Air Force -3.5,-3.5,3,-6.5,3.5,-3,6.5,Nevada,6.5
+3114,401022526,2018,5,regular,2018-09-29,Wyoming,Mountain West,14,Boise State,Mountain West,34,Boise State -16,16.0,20,-4.0,-16.0,-20,4.0,Boise State,4.0
+2628,401012297,2018,5,regular,2018-09-30,LSU,SEC,45,Ole Miss,SEC,16,LSU -11,-11.0,-29,18.0,11.0,29,-18.0,LSU,18.0
+2952,401012753,2018,5,regular,2018-09-30,Arizona,Pac-12,20,USC,Pac-12,24,USC -3.5,3.5,4,-0.5,-3.5,-4,0.5,USC,0.5
+1175,401012754,2018,5,regular,2018-09-30,Arizona State,Pac-12,52,Oregon State,Pac-12,24,Arizona State -21.5,-21.5,-28,6.5,21.5,28,-6.5,Arizona State,6.5
+3021,401012755,2018,5,regular,2018-09-30,Washington,Pac-12,35,BYU,FBS Independents,7,Washington -18.5,-18.5,-28,9.5,18.5,28,-9.5,Washington,9.5
+1131,401012757,2018,5,regular,2018-09-30,California,Pac-12,24,Oregon,Pac-12,42,Oregon -1.5,1.5,18,-16.5,-1.5,-18,16.5,Oregon,16.5
+1179,401020689,2018,5,regular,2018-09-30,Fresno State,Mountain West,49,Toledo,Mid-American,27,Fresno State -10,-10.0,-22,12.0,10.0,22,-12.0,Fresno State,12.0
+1187,401013138,2018,6,regular,2018-10-05,Louisville,ACC,31,Georgia Tech,ACC,66,Georgia Tech -5.5,5.5,35,-29.5,-5.5,-35,29.5,Georgia Tech,29.5
+1191,401015010,2018,6,regular,2018-10-05,Marshall,Conference USA,24,Middle Tennessee,Conference USA,34,Marshall -3,-3.0,10,-13.0,3.0,-10,13.0,Middle Tennessee,13.0
+1183,401019499,2018,6,regular,2018-10-05,Houston,American Athletic,41,Tulsa,American Athletic,26,Houston -18,-18.0,-15,-3.0,18.0,15,3.0,Tulsa,3.0
+2569,401012300,2018,6,regular,2018-10-06,Arkansas,SEC,31,Alabama,SEC,65,Alabama -35,35.0,34,1.0,-35.0,-34,-1.0,Arkansas,1.0
+2632,401012301,2018,6,regular,2018-10-06,Florida,SEC,27,LSU,SEC,19,LSU -1,1.0,-8,9.0,-1.0,8,-9.0,Florida,9.0
+1199,401012302,2018,6,regular,2018-10-06,Georgia,SEC,41,Vanderbilt,SEC,13,Georgia -26.5,-26.5,-28,1.5,26.5,28,-1.5,Georgia,1.5
+1255,401012303,2018,6,regular,2018-10-06,Ole Miss,SEC,70,Louisiana Monroe,Sun Belt,21,Ole Miss -23,-23.0,-49,26.0,23.0,49,-26.0,Ole Miss,26.0
+449,401012304,2018,6,regular,2018-10-06,Mississippi State,SEC,23,Auburn,SEC,9,Auburn -3,3.0,-14,17.0,-3.0,14,-17.0,Mississippi State,17.0
+1233,401012305,2018,6,regular,2018-10-06,South Carolina,SEC,37,Missouri,SEC,35,Missouri -1,1.0,-2,3.0,-1.0,2,-3.0,South Carolina,3.0
+1209,401012306,2018,6,regular,2018-10-06,Texas A&M,SEC,20,Kentucky,SEC,14,Texas A&M -5.5,-5.5,-6,0.5,5.5,6,-0.5,Texas A&M,0.5
+453,401012760,2018,6,regular,2018-10-06,UCLA,Pac-12,24,Washington,Pac-12,31,Washington -21,21.0,7,14.0,-21.0,-7,-14.0,UCLA,14.0
+697,401012761,2018,6,regular,2018-10-06,Colorado,Pac-12,28,Arizona State,Pac-12,21,Colorado -2.5,-2.5,-7,4.5,2.5,7,-4.5,Colorado,4.5
+2735,401012808,2018,6,regular,2018-10-06,Rutgers,Big Ten,17,Illinois,Big Ten,38,Illinois -4.5,4.5,21,-16.5,-4.5,-21,16.5,Illinois,16.5
+1203,401012855,2018,6,regular,2018-10-06,Ohio State,Big Ten,49,Indiana,Big Ten,26,Ohio State -27,-27.0,-23,-4.0,27.0,23,4.0,Indiana,4.0
+1247,401012866,2018,6,regular,2018-10-06,Minnesota,Big Ten,31,Iowa,Big Ten,48,Iowa -7,7.0,17,-10.0,-7.0,-17,10.0,Iowa,10.0
+1213,401012876,2018,6,regular,2018-10-06,Michigan,Big Ten,42,Maryland,Big Ten,21,Michigan -17.5,-17.5,-21,3.5,17.5,21,-3.5,Michigan,3.5
+1221,401012882,2018,6,regular,2018-10-06,Michigan State,Big Ten,19,Northwestern,Big Ten,29,Michigan State -10.5,-10.5,10,-20.5,10.5,-10,20.5,Northwestern,20.5
+2573,401013031,2018,6,regular,2018-10-06,Baylor,Big 12,37,Kansas State,Big 12,34,Baylor -4,-4.0,-3,-1.0,4.0,3,1.0,Kansas State,1.0
+1229,401013042,2018,6,regular,2018-10-06,Oklahoma State,Big 12,42,Iowa State,Big 12,48,Oklahoma State -10,-10.0,6,-16.0,10.0,-6,16.0,Iowa State,16.0
+3367,401013051,2018,6,regular,2018-10-06,West Virginia,Big 12,38,Kansas,Big 12,22,West Virginia -27.5,-27.5,-16,-11.5,27.5,16,11.5,Kansas,11.5
+445,401013067,2018,6,regular,2018-10-06,Oklahoma,Big 12,45,Texas,Big 12,48,Oklahoma -7,-7.0,3,-10.0,7.0,-3,10.0,Texas,10.0
+1225,401013139,2018,6,regular,2018-10-06,NC State,ACC,28,Boston College,ACC,23,NC State -6.5,-6.5,-5,-1.5,6.5,5,1.5,Boston College,1.5
+441,401013140,2018,6,regular,2018-10-06,Wake Forest,ACC,3,Clemson,ACC,63,Clemson -20.5,20.5,60,-39.5,-20.5,-60,39.5,Clemson,39.5
+1217,401013141,2018,6,regular,2018-10-06,Miami,ACC,28,Florida State,ACC,27,Miami -14,-14.0,-1,-13.0,14.0,1,13.0,Florida State,13.0
+1243,401013142,2018,6,regular,2018-10-06,Pittsburgh,ACC,44,Syracuse,ACC,37,Syracuse -3.5,3.5,-7,10.5,-3.5,7,-10.5,Pittsburgh,10.5
+2785,401013339,2018,6,regular,2018-10-06,Wisconsin,Big Ten,41,Nebraska,Big Ten,24,Wisconsin -18,-18.0,-17,-1.0,18.0,17,1.0,Nebraska,1.0
+3064,401013362,2018,6,regular,2018-10-06,UMass,FBS Independents,42,South Florida,American Athletic,58,South Florida -14,14.0,16,-2.0,-14.0,-16,2.0,South Florida,2.0
+1263,401015008,2018,6,regular,2018-10-06,Florida Atlantic,Conference USA,52,Old Dominion,Conference USA,33,Florida Atlantic -13.5,-13.5,-19,5.5,13.5,19,-5.5,Florida Atlantic,5.5
+3291,401015009,2018,6,regular,2018-10-06,Louisiana Tech,Conference USA,7,UAB,Conference USA,28,Louisiana Tech -7.5,-7.5,21,-28.5,7.5,-21,28.5,UAB,28.5
+1271,401015011,2018,6,regular,2018-10-06,UTEP,Conference USA,24,North Texas,Conference USA,27,North Texas -26.5,26.5,3,23.5,-26.5,-3,-23.5,UTEP,23.5
+1267,401015012,2018,6,regular,2018-10-06,Rice,Conference USA,3,UT San Antonio,Conference USA,20,Rice -1,-1.0,17,-18.0,1.0,-17,18.0,UT San Antonio,18.0
+1195,401016407,2018,6,regular,2018-10-06,BYU,FBS Independents,20,Utah State,Mountain West,45,Utah State -1,1.0,25,-24.0,-1.0,-25,24.0,Utah State,24.0
+2660,401019502,2018,6,regular,2018-10-06,Memphis,American Athletic,55,Connecticut,American Athletic,14,Memphis -36,-36.0,-41,5.0,36.0,41,-5.0,Memphis,5.0
+1239,401019503,2018,6,regular,2018-10-06,Temple,American Athletic,49,East Carolina,American Athletic,6,Temple -10,-10.0,-43,33.0,10.0,43,-33.0,Temple,33.0
+3561,401019504,2018,6,regular,2018-10-06,Air Force,Mountain West,35,Navy,American Athletic,7,Navy -2.5,2.5,-28,30.5,-2.5,28,-30.5,Air Force,30.5
+711,401020751,2018,6,regular,2018-10-06,Toledo,Mid-American,52,Bowling Green,Mid-American,36,Toledo -22,-22.0,-16,-6.0,22.0,16,6.0,Bowling Green,6.0
+703,401020753,2018,6,regular,2018-10-06,Western Michigan,Mid-American,27,Eastern Michigan,Mid-American,24,Western Michigan -4.5,-4.5,-3,-1.5,4.5,3,1.5,Eastern Michigan,1.5
+707,401020754,2018,6,regular,2018-10-06,Ball State,Mid-American,16,Northern Illinois,Mid-American,24,Northern Illinois -3,3.0,8,-5.0,-3.0,-8,5.0,Northern Illinois,5.0
+715,401020755,2018,6,regular,2018-10-06,Kent State,Mid-American,26,Ohio,Mid-American,27,Ohio -12,12.0,1,11.0,-12.0,-1,-11.0,Kent State,11.0
+719,401020812,2018,6,regular,2018-10-06,Akron,Mid-American,17,Miami (OH),Mid-American,41,Akron -5,-5.0,24,-29.0,5.0,-24,29.0,Miami (OH),29.0
+723,401021670,2018,6,regular,2018-10-06,Georgia Southern,Sun Belt,48,South Alabama,Sun Belt,13,Georgia Southern -12.5,-12.5,-35,22.5,12.5,35,-22.5,Georgia Southern,22.5
+143,401021671,2018,6,regular,2018-10-06,Texas State,Sun Belt,27,Louisiana,Sun Belt,42,Louisiana -3,3.0,15,-12.0,-3.0,-15,12.0,Louisiana,12.0
+1251,401022528,2018,6,regular,2018-10-06,Boise State,Mountain West,13,San Diego State,Mountain West,19,Boise State -13.5,-13.5,6,-19.5,13.5,-6,19.5,San Diego State,19.5
+1259,401022530,2018,6,regular,2018-10-06,UNLV,Mountain West,14,New Mexico,Mountain West,50,UNLV -8,-8.0,36,-44.0,8.0,-36,44.0,New Mexico,44.0
+1275,401012759,2018,6,regular,2018-10-07,Arizona,Pac-12,24,California,Pac-12,17,California -2,2.0,-7,9.0,-2.0,7,-9.0,Arizona,9.0
+149,401012762,2018,6,regular,2018-10-07,Oregon State,Pac-12,37,Washington State,Pac-12,56,Washington State -18.5,18.5,19,-0.5,-18.5,-19,0.5,Washington State,0.5
+2781,401012763,2018,6,regular,2018-10-07,Stanford,Pac-12,21,Utah,Pac-12,40,Stanford -4,-4.0,19,-23.0,4.0,-19,23.0,Utah,23.0
+2823,401013143,2018,6,regular,2018-10-07,Virginia Tech,ACC,23,Notre Dame,FBS Independents,45,Notre Dame -6.5,6.5,22,-15.5,-6.5,-22,15.5,Notre Dame,15.5
+1285,401022531,2018,6,regular,2018-10-07,Hawai'i,Mountain West,17,Wyoming,Mountain West,13,Wyoming -3.5,3.5,-4,7.5,-3.5,4,-7.5,Hawai'i,7.5
+1281,401022532,2018,6,regular,2018-10-07,Nevada,Mountain West,3,Fresno State,Mountain West,21,Fresno State -16,16.0,18,-2.0,-16.0,-18,2.0,Fresno State,2.0
+3184,401021672,2018,7,regular,2018-10-10,Arkansas State,Sun Belt,9,Appalachian State,Sun Belt,35,Appalachian State -10.5,10.5,26,-15.5,-10.5,-26,15.5,Appalachian State,15.5
+488,401013076,2018,7,regular,2018-10-11,TCU,Big 12,14,Texas Tech,Big 12,17,TCU -7.5,-7.5,3,-10.5,7.5,-3,10.5,Texas Tech,10.5
+153,401021673,2018,7,regular,2018-10-11,Texas State,Sun Belt,13,Georgia Southern,Sun Belt,15,Georgia Southern -17.5,17.5,2,15.5,-17.5,-2,-15.5,Texas State,15.5
+1289,401019505,2018,7,regular,2018-10-12,Tulsa,American Athletic,24,South Florida,American Athletic,25,South Florida -9.5,9.5,1,8.5,-9.5,-1,-8.5,Tulsa,8.5
+2956,401012307,2018,7,regular,2018-10-13,Alabama,SEC,39,Missouri,SEC,10,Alabama -28.5,-28.5,-29,0.5,28.5,29,-0.5,Alabama,0.5
+3375,401012308,2018,7,regular,2018-10-13,Arkansas,SEC,33,Ole Miss,SEC,37,Ole Miss -6.5,6.5,4,2.5,-6.5,-4,-2.5,Arkansas,2.5
+1329,401012309,2018,7,regular,2018-10-13,Auburn,SEC,24,Tennessee,SEC,30,Auburn -15.5,-15.5,6,-21.5,15.5,-6,21.5,Tennessee,21.5
+1301,401012310,2018,7,regular,2018-10-13,LSU,SEC,36,Georgia,SEC,16,Georgia -7,7.0,-20,27.0,-7.0,20,-27.0,LSU,27.0
+1333,401012311,2018,7,regular,2018-10-13,South Carolina,SEC,23,Texas A&M,SEC,26,Texas A&M -2.5,2.5,3,-0.5,-2.5,-3,0.5,Texas A&M,0.5
+2707,401012312,2018,7,regular,2018-10-13,Vanderbilt,SEC,27,Florida,SEC,37,Florida -9.5,9.5,10,-0.5,-9.5,-10,0.5,Florida,0.5
+1297,401012764,2018,7,regular,2018-10-13,Utah,Pac-12,42,Arizona,Pac-12,10,Utah -14,-14.0,-32,18.0,14.0,32,-18.0,Utah,18.0
+1309,401012766,2018,7,regular,2018-10-13,Oregon,Pac-12,30,Washington,Pac-12,27,Washington -3.5,3.5,-3,6.5,-3.5,3,-6.5,Oregon,6.5
+3258,401012767,2018,7,regular,2018-10-13,California,Pac-12,7,UCLA,Pac-12,30,California -7,-7.0,23,-30.0,7.0,-23,30.0,UCLA,30.0
+2767,401012809,2018,7,regular,2018-10-13,Illinois,Big Ten,7,Purdue,Big Ten,46,Purdue -10.5,10.5,39,-28.5,-10.5,-39,28.5,Purdue,28.5
+3392,401012825,2018,7,regular,2018-10-13,Maryland,Big Ten,34,Rutgers,Big Ten,7,Maryland -24,-24.0,-27,3.0,24.0,27,-3.0,Maryland,3.0
+3255,401012856,2018,7,regular,2018-10-13,Indiana,Big Ten,16,Iowa,Big Ten,42,Iowa -3.5,3.5,26,-22.5,-3.5,-26,22.5,Iowa,22.5
+1313,401012883,2018,7,regular,2018-10-13,Penn State,Big Ten,17,Michigan State,Big Ten,21,Penn State -13.5,-13.5,4,-17.5,13.5,-4,17.5,Michigan State,17.5
+2889,401012893,2018,7,regular,2018-10-13,Michigan,Big Ten,38,Wisconsin,Big Ten,13,Michigan -10,-10.0,-25,15.0,10.0,25,-15.0,Michigan,15.0
+1317,401013032,2018,7,regular,2018-10-13,Texas,Big 12,23,Baylor,Big 12,17,Texas -14,-14.0,-6,-8.0,14.0,6,8.0,Baylor,8.0
+3371,401013043,2018,7,regular,2018-10-13,Iowa State,Big 12,30,West Virginia,Big 12,14,West Virginia -4.5,4.5,-16,20.5,-4.5,16,-20.5,Iowa State,20.5
+1337,401013061,2018,7,regular,2018-10-13,Kansas State,Big 12,31,Oklahoma State,Big 12,12,Oklahoma State -9,9.0,-19,28.0,-9.0,19,-28.0,Kansas State,28.0
+1349,401013144,2018,7,regular,2018-10-13,Boston College,ACC,38,Louisville,ACC,20,Boston College -12,-12.0,-18,6.0,12.0,18,-6.0,Boston College,6.0
+1345,401013145,2018,7,regular,2018-10-13,Georgia Tech,ACC,14,Duke,ACC,28,Georgia Tech -2,-2.0,14,-16.0,2.0,-14,16.0,Duke,16.0
+1321,401013146,2018,7,regular,2018-10-13,Virginia,ACC,16,Miami,ACC,13,Miami -7,7.0,-3,10.0,-7.0,3,-10.0,Virginia,10.0
+1379,401013147,2018,7,regular,2018-10-13,North Carolina,ACC,19,Virginia Tech,ACC,22,Virginia Tech -6.5,6.5,3,3.5,-6.5,-3,-3.5,North Carolina,3.5
+1305,401013148,2018,7,regular,2018-10-13,Notre Dame,FBS Independents,19,Pittsburgh,ACC,14,Notre Dame -21,-21.0,-5,-16.0,21.0,5,16.0,Pittsburgh,16.0
+3319,401013331,2018,7,regular,2018-10-13,Ohio State,Big Ten,30,Minnesota,Big Ten,14,Ohio State -29.5,-29.5,-16,-13.5,29.5,16,13.5,Minnesota,13.5
+1341,401013340,2018,7,regular,2018-10-13,Northwestern,Big Ten,34,Nebraska,Big Ten,31,Northwestern -3.5,-3.5,-3,-0.5,3.5,3,0.5,Nebraska,0.5
+2827,401013452,2018,7,regular,2018-10-13,Liberty,FBS Independents,22,Troy,Sun Belt,16,Troy -11,11.0,-6,17.0,-11.0,6,-17.0,Liberty,17.0
+1363,401015013,2018,7,regular,2018-10-13,Charlotte,Conference USA,40,Western Kentucky,Conference USA,14,Western Kentucky -9.5,9.5,-26,35.5,-9.5,26,-35.5,Charlotte,35.5
+2577,401015014,2018,7,regular,2018-10-13,Florida International,Conference USA,24,Middle Tennessee,Conference USA,21,Florida International -2,-2.0,-3,1.0,2.0,3,-1.0,Florida International,1.0
+1383,401015015,2018,7,regular,2018-10-13,UT San Antonio,Conference USA,3,Louisiana Tech,Conference USA,31,Louisiana Tech -12.5,12.5,28,-15.5,-12.5,-28,15.5,Louisiana Tech,15.5
+1367,401015016,2018,7,regular,2018-10-13,Old Dominion,Conference USA,20,Marshall,Conference USA,42,Marshall -3.5,3.5,22,-18.5,-3.5,-22,18.5,Marshall,18.5
+1357,401015017,2018,7,regular,2018-10-13,North Texas,Conference USA,30,Southern Mississippi,Conference USA,7,North Texas -7,-7.0,-23,16.0,7.0,23,-16.0,North Texas,16.0
+1353,401015018,2018,7,regular,2018-10-13,Rice,Conference USA,0,UAB,Conference USA,42,UAB -17,17.0,42,-25.0,-17.0,-42,25.0,UAB,25.0
+3025,401019507,2018,7,regular,2018-10-13,East Carolina,American Athletic,20,Houston,American Athletic,42,Houston -16,16.0,22,-6.0,-16.0,-22,6.0,Houston,6.0
+1371,401019508,2018,7,regular,2018-10-13,Navy,American Athletic,17,Temple,American Athletic,24,Temple -6.5,6.5,7,-0.5,-6.5,-7,0.5,Temple,0.5
+173,401020758,2018,7,regular,2018-10-13,Northern Illinois,Mid-American,24,Ohio,Mid-American,21,Northern Illinois -5.5,-5.5,-3,-2.5,5.5,3,2.5,Ohio,2.5
+159,401020759,2018,7,regular,2018-10-13,Eastern Michigan,Mid-American,28,Toledo,Mid-American,26,Toledo -2,2.0,-2,4.0,-2.0,2,-4.0,Eastern Michigan,4.0
+169,401020760,2018,7,regular,2018-10-13,Bowling Green,Mid-American,35,Western Michigan,Mid-American,42,Western Michigan -14.5,14.5,7,7.5,-14.5,-7,-7.5,Bowling Green,7.5
+163,401020810,2018,7,regular,2018-10-13,Miami (OH),Mid-American,31,Kent State,Mid-American,6,Miami (OH) -11,-11.0,-25,14.0,11.0,25,-14.0,Miami (OH),14.0
+179,401021674,2018,7,regular,2018-10-13,Coastal Carolina,Sun Belt,20,Louisiana Monroe,Sun Belt,45,Coastal Carolina -7,-7.0,25,-32.0,7.0,-25,32.0,Louisiana Monroe,32.0
+400,401021675,2018,7,regular,2018-10-13,South Alabama,Sun Belt,45,Alabama State,SWAC,7,South Alabama -27.5,-27.5,-38,10.5,27.5,38,-10.5,South Alabama,10.5
+1293,401022533,2018,7,regular,2018-10-13,San Diego State,Mountain West,21,Air Force,Mountain West,17,San Diego State -11,-11.0,-4,-7.0,11.0,4,7.0,Air Force,7.0
+2789,401022535,2018,7,regular,2018-10-13,Colorado State,Mountain West,20,New Mexico,Mountain West,18,New Mexico -1,1.0,-2,3.0,-1.0,2,-3.0,Colorado State,3.0
+1375,401022536,2018,7,regular,2018-10-13,Utah State,Mountain West,59,UNLV,Mountain West,28,Utah State -27,-27.0,-31,4.0,27.0,31,-4.0,Utah State,4.0
+1325,401012765,2018,7,regular,2018-10-14,USC,Pac-12,31,Colorado,Pac-12,20,USC -7,-7.0,-11,4.0,7.0,11,-4.0,USC,4.0
+183,401016408,2018,7,regular,2018-10-14,BYU,FBS Independents,49,Hawai'i,Mountain West,23,BYU -10.5,-10.5,-26,15.5,10.5,26,-15.5,BYU,15.5
+1387,401022534,2018,7,regular,2018-10-14,Nevada,Mountain West,27,Boise State,Mountain West,31,Boise State -14,14.0,4,10.0,-14.0,-4,-10.0,Nevada,10.0
+1391,401022537,2018,7,regular,2018-10-14,Fresno State,Mountain West,27,Wyoming,Mountain West,3,Fresno State -18,-18.0,-24,6.0,18.0,24,-6.0,Fresno State,6.0
+1395,401021676,2018,8,regular,2018-10-18,Arkansas State,Sun Belt,51,Georgia State,Sun Belt,35,Arkansas State -13,-13.0,-16,3.0,13.0,16,-3.0,Arkansas State,3.0
+1399,401012768,2018,8,regular,2018-10-19,Arizona State,Pac-12,13,Stanford,Pac-12,20,Stanford -2,2.0,7,-5.0,-2.0,-7,5.0,Stanford,5.0
+1438,401012313,2018,8,regular,2018-10-20,Arkansas,SEC,23,Tulsa,American Athletic,0,Arkansas -6,-6.0,-23,17.0,6.0,23,-17.0,Arkansas,17.0
+1427,401012314,2018,8,regular,2018-10-20,Kentucky,SEC,14,Vanderbilt,SEC,7,Kentucky -10.5,-10.5,-7,-3.5,10.5,7,3.5,Vanderbilt,3.5
+1411,401012315,2018,8,regular,2018-10-20,LSU,SEC,19,Mississippi State,SEC,3,LSU -5.5,-5.5,-16,10.5,5.5,16,-10.5,LSU,10.5
+1442,401012316,2018,8,regular,2018-10-20,Ole Miss,SEC,16,Auburn,SEC,31,Auburn -4.5,4.5,15,-10.5,-4.5,-15,10.5,Auburn,10.5
+1485,401012317,2018,8,regular,2018-10-20,Missouri,SEC,65,Memphis,American Athletic,33,Missouri -9.5,-9.5,-32,22.5,9.5,32,-22.5,Missouri,22.5
+2771,401012318,2018,8,regular,2018-10-20,Tennessee,SEC,21,Alabama,SEC,58,Alabama -29,29.0,37,-8.0,-29.0,-37,8.0,Alabama,8.0
+2738,401012771,2018,8,regular,2018-10-20,Oregon State,Pac-12,7,California,Pac-12,49,California -6.5,6.5,42,-35.5,-6.5,-42,35.5,California,35.5
+518,401012772,2018,8,regular,2018-10-20,Washington,Pac-12,27,Colorado,Pac-12,13,Washington -17,-17.0,-14,-3.0,17.0,14,3.0,Colorado,3.0
+1423,401012773,2018,8,regular,2018-10-20,Washington State,Pac-12,34,Oregon,Pac-12,20,Washington State -3,-3.0,-14,11.0,3.0,14,-11.0,Washington State,11.0
+2793,401012810,2018,8,regular,2018-10-20,Wisconsin,Big Ten,49,Illinois,Big Ten,20,Wisconsin -24,-24.0,-29,5.0,24.0,29,-5.0,Wisconsin,5.0
+1446,401012846,2018,8,regular,2018-10-20,Rutgers,Big Ten,15,Northwestern,Big Ten,18,Northwestern -20.5,20.5,3,17.5,-20.5,-3,-17.5,Rutgers,17.5
+2581,401012857,2018,8,regular,2018-10-20,Indiana,Big Ten,28,Penn State,Big Ten,33,Penn State -14,14.0,5,9.0,-14.0,-5,-9.0,Indiana,9.0
+3029,401012867,2018,8,regular,2018-10-20,Iowa,Big Ten,23,Maryland,Big Ten,0,Iowa -9.5,-9.5,-23,13.5,9.5,23,-13.5,Iowa,13.5
+1415,401012884,2018,8,regular,2018-10-20,Michigan State,Big Ten,7,Michigan,Big Ten,21,Michigan -7.5,7.5,14,-6.5,-7.5,-14,6.5,Michigan,6.5
+1465,401013052,2018,8,regular,2018-10-20,Texas Tech,Big 12,48,Kansas,Big 12,16,Texas Tech -17.5,-17.5,-32,14.5,17.5,32,-14.5,Texas Tech,14.5
+1419,401013068,2018,8,regular,2018-10-20,TCU,Big 12,27,Oklahoma,Big 12,52,Oklahoma -8,8.0,25,-17.0,-8.0,-25,17.0,Oklahoma,17.0
+1407,401013149,2018,8,regular,2018-10-20,Clemson,ACC,41,NC State,ACC,7,Clemson -18.5,-18.5,-34,15.5,18.5,34,-15.5,Clemson,15.5
+1458,401013150,2018,8,regular,2018-10-20,Duke,ACC,14,Virginia,ACC,28,Duke -6.5,-6.5,14,-20.5,6.5,-14,20.5,Virginia,20.5
+1469,401013151,2018,8,regular,2018-10-20,Florida State,ACC,38,Wake Forest,ACC,17,Florida State -10.5,-10.5,-21,10.5,10.5,21,-10.5,Florida State,10.5
+1454,401013152,2018,8,regular,2018-10-20,Syracuse,ACC,40,North Carolina,ACC,37,Syracuse -10,-10.0,-3,-7.0,10.0,3,7.0,North Carolina,7.0
+1473,401013332,2018,8,regular,2018-10-20,Nebraska,Big Ten,53,Minnesota,Big Ten,28,Nebraska -5,-5.0,-25,20.0,5.0,25,-20.0,Nebraska,20.0
+2775,401013348,2018,8,regular,2018-10-20,Purdue,Big Ten,49,Ohio State,Big Ten,20,Ohio State -12.5,12.5,-29,41.5,-12.5,29,-41.5,Purdue,41.5
+203,401013363,2018,8,regular,2018-10-20,UMass,FBS Independents,13,Coastal Carolina,Sun Belt,24,UMass -2.5,-2.5,11,-13.5,2.5,-11,13.5,Coastal Carolina,13.5
+1450,401013371,2018,8,regular,2018-10-20,Army,FBS Independents,31,Miami (OH),Mid-American,30,Army -6.5,-6.5,-1,-5.5,6.5,1,5.5,Miami (OH),5.5
+215,401013443,2018,8,regular,2018-10-20,New Mexico State,FBS Independents,31,Georgia Southern,Sun Belt,48,Georgia Southern -9.5,9.5,17,-7.5,-9.5,-17,7.5,Georgia Southern,7.5
+3187,401013453,2018,8,regular,2018-10-20,Liberty,FBS Independents,48,Idaho State,Big Sky,41,Liberty -7.5,-7.5,-7,-0.5,7.5,7,0.5,Idaho State,0.5
+1462,401015019,2018,8,regular,2018-10-20,Middle Tennessee,Conference USA,21,Charlotte,Conference USA,13,Middle Tennessee -15.5,-15.5,-8,-7.5,15.5,8,7.5,Charlotte,7.5
+2746,401015020,2018,8,regular,2018-10-20,Florida International,Conference USA,36,Rice,Conference USA,17,Florida International -23.5,-23.5,-19,-4.5,23.5,19,4.5,Rice,4.5
+3122,401015021,2018,8,regular,2018-10-20,Marshall,Conference USA,31,Florida Atlantic,Conference USA,7,Florida Atlantic -2.5,2.5,-24,26.5,-2.5,24,-26.5,Marshall,26.5
+2584,401015022,2018,8,regular,2018-10-20,Louisiana Tech,Conference USA,31,UTEP,Conference USA,24,Louisiana Tech -22,-22.0,-7,-15.0,22.0,7,15.0,UTEP,15.0
+1493,401015023,2018,8,regular,2018-10-20,UAB,Conference USA,29,North Texas,Conference USA,21,UAB -1.5,-1.5,-8,6.5,1.5,8,-6.5,UAB,6.5
+1497,401015024,2018,8,regular,2018-10-20,Western Kentucky,Conference USA,34,Old Dominion,Conference USA,37,Western Kentucky -4,-4.0,3,-7.0,4.0,-3,7.0,Old Dominion,7.0
+1489,401015025,2018,8,regular,2018-10-20,Southern Mississippi,Conference USA,27,UT San Antonio,Conference USA,17,Southern Mississippi -15.5,-15.5,-10,-5.5,15.5,10,5.5,UT San Antonio,5.5
+2711,401019509,2018,8,regular,2018-10-20,East Carolina,American Athletic,10,UCF,American Athletic,37,UCF -21.5,21.5,27,-5.5,-21.5,-27,5.5,UCF,5.5
+1431,401019510,2018,8,regular,2018-10-20,Temple,American Athletic,24,Cincinnati,American Athletic,17,Temple -2.5,-2.5,-7,4.5,2.5,7,-4.5,Temple,4.5
+1435,401019511,2018,8,regular,2018-10-20,South Florida,American Athletic,38,Connecticut,American Athletic,30,South Florida -31.5,-31.5,-8,-23.5,31.5,8,23.5,Connecticut,23.5
+1477,401019512,2018,8,regular,2018-10-20,Navy,American Athletic,36,Houston,American Athletic,49,Houston -11.5,11.5,13,-1.5,-11.5,-13,1.5,Houston,1.5
+1481,401019513,2018,8,regular,2018-10-20,Tulane,American Athletic,23,SMU,American Athletic,27,Tulane -7.5,-7.5,4,-11.5,7.5,-4,11.5,SMU,11.5
+207,401020761,2018,8,regular,2018-10-20,Kent State,Mid-American,23,Akron,Mid-American,24,Akron -4.5,4.5,1,3.5,-4.5,-1,-3.5,Kent State,3.5
+191,401020762,2018,8,regular,2018-10-20,Ohio,Mid-American,49,Bowling Green,Mid-American,14,Ohio -16.5,-16.5,-35,18.5,16.5,35,-18.5,Ohio,18.5
+187,401020763,2018,8,regular,2018-10-20,Toledo,Mid-American,17,Buffalo,Mid-American,31,Toledo -3,-3.0,14,-17.0,3.0,-14,17.0,Buffalo,17.0
+195,401020764,2018,8,regular,2018-10-20,Ball State,Mid-American,20,Eastern Michigan,Mid-American,42,Eastern Michigan -3,3.0,22,-19.0,-3.0,-22,19.0,Eastern Michigan,19.0
+199,401020765,2018,8,regular,2018-10-20,Central Michigan,Mid-American,10,Western Michigan,Mid-American,35,Western Michigan -5,5.0,25,-20.0,-5.0,-25,20.0,Western Michigan,20.0
+211,401021677,2018,8,regular,2018-10-20,Appalachian State,Sun Belt,27,Louisiana,Sun Belt,17,Appalachian State -25.5,-25.5,-10,-15.5,25.5,10,15.5,Louisiana,15.5
+2742,401021678,2018,8,regular,2018-10-20,Louisiana Monroe,Sun Belt,20,Texas State,Sun Belt,14,Louisiana Monroe -10.5,-10.5,-6,-4.5,10.5,6,4.5,Texas State,4.5
+1403,401022538,2018,8,regular,2018-10-20,Boise State,Mountain West,56,Colorado State,Mountain West,28,Boise State -23.5,-23.5,-28,4.5,23.5,28,-4.5,Boise State,4.5
+2608,401022539,2018,8,regular,2018-10-20,UNLV,Mountain West,35,Air Force,Mountain West,41,Air Force -9.5,9.5,6,3.5,-9.5,-6,-3.5,UNLV,3.5
+2636,401022540,2018,8,regular,2018-10-20,Wyoming,Mountain West,16,Utah State,Mountain West,24,Utah State -13.5,13.5,8,5.5,-13.5,-8,-5.5,Wyoming,5.5
+2588,401022541,2018,8,regular,2018-10-20,New Mexico,Mountain West,7,Fresno State,Mountain West,38,Fresno State -14,14.0,31,-17.0,-14.0,-31,17.0,Fresno State,17.0
+1505,401012769,2018,8,regular,2018-10-21,UCLA,Pac-12,31,Arizona,Pac-12,30,UCLA -10,-10.0,-1,-9.0,10.0,1,9.0,Arizona,9.0
+1501,401012770,2018,8,regular,2018-10-21,Utah,Pac-12,41,USC,Pac-12,28,Utah -6.5,-6.5,-13,6.5,6.5,13,-6.5,Utah,6.5
+1509,401022542,2018,8,regular,2018-10-21,Hawai'i,Mountain West,22,Nevada,Mountain West,40,Hawai'i -2.5,-2.5,18,-20.5,2.5,-18,20.5,Nevada,20.5
+1513,401021679,2018,9,regular,2018-10-24,South Alabama,Sun Belt,17,Troy,Sun Belt,38,Troy -11,11.0,21,-10.0,-11.0,-21,10.0,Troy,10.0
+1517,401013033,2018,9,regular,2018-10-25,West Virginia,Big 12,58,Baylor,Big 12,14,West Virginia -14.5,-14.5,-44,29.5,14.5,44,-29.5,West Virginia,29.5
+1525,401013153,2018,9,regular,2018-10-25,Virginia Tech,ACC,28,Georgia Tech,ACC,49,Virginia Tech -3,-3.0,21,-24.0,3.0,-21,24.0,Georgia Tech,24.0
+219,401020766,2018,9,regular,2018-10-25,Ohio,Mid-American,52,Ball State,Mid-American,14,Ohio -10.5,-10.5,-38,27.5,10.5,38,-27.5,Ohio,27.5
+223,401020767,2018,9,regular,2018-10-25,Western Michigan,Mid-American,24,Toledo,Mid-American,51,Western Michigan -4.5,-4.5,27,-31.5,4.5,-27,31.5,Toledo,31.5
+1521,401021680,2018,9,regular,2018-10-25,Georgia Southern,Sun Belt,34,Appalachian State,Sun Belt,14,Appalachian State -11,11.0,-20,31.0,-11.0,20,-31.0,Georgia Southern,31.0
+3157,401013154,2018,9,regular,2018-10-26,Boston College,ACC,27,Miami,ACC,14,Miami -3.5,3.5,-13,16.5,-3.5,13,-16.5,Boston College,16.5
+3189,401015028,2018,9,regular,2018-10-26,Florida Atlantic,Conference USA,13,Louisiana Tech,Conference USA,21,Florida Atlantic -3.5,-3.5,8,-11.5,3.5,-8,11.5,Louisiana Tech,11.5
+227,401012319,2018,9,regular,2018-10-27,Arkansas,SEC,31,Vanderbilt,SEC,45,Arkansas -1,-1.0,14,-15.0,1.0,-14,15.0,Vanderbilt,15.0
+1544,401012320,2018,9,regular,2018-10-27,Georgia,SEC,36,Florida,SEC,17,Georgia -7,-7.0,-19,12.0,7.0,19,-12.0,Georgia,12.0
+1560,401012321,2018,9,regular,2018-10-27,Mississippi State,SEC,28,Texas A&M,SEC,13,Mississippi State -1,-1.0,-15,14.0,1.0,15,-14.0,Mississippi State,14.0
+1552,401012322,2018,9,regular,2018-10-27,Missouri,SEC,14,Kentucky,SEC,16,Missouri -7.5,-7.5,2,-9.5,7.5,-2,9.5,Kentucky,9.5
+251,401012323,2018,9,regular,2018-10-27,South Carolina,SEC,27,Tennessee,SEC,24,South Carolina -10,-10.0,-3,-7.0,10.0,3,7.0,Tennessee,7.0
+1528,401012774,2018,9,regular,2018-10-27,UCLA,Pac-12,10,Utah,Pac-12,41,Utah -10,10.0,31,-21.0,-10.0,-31,21.0,Utah,21.0
+1605,401012776,2018,9,regular,2018-10-27,USC,Pac-12,35,Arizona State,Pac-12,38,USC -3,-3.0,3,-6.0,3.0,-3,6.0,Arizona State,6.0
+460,401012777,2018,9,regular,2018-10-27,Colorado,Pac-12,34,Oregon State,Pac-12,41,Colorado -23.5,-23.5,7,-30.5,23.5,-7,30.5,Oregon State,30.5
+3323,401012778,2018,9,regular,2018-10-27,California,Pac-12,12,Washington,Pac-12,10,Washington -12,12.0,-2,14.0,-12.0,2,-14.0,California,14.0
+1556,401012779,2018,9,regular,2018-10-27,Stanford,Pac-12,38,Washington State,Pac-12,41,Stanford -2.5,-2.5,3,-5.5,2.5,-3,5.5,Washington State,5.5
+2612,401012811,2018,9,regular,2018-10-27,Maryland,Big Ten,63,Illinois,Big Ten,33,Maryland -16.5,-16.5,-30,13.5,16.5,30,-13.5,Maryland,13.5
+1532,401012858,2018,9,regular,2018-10-27,Minnesota,Big Ten,38,Indiana,Big Ten,31,Indiana -2.5,2.5,-7,9.5,-2.5,7,-9.5,Minnesota,9.5
+1564,401012868,2018,9,regular,2018-10-27,Penn State,Big Ten,30,Iowa,Big Ten,24,Penn State -4.5,-4.5,-6,1.5,4.5,6,-1.5,Penn State,1.5
+1584,401012885,2018,9,regular,2018-10-27,Michigan State,Big Ten,23,Purdue,Big Ten,13,Purdue -2.5,2.5,-10,12.5,-2.5,10,-12.5,Michigan State,12.5
+1588,401013044,2018,9,regular,2018-10-27,Iowa State,Big 12,40,Texas Tech,Big 12,31,Iowa State -5.5,-5.5,-9,3.5,5.5,9,-3.5,Iowa State,3.5
+1601,401013053,2018,9,regular,2018-10-27,Kansas,Big 12,27,TCU,Big 12,26,TCU -13.5,13.5,-1,14.5,-13.5,1,-14.5,Kansas,14.5
+1548,401013062,2018,9,regular,2018-10-27,Oklahoma,Big 12,51,Kansas State,Big 12,14,Oklahoma -24,-24.0,-37,13.0,24.0,37,-13.0,Oklahoma,13.0
+2664,401013155,2018,9,regular,2018-10-27,Florida State,ACC,10,Clemson,ACC,59,Clemson -18,18.0,49,-31.0,-18.0,-49,31.0,Clemson,31.0
+139,401013156,2018,9,regular,2018-10-27,Pittsburgh,ACC,54,Duke,ACC,45,Duke -3,3.0,-9,12.0,-3.0,9,-12.0,Pittsburgh,12.0
+1592,401013157,2018,9,regular,2018-10-27,Louisville,ACC,35,Wake Forest,ACC,56,Louisville -2.5,-2.5,21,-23.5,2.5,-21,23.5,Wake Forest,23.5
+457,401013158,2018,9,regular,2018-10-27,Virginia,ACC,31,North Carolina,ACC,21,Virginia -8,-8.0,-10,2.0,8.0,10,-2.0,Virginia,2.0
+1580,401013159,2018,9,regular,2018-10-27,Syracuse,ACC,51,NC State,ACC,41,NC State -2,2.0,-10,12.0,-2.0,10,-12.0,Syracuse,12.0
+1572,401013344,2018,9,regular,2018-10-27,Northwestern,Big Ten,31,Wisconsin,Big Ten,17,Wisconsin -4,4.0,-14,18.0,-4.0,14,-18.0,Northwestern,18.0
+231,401013364,2018,9,regular,2018-10-27,Connecticut,American Athletic,17,UMass,FBS Independents,22,UMass -3.5,3.5,5,-1.5,-3.5,-5,1.5,UMass,1.5
+1596,401013372,2018,9,regular,2018-10-27,Eastern Michigan,Mid-American,22,Army,FBS Independents,37,Army -1.5,1.5,15,-13.5,-1.5,-15,13.5,Army,13.5
+243,401013444,2018,9,regular,2018-10-27,Texas State,Sun Belt,27,New Mexico State,FBS Independents,20,New Mexico State -1,1.0,-7,8.0,-1.0,7,-8.0,Texas State,8.0
+3379,401015026,2018,9,regular,2018-10-27,Charlotte,Conference USA,20,Southern Mississippi,Conference USA,17,Southern Mississippi -6.5,6.5,-3,9.5,-6.5,3,-9.5,Charlotte,9.5
+1635,401015027,2018,9,regular,2018-10-27,Western Kentucky,Conference USA,17,Florida International,Conference USA,38,Florida International -3,3.0,21,-18.0,-3.0,-21,18.0,Florida International,18.0
+1609,401015029,2018,9,regular,2018-10-27,Old Dominion,Conference USA,17,Middle Tennessee,Conference USA,51,Middle Tennessee -4,4.0,34,-30.0,-4.0,-34,30.0,Middle Tennessee,30.0
+1621,401015030,2018,9,regular,2018-10-27,North Texas,Conference USA,41,Rice,Conference USA,17,North Texas -30,-30.0,-24,-6.0,30.0,24,6.0,Rice,6.0
+1639,401015031,2018,9,regular,2018-10-27,UTEP,Conference USA,0,UAB,Conference USA,19,UAB -14.5,14.5,19,-4.5,-14.5,-19,4.5,UAB,4.5
+1613,401016409,2018,9,regular,2018-10-27,BYU,FBS Independents,6,Northern Illinois,Mid-American,7,BYU -6.5,-6.5,1,-7.5,6.5,-1,7.5,Northern Illinois,7.5
+1617,401019514,2018,9,regular,2018-10-27,SMU,American Athletic,20,Cincinnati,American Athletic,26,Cincinnati -9,9.0,6,3.0,-9.0,-6,-3.0,SMU,3.0
+1576,401019515,2018,9,regular,2018-10-27,Houston,American Athletic,57,South Florida,American Athletic,36,Houston -10,-10.0,-21,11.0,10.0,21,-11.0,Houston,11.0
+1627,401019516,2018,9,regular,2018-10-27,Tulsa,American Athletic,17,Tulane,American Athletic,24,Tulsa -2.5,-2.5,7,-9.5,2.5,-7,9.5,Tulane,9.5
+235,401020768,2018,9,regular,2018-10-27,Akron,Mid-American,17,Central Michigan,Mid-American,10,Akron -5.5,-5.5,-7,1.5,5.5,7,-1.5,Akron,1.5
+247,401021681,2018,9,regular,2018-10-27,Louisiana,Sun Belt,47,Arkansas State,Sun Belt,43,Arkansas State -3,3.0,-4,7.0,-3.0,4,-7.0,Louisiana,7.0
+239,401021682,2018,9,regular,2018-10-27,Georgia State,Sun Belt,34,Coastal Carolina,Sun Belt,37,Coastal Carolina -2.5,2.5,3,-0.5,-2.5,-3,0.5,Coastal Carolina,0.5
+1631,401022544,2018,9,regular,2018-10-27,Air Force,Mountain West,38,Boise State,Mountain West,48,Boise State -10,10.0,10,0.0,-10.0,-10,-0.0,Boise State,0.0
+2700,401022545,2018,9,regular,2018-10-27,Utah State,Mountain West,61,New Mexico,Mountain West,19,Utah State -20,-20.0,-42,22.0,20.0,42,-22.0,Utah State,22.0
+1536,401022546,2018,9,regular,2018-10-27,Colorado State,Mountain West,21,Wyoming,Mountain West,34,Wyoming -3,3.0,13,-10.0,-3.0,-13,10.0,Wyoming,10.0
+1599,401085385,2018,9,regular,2018-10-27,Nebraska,Big Ten,45,Bethune-Cookman,MEAC,9,Nebraska -48,-48.0,-36,-12.0,48.0,36,12.0,Bethune-Cookman,12.0
+1568,401012775,2018,9,regular,2018-10-28,Arizona,Pac-12,44,Oregon,Pac-12,15,Oregon -8,8.0,-29,37.0,-8.0,29,-37.0,Arizona,37.0
+1540,401013189,2018,9,regular,2018-10-28,Navy,American Athletic,22,Notre Dame,FBS Independents,44,Notre Dame -22,22.0,22,0.0,-22.0,-22,-0.0,Notre Dame,0.0
+2592,401013320,2018,9,regular,2018-10-28,Oklahoma State,Big 12,38,Texas,Big 12,35,Texas -2.5,2.5,-3,5.5,-2.5,3,-5.5,Oklahoma State,5.5
+1643,401022547,2018,9,regular,2018-10-28,Fresno State,Mountain West,50,Hawai'i,Mountain West,20,Fresno State -25.5,-25.5,-30,4.5,25.5,30,-4.5,Fresno State,4.5
+3161,401022548,2018,9,regular,2018-10-28,Nevada,Mountain West,28,San Diego State,Mountain West,24,San Diego State -1,1.0,-4,5.0,-1.0,4,-5.0,Nevada,5.0
+255,401020769,2018,10,regular,2018-10-31,Bowling Green,Mid-American,28,Kent State,Mid-American,35,Bowling Green -1.5,-1.5,7,-8.5,1.5,-7,8.5,Kent State,8.5
+259,401020770,2018,10,regular,2018-10-31,Buffalo,Mid-American,51,Miami (OH),Mid-American,42,Buffalo -7,-7.0,-9,2.0,7.0,9,-2.0,Buffalo,2.0
+1647,401020771,2018,10,regular,2018-10-31,Toledo,Mid-American,45,Ball State,Mid-American,13,Toledo -19.5,-19.5,-32,12.5,19.5,32,-12.5,Toledo,12.5
+2640,401019517,2018,10,regular,2018-11-01,UCF,American Athletic,52,Temple,American Athletic,40,UCF -10.5,-10.5,-12,1.5,10.5,12,-1.5,UCF,1.5
+263,401020772,2018,10,regular,2018-11-01,Akron,Mid-American,26,Northern Illinois,Mid-American,36,Northern Illinois -6,6.0,10,-4.0,-6.0,-10,4.0,Northern Illinois,4.0
+267,401020773,2018,10,regular,2018-11-01,Western Michigan,Mid-American,14,Ohio,Mid-American,59,Ohio -3.5,3.5,45,-41.5,-3.5,-45,41.5,Ohio,41.5
+522,401013160,2018,10,regular,2018-11-02,Virginia,ACC,13,Pittsburgh,ACC,23,Virginia -7,-7.0,10,-17.0,7.0,-10,17.0,Pittsburgh,17.0
+1684,401012324,2018,10,regular,2018-11-03,Auburn,SEC,28,Texas A&M,SEC,24,Auburn -3.5,-3.5,-4,0.5,3.5,4,-0.5,Auburn,0.5
+2960,401012325,2018,10,regular,2018-11-03,Florida,SEC,17,Missouri,SEC,38,Florida -6,-6.0,21,-27.0,6.0,-21,27.0,Missouri,27.0
+1670,401012326,2018,10,regular,2018-11-03,Kentucky,SEC,17,Georgia,SEC,34,Georgia -9.5,9.5,17,-7.5,-9.5,-17,7.5,Georgia,7.5
+3266,401012328,2018,10,regular,2018-11-03,Ole Miss,SEC,44,South Carolina,SEC,48,Ole Miss -2,-2.0,4,-6.0,2.0,-4,6.0,South Carolina,6.0
+271,401012329,2018,10,regular,2018-11-03,Mississippi State,SEC,45,Louisiana Tech,Conference USA,3,Mississippi State -23.5,-23.5,-42,18.5,23.5,42,-18.5,Mississippi State,18.5
+291,401012330,2018,10,regular,2018-11-03,Tennessee,SEC,14,Charlotte,Conference USA,3,Tennessee -21,-21.0,-11,-10.0,21.0,11,10.0,Charlotte,10.0
+1654,401012780,2018,10,regular,2018-11-03,Arizona,Pac-12,42,Colorado,Pac-12,34,Arizona -3.5,-3.5,-8,4.5,3.5,8,-4.5,Arizona,4.5
+1816,401012782,2018,10,regular,2018-11-03,Oregon,Pac-12,42,UCLA,Pac-12,21,Oregon -10.5,-10.5,-21,10.5,10.5,21,-10.5,Oregon,10.5
+1786,401012812,2018,10,regular,2018-11-03,Illinois,Big Ten,55,Minnesota,Big Ten,31,Minnesota -8.5,8.5,-24,32.5,-8.5,24,-32.5,Illinois,32.5
+2382,401012847,2018,10,regular,2018-11-03,Wisconsin,Big Ten,31,Rutgers,Big Ten,17,Wisconsin -29,-29.0,-14,-15.0,29.0,14,15.0,Rutgers,15.0
+1680,401012869,2018,10,regular,2018-11-03,Purdue,Big Ten,38,Iowa,Big Ten,36,Purdue -2,-2.0,-2,0.0,2.0,2,-0.0,Iowa,0.0
+2385,401012877,2018,10,regular,2018-11-03,Maryland,Big Ten,3,Michigan State,Big Ten,24,Michigan State -3.5,3.5,21,-17.5,-3.5,-21,17.5,Michigan State,17.5
+1666,401012894,2018,10,regular,2018-11-03,Michigan,Big Ten,42,Penn State,Big Ten,7,Michigan -13,-13.0,-35,22.0,13.0,35,-22.0,Michigan,22.0
+2389,401013034,2018,10,regular,2018-11-03,Baylor,Big 12,35,Oklahoma State,Big 12,31,Oklahoma State -6,6.0,-4,10.0,-6.0,4,-10.0,Baylor,10.0
+2378,401013045,2018,10,regular,2018-11-03,Kansas,Big 12,3,Iowa State,Big 12,27,Iowa State -18,18.0,24,-6.0,-18.0,-24,6.0,Iowa State,6.0
+131,401013063,2018,10,regular,2018-11-03,TCU,Big 12,14,Kansas State,Big 12,13,TCU -10,-10.0,-1,-9.0,10.0,1,9.0,Kansas State,9.0
+1692,401013161,2018,10,regular,2018-11-03,Virginia Tech,ACC,21,Boston College,ACC,31,Boston College -2,2.0,10,-8.0,-2.0,-10,8.0,Boston College,8.0
+2831,401013162,2018,10,regular,2018-11-03,Clemson,ACC,77,Louisville,ACC,16,Clemson -38.5,-38.5,-61,22.5,38.5,61,-22.5,Clemson,22.5
+1806,401013163,2018,10,regular,2018-11-03,Miami,ACC,12,Duke,ACC,20,Miami -9.5,-9.5,8,-17.5,9.5,-8,17.5,Duke,17.5
+1688,401013164,2018,10,regular,2018-11-03,NC State,ACC,47,Florida State,ACC,28,NC State -9.5,-9.5,-19,9.5,9.5,19,-9.5,NC State,9.5
+3399,401013165,2018,10,regular,2018-11-03,North Carolina,ACC,28,Georgia Tech,ACC,38,Georgia Tech -4,4.0,10,-6.0,-4.0,-10,6.0,Georgia Tech,6.0
+3327,401013166,2018,10,regular,2018-11-03,Wake Forest,ACC,24,Syracuse,ACC,41,Syracuse -6.5,6.5,17,-10.5,-6.5,-17,10.5,Syracuse,10.5
+3262,401013188,2018,10,regular,2018-11-03,Texas,Big 12,41,West Virginia,Big 12,42,West Virginia -1,1.0,1,0.0,-1.0,-1,-0.0,West Virginia,0.0
+1674,401013341,2018,10,regular,2018-11-03,Ohio State,Big Ten,36,Nebraska,Big Ten,31,Ohio State -17.5,-17.5,-5,-12.5,17.5,5,12.5,Nebraska,12.5
+1662,401013345,2018,10,regular,2018-11-03,Northwestern,Big Ten,21,Notre Dame,FBS Independents,31,Notre Dame -10,10.0,10,0.0,-10.0,-10,-0.0,Notre Dame,0.0
+287,401013365,2018,10,regular,2018-11-03,UMass,FBS Independents,62,Liberty,FBS Independents,59,Liberty -1,1.0,-3,4.0,-1.0,3,-4.0,UMass,4.0
+3395,401013373,2018,10,regular,2018-11-03,Army,FBS Independents,17,Air Force,Mountain West,14,Army -5.5,-5.5,-3,-2.5,5.5,3,2.5,Air Force,2.5
+294,401013445,2018,10,regular,2018-11-03,New Mexico State,FBS Independents,52,Alcorn State,SWAC,42,New Mexico State -13,-13.0,-10,-3.0,13.0,10,3.0,Alcorn State,3.0
+1820,401015032,2018,10,regular,2018-11-03,Florida International,Conference USA,14,Florida Atlantic,Conference USA,49,Florida International -2,-2.0,35,-37.0,2.0,-35,37.0,Florida Atlantic,37.0
+1778,401015033,2018,10,regular,2018-11-03,Southern Mississippi,Conference USA,26,Marshall,Conference USA,24,Marshall -2.5,2.5,-2,4.5,-2.5,2,-4.5,Southern Mississippi,4.5
+1651,401015034,2018,10,regular,2018-11-03,Middle Tennessee,Conference USA,29,Western Kentucky,Conference USA,10,Middle Tennessee -13.5,-13.5,-19,5.5,13.5,19,-5.5,Middle Tennessee,5.5
+1790,401015035,2018,10,regular,2018-11-03,Rice,Conference USA,26,UTEP,Conference USA,34,UTEP -1.5,1.5,8,-6.5,-1.5,-8,6.5,UTEP,6.5
+1824,401015036,2018,10,regular,2018-11-03,UAB,Conference USA,52,UT San Antonio,Conference USA,3,UAB -21.5,-21.5,-49,27.5,21.5,49,-27.5,UAB,27.5
+1794,401019518,2018,10,regular,2018-11-03,Cincinnati,American Athletic,42,Navy,American Athletic,0,Cincinnati -12,-12.0,-42,30.0,12.0,42,-30.0,Cincinnati,30.0
+1798,401019521,2018,10,regular,2018-11-03,South Florida,American Athletic,15,Tulane,American Athletic,41,South Florida -6,-6.0,26,-32.0,6.0,-26,32.0,Tulane,32.0
+1812,401019522,2018,10,regular,2018-11-03,SMU,American Athletic,45,Houston,American Athletic,31,Houston -14,14.0,-14,28.0,-14.0,14,-28.0,SMU,28.0
+275,401020774,2018,10,regular,2018-11-03,Eastern Michigan,Mid-American,17,Central Michigan,Mid-American,7,Eastern Michigan -14,-14.0,-10,-4.0,14.0,10,4.0,Central Michigan,4.0
+296,401021683,2018,10,regular,2018-11-03,Coastal Carolina,Sun Belt,7,Appalachian State,Sun Belt,23,Appalachian State -13.5,13.5,16,-2.5,-13.5,-16,2.5,Appalachian State,2.5
+1782,401021684,2018,10,regular,2018-11-03,Arkansas State,Sun Belt,38,South Alabama,Sun Belt,14,Arkansas State -14,-14.0,-24,10.0,14.0,24,-10.0,Arkansas State,10.0
+283,401021685,2018,10,regular,2018-11-03,Louisiana Monroe,Sun Belt,44,Georgia Southern,Sun Belt,25,Georgia Southern -7,7.0,-19,26.0,-7.0,19,-26.0,Louisiana Monroe,26.0
+279,401021686,2018,10,regular,2018-11-03,Georgia State,Sun Belt,30,Texas State,Sun Belt,40,Georgia State -7,-7.0,10,-17.0,7.0,-10,17.0,Texas State,17.0
+1802,401021687,2018,10,regular,2018-11-03,Troy,Sun Belt,26,Louisiana,Sun Belt,16,Troy -8,-8.0,-10,2.0,8.0,10,-2.0,Troy,2.0
+1658,401012327,2018,10,regular,2018-11-04,LSU,SEC,0,Alabama,SEC,29,Alabama -14,14.0,29,-15.0,-14.0,-29,15.0,Alabama,15.0
+1828,401012784,2018,10,regular,2018-11-04,Washington,Pac-12,27,Stanford,Pac-12,23,Washington -9.5,-9.5,-4,-5.5,9.5,4,5.5,Stanford,5.5
+2750,401012785,2018,10,regular,2018-11-04,Washington State,Pac-12,19,California,Pac-12,13,Washington State -7.5,-7.5,-6,-1.5,7.5,6,1.5,California,1.5
+3033,401013069,2018,10,regular,2018-11-04,Texas Tech,Big 12,46,Oklahoma,Big 12,51,Oklahoma -14,14.0,5,9.0,-14.0,-5,-9.0,Texas Tech,9.0
+1834,401016410,2018,10,regular,2018-11-04,Boise State,Mountain West,21,BYU,FBS Independents,16,Boise State -13,-13.0,-5,-8.0,13.0,5,8.0,BYU,8.0
+2596,401022550,2018,10,regular,2018-11-04,New Mexico,Mountain West,23,San Diego State,Mountain West,31,San Diego State -12.5,12.5,8,4.5,-12.5,-8,-4.5,New Mexico,4.5
+1838,401022551,2018,10,regular,2018-11-04,Hawai'i,Mountain West,17,Utah State,Mountain West,56,Utah State -17.5,17.5,39,-21.5,-17.5,-39,21.5,Utah State,21.5
+2374,401022553,2018,10,regular,2018-11-04,UNLV,Mountain West,3,Fresno State,Mountain West,48,Fresno State -27,27.0,45,-18.0,-27.0,-45,18.0,Fresno State,18.0
+300,401020775,2018,11,regular,2018-11-07,Buffalo,Mid-American,48,Kent State,Mid-American,14,Buffalo -17,-17.0,-34,17.0,17.0,34,-17.0,Buffalo,17.0
+304,401020776,2018,11,regular,2018-11-08,Miami (OH),Mid-American,30,Ohio,Mid-American,28,Ohio -4.5,4.5,-2,6.5,-4.5,2,-6.5,Miami (OH),6.5
+308,401020777,2018,11,regular,2018-11-08,Northern Illinois,Mid-American,38,Toledo,Mid-American,15,Northern Illinois -3.5,-3.5,-23,19.5,3.5,23,-19.5,Northern Illinois,19.5
+464,401013167,2018,11,regular,2018-11-09,NC State,ACC,23,Wake Forest,ACC,27,NC State -19,-19.0,4,-23.0,19.0,-4,23.0,Wake Forest,23.0
+509,401012331,2018,11,regular,2018-11-10,Alabama,SEC,24,Mississippi State,SEC,0,Alabama -22.5,-22.5,-24,1.5,22.5,24,-1.5,Alabama,1.5
+2668,401012333,2018,11,regular,2018-11-10,Florida,SEC,35,South Carolina,SEC,31,Florida -6.5,-6.5,-4,-2.5,6.5,4,2.5,South Carolina,2.5
+312,401012335,2018,11,regular,2018-11-10,Missouri,SEC,33,Vanderbilt,SEC,28,Missouri -14.5,-14.5,-5,-9.5,14.5,5,9.5,Vanderbilt,9.5
+660,401012336,2018,11,regular,2018-11-10,Tennessee,SEC,24,Kentucky,SEC,7,Kentucky -5,5.0,-17,22.0,-5.0,17,-22.0,Tennessee,22.0
+1889,401012337,2018,11,regular,2018-11-10,Texas A&M,SEC,38,Ole Miss,SEC,24,Texas A&M -13,-13.0,-14,1.0,13.0,14,-1.0,Texas A&M,1.0
+3235,401012786,2018,11,regular,2018-11-10,Arizona State,Pac-12,31,UCLA,Pac-12,28,Arizona State -12,-12.0,-3,-9.0,12.0,3,9.0,UCLA,9.0
+2862,401012788,2018,11,regular,2018-11-10,Colorado,Pac-12,7,Washington State,Pac-12,31,Washington State -5.5,5.5,24,-18.5,-5.5,-24,18.5,Washington State,18.5
+1952,401012789,2018,11,regular,2018-11-10,Utah,Pac-12,32,Oregon,Pac-12,25,Utah -3.5,-3.5,-7,3.5,3.5,7,-3.5,Utah,3.5
+1893,401012813,2018,11,regular,2018-11-10,Nebraska,Big Ten,54,Illinois,Big Ten,35,Nebraska -17.5,-17.5,-19,1.5,17.5,19,-1.5,Nebraska,1.5
+1858,401012848,2018,11,regular,2018-11-10,Rutgers,Big Ten,7,Michigan,Big Ten,42,Michigan -37.5,37.5,35,2.5,-37.5,-35,-2.5,Rutgers,2.5
+1897,401012859,2018,11,regular,2018-11-10,Indiana,Big Ten,34,Maryland,Big Ten,32,Indiana -1,-1.0,-2,1.0,1.0,2,-1.0,Indiana,1.0
+1881,401012870,2018,11,regular,2018-11-10,Iowa,Big Ten,10,Northwestern,Big Ten,14,Iowa -11,-11.0,4,-15.0,11.0,-4,15.0,Northwestern,15.0
+1869,401012886,2018,11,regular,2018-11-10,Michigan State,Big Ten,6,Ohio State,Big Ten,26,Ohio State -3.5,3.5,20,-16.5,-3.5,-20,16.5,Ohio State,16.5
+1885,401013035,2018,11,regular,2018-11-10,Iowa State,Big 12,28,Baylor,Big 12,14,Iowa State -17,-17.0,-14,-3.0,17.0,14,3.0,Baylor,3.0
+1900,401013054,2018,11,regular,2018-11-10,Kansas State,Big 12,21,Kansas,Big 12,17,Kansas State -9,-9.0,-4,-5.0,9.0,4,5.0,Kansas,5.0
+1861,401013070,2018,11,regular,2018-11-10,Oklahoma,Big 12,48,Oklahoma State,Big 12,47,Oklahoma -22,-22.0,-1,-21.0,22.0,1,21.0,Oklahoma State,21.0
+2616,401013077,2018,11,regular,2018-11-10,West Virginia,Big 12,47,TCU,Big 12,10,West Virginia -13.5,-13.5,-37,23.5,13.5,37,-23.5,West Virginia,23.5
+1842,401013168,2018,11,regular,2018-11-10,Syracuse,ACC,54,Louisville,ACC,23,Syracuse -20.5,-20.5,-31,10.5,20.5,31,-10.5,Syracuse,10.5
+1915,401013170,2018,11,regular,2018-11-10,Duke,ACC,42,North Carolina,ACC,35,Duke -7.5,-7.5,-7,-0.5,7.5,7,0.5,North Carolina,0.5
+1935,401013173,2018,11,regular,2018-11-10,Pittsburgh,ACC,52,Virginia Tech,ACC,22,Pittsburgh -3.5,-3.5,-30,26.5,3.5,30,-26.5,Pittsburgh,26.5
+1927,401013174,2018,11,regular,2018-11-10,Virginia,ACC,45,Liberty,FBS Independents,24,Virginia -24,-24.0,-21,-3.0,24.0,21,3.0,Liberty,3.0
+2680,401013333,2018,11,regular,2018-11-10,Minnesota,Big Ten,41,Purdue,Big Ten,10,Purdue -10,10.0,-31,41.0,-10.0,31,-41.0,Minnesota,41.0
+1877,401013351,2018,11,regular,2018-11-10,Penn State,Big Ten,22,Wisconsin,Big Ten,10,Penn State -7.5,-7.5,-12,4.5,7.5,12,-4.5,Penn State,4.5
+1904,401013366,2018,11,regular,2018-11-10,UMass,FBS Independents,16,BYU,FBS Independents,35,BYU -14,14.0,19,-5.0,-14.0,-19,5.0,BYU,5.0
+653,401013374,2018,11,regular,2018-11-10,Army,FBS Independents,31,Lafayette,Patriot,13,Army -46,-46.0,-18,-28.0,46.0,18,28.0,Lafayette,28.0
+1923,401015037,2018,11,regular,2018-11-10,Marshall,Conference USA,30,Charlotte,Conference USA,13,Marshall -12.5,-12.5,-17,4.5,12.5,17,-4.5,Marshall,4.5
+2648,401015039,2018,11,regular,2018-11-10,Florida Atlantic,Conference USA,34,Western Kentucky,Conference USA,15,Florida Atlantic -18,-18.0,-19,1.0,18.0,19,-1.0,Florida Atlantic,1.0
+1931,401015041,2018,11,regular,2018-11-10,UTEP,Conference USA,32,Middle Tennessee,Conference USA,48,Middle Tennessee -13.5,13.5,16,-2.5,-13.5,-16,2.5,Middle Tennessee,2.5
+1939,401015042,2018,11,regular,2018-11-10,Old Dominion,Conference USA,34,North Texas,Conference USA,31,North Texas -14.5,14.5,-3,17.5,-14.5,3,-17.5,Old Dominion,17.5
+2644,401019523,2018,11,regular,2018-11-10,UCF,American Athletic,35,Navy,American Athletic,24,UCF -24,-24.0,-11,-13.0,24.0,11,13.0,Navy,13.0
+1908,401019525,2018,11,regular,2018-11-10,Connecticut,American Athletic,50,SMU,American Athletic,62,SMU -17,17.0,12,5.0,-17.0,-12,-5.0,Connecticut,5.0
+1947,401019526,2018,11,regular,2018-11-10,Tulane,American Athletic,24,East Carolina,American Athletic,18,Tulane -10.5,-10.5,-6,-4.5,10.5,6,4.5,East Carolina,4.5
+1911,401019528,2018,11,regular,2018-11-10,Memphis,American Athletic,47,Tulsa,American Athletic,21,Memphis -15.5,-15.5,-26,10.5,15.5,26,-10.5,Memphis,10.5
+316,401020778,2018,11,regular,2018-11-10,Eastern Michigan,Mid-American,27,Akron,Mid-American,7,Eastern Michigan -11.5,-11.5,-20,8.5,11.5,20,-8.5,Eastern Michigan,8.5
+320,401020779,2018,11,regular,2018-11-10,Central Michigan,Mid-American,13,Bowling Green,Mid-American,24,Central Michigan -7.5,-7.5,11,-18.5,7.5,-11,18.5,Bowling Green,18.5
+2684,401021688,2018,11,regular,2018-11-10,Coastal Carolina,Sun Belt,16,Arkansas State,Sun Belt,44,Arkansas State -6.5,6.5,28,-21.5,-6.5,-28,21.5,Arkansas State,21.5
+1919,401021689,2018,11,regular,2018-11-10,Georgia Southern,Sun Belt,21,Troy,Sun Belt,35,Troy -2.5,2.5,14,-11.5,-2.5,-14,11.5,Troy,11.5
+328,401021690,2018,11,regular,2018-11-10,Louisiana,Sun Belt,36,Georgia State,Sun Belt,22,Louisiana -14,-14.0,-14,0.0,14.0,14,-0.0,Georgia State,0.0
+332,401021691,2018,11,regular,2018-11-10,South Alabama,Sun Belt,10,Louisiana Monroe,Sun Belt,38,Louisiana Monroe -7.5,7.5,28,-20.5,-7.5,-28,20.5,Louisiana Monroe,20.5
+324,401021702,2018,11,regular,2018-11-10,Texas State,Sun Belt,7,Appalachian State,Sun Belt,38,Appalachian State -19,19.0,31,-12.0,-19.0,-31,12.0,Appalachian State,12.0
+1943,401022554,2018,11,regular,2018-11-10,Air Force,Mountain West,42,New Mexico,Mountain West,24,Air Force -13.5,-13.5,-18,4.5,13.5,18,-4.5,Air Force,4.5
+1846,401022556,2018,11,regular,2018-11-10,Boise State,Mountain West,24,Fresno State,Mountain West,17,Fresno State -2.5,2.5,-7,9.5,-2.5,7,-9.5,Boise State,9.5
+1865,401012332,2018,11,regular,2018-11-11,Arkansas,SEC,17,LSU,SEC,24,LSU -12.5,12.5,7,5.5,-12.5,-7,-5.5,Arkansas,5.5
+2600,401012334,2018,11,regular,2018-11-11,Georgia,SEC,27,Auburn,SEC,10,Georgia -13,-13.0,-17,4.0,13.0,17,-4.0,Georgia,4.0
+2620,401012787,2018,11,regular,2018-11-11,USC,Pac-12,14,California,Pac-12,15,USC -5,-5.0,1,-6.0,5.0,-1,6.0,California,6.0
+1850,401013169,2018,11,regular,2018-11-11,Boston College,ACC,7,Clemson,ACC,27,Clemson -17.5,17.5,20,-2.5,-17.5,-20,2.5,Clemson,2.5
+1854,401013171,2018,11,regular,2018-11-11,Notre Dame,FBS Independents,42,Florida State,ACC,13,Notre Dame -17,-17.0,-29,12.0,17.0,29,-12.0,Notre Dame,12.0
+1956,401013172,2018,11,regular,2018-11-11,Georgia Tech,ACC,27,Miami,ACC,21,Georgia Tech -1,-1.0,-6,5.0,1.0,6,-5.0,Georgia Tech,5.0
+1873,401013321,2018,11,regular,2018-11-11,Texas Tech,Big 12,34,Texas,Big 12,41,Texas -2,2.0,7,-5.0,-2.0,-7,5.0,Texas,5.0
+1960,401015038,2018,11,regular,2018-11-11,UT San Antonio,Conference USA,7,Florida International,Conference USA,45,Florida International -10.5,10.5,38,-27.5,-10.5,-38,27.5,Florida International,27.5
+1964,401015040,2018,11,regular,2018-11-11,Louisiana Tech,Conference USA,28,Rice,Conference USA,13,Louisiana Tech -24,-24.0,-15,-9.0,24.0,15,9.0,Rice,9.0
+336,401015043,2018,11,regular,2018-11-11,UAB,Conference USA,26,Southern Mississippi,Conference USA,23,UAB -13,-13.0,-3,-10.0,13.0,3,10.0,Southern Mississippi,10.0
+1968,401019524,2018,11,regular,2018-11-11,Cincinnati,American Athletic,35,South Florida,American Athletic,23,Cincinnati -14,-14.0,-12,-2.0,14.0,12,2.0,South Florida,2.0
+1972,401019527,2018,11,regular,2018-11-11,Houston,American Athletic,49,Temple,American Athletic,59,Houston -3.5,-3.5,10,-13.5,3.5,-10,13.5,Temple,13.5
+1978,401022555,2018,11,regular,2018-11-11,Nevada,Mountain West,49,Colorado State,Mountain West,10,Nevada -14,-14.0,-39,25.0,14.0,39,-25.0,Nevada,25.0
+1982,401022558,2018,11,regular,2018-11-11,San Diego State,Mountain West,24,UNLV,Mountain West,27,San Diego State -24,-24.0,3,-27.0,24.0,-3,27.0,UNLV,27.0
+1986,401020780,2018,12,regular,2018-11-13,Ball State,Mid-American,42,Western Michigan,Mid-American,41,Western Michigan -9.5,9.5,-1,10.5,-9.5,1,-10.5,Ball State,10.5
+1992,401020782,2018,12,regular,2018-11-15,Northern Illinois,Mid-American,7,Miami (OH),Mid-American,13,Northern Illinois -6,-6.0,6,-12.0,6.0,-6,12.0,Miami (OH),12.0
+340,401020783,2018,12,regular,2018-11-15,Kent State,Mid-American,34,Toledo,Mid-American,56,Toledo -11.5,11.5,22,-10.5,-11.5,-22,10.5,Toledo,10.5
+1996,401015045,2018,12,regular,2018-11-16,North Texas,Conference USA,41,Florida Atlantic,Conference USA,38,North Texas -4,-4.0,-3,-1.0,4.0,3,1.0,Florida Atlantic,1.0
+3303,401019529,2018,12,regular,2018-11-16,Houston,American Athletic,48,Tulane,American Athletic,17,Houston -7.5,-7.5,-31,23.5,7.5,31,-23.5,Houston,23.5
+654,401012338,2018,12,regular,2018-11-17,Alabama,SEC,50,The Citadel,Southern,17,Alabama -54.5,-54.5,-33,-21.5,54.5,33,21.5,The Citadel,21.5
+2116,401012339,2018,12,regular,2018-11-17,Auburn,SEC,53,Liberty,FBS Independents,0,Auburn -29.5,-29.5,-53,23.5,29.5,53,-23.5,Auburn,23.5
+2029,401012340,2018,12,regular,2018-11-17,Florida,SEC,63,Idaho,Big Sky,10,Florida -43,-43.0,-53,10.0,43.0,53,-10.0,Florida,10.0
+2016,401012341,2018,12,regular,2018-11-17,Georgia,SEC,66,UMass,FBS Independents,27,Georgia -41.5,-41.5,-39,-2.5,41.5,39,2.5,UMass,2.5
+344,401012342,2018,12,regular,2018-11-17,Kentucky,SEC,34,Middle Tennessee,Conference USA,23,Kentucky -16,-16.0,-11,-5.0,16.0,11,5.0,Middle Tennessee,5.0
+348,401012344,2018,12,regular,2018-11-17,Mississippi State,SEC,52,Arkansas,SEC,6,Mississippi State -23,-23.0,-46,23.0,23.0,46,-23.0,Mississippi State,23.0
+2084,401012346,2018,12,regular,2018-11-17,Tennessee,SEC,17,Missouri,SEC,50,Missouri -6,6.0,33,-27.0,-6.0,-33,27.0,Missouri,27.0
+2088,401012791,2018,12,regular,2018-11-17,UCLA,Pac-12,34,USC,Pac-12,27,USC -3,3.0,-7,10.0,-3.0,7,-10.0,UCLA,10.0
+2038,401012794,2018,12,regular,2018-11-17,Washington,Pac-12,42,Oregon State,Pac-12,23,Washington -32.5,-32.5,-19,-13.5,32.5,19,13.5,Oregon State,13.5
+2092,401012814,2018,12,regular,2018-11-17,Illinois,Big Ten,0,Iowa,Big Ten,63,Iowa -16,16.0,63,-47.0,-16.0,-63,47.0,Iowa,47.0
+2031,401012849,2018,12,regular,2018-11-17,Rutgers,Big Ten,7,Penn State,Big Ten,20,Penn State -27,27.0,13,14.0,-27.0,-13,-14.0,Rutgers,14.0
+3197,401012860,2018,12,regular,2018-11-17,Michigan,Big Ten,31,Indiana,Big Ten,20,Michigan -28,-28.0,-11,-17.0,28.0,11,17.0,Indiana,17.0
+2024,401012878,2018,12,regular,2018-11-17,Maryland,Big Ten,51,Ohio State,Big Ten,52,Ohio State -14,14.0,1,13.0,-14.0,-1,-13.0,Maryland,13.0
+2050,401012887,2018,12,regular,2018-11-17,Nebraska,Big Ten,9,Michigan State,Big Ten,6,Nebraska -1,-1.0,-3,2.0,1.0,3,-2.0,Nebraska,2.0
+2054,401013036,2018,12,regular,2018-11-17,Baylor,Big 12,9,TCU,Big 12,16,TCU -null,,7,,,-7,,TCU,
+2096,401013064,2018,12,regular,2018-11-17,Kansas State,Big 12,21,Texas Tech,Big 12,6,Texas Tech -6.5,6.5,-15,21.5,-6.5,15,-21.5,Kansas State,21.5
+2042,401013175,2018,12,regular,2018-11-17,Florida State,ACC,22,Boston College,ACC,21,Boston College -3,3.0,-1,4.0,-3.0,1,-4.0,Florida State,4.0
+2100,401013177,2018,12,regular,2018-11-17,Georgia Tech,ACC,30,Virginia,ACC,27,Georgia Tech -6.5,-6.5,-3,-3.5,6.5,3,3.5,Virginia,3.5
+2066,401013178,2018,12,regular,2018-11-17,Louisville,ACC,10,NC State,ACC,52,NC State -16,16.0,42,-26.0,-16.0,-42,26.0,NC State,26.0
+2624,401013179,2018,12,regular,2018-11-17,Virginia Tech,ACC,14,Miami,ACC,38,Miami -6.5,6.5,24,-17.5,-6.5,-24,17.5,Miami,17.5
+3534,401013180,2018,12,regular,2018-11-17,North Carolina,ACC,49,Western Carolina,Southern,26,North Carolina -31,-31.0,-23,-8.0,31.0,23,8.0,Western Carolina,8.0
+2058,401013181,2018,12,regular,2018-11-17,Wake Forest,ACC,13,Pittsburgh,ACC,34,Pittsburgh -5.5,5.5,21,-15.5,-5.5,-21,15.5,Pittsburgh,15.5
+2012,401013182,2018,12,regular,2018-11-17,Notre Dame,FBS Independents,36,Syracuse,ACC,3,Notre Dame -10,-10.0,-33,23.0,10.0,33,-23.0,Notre Dame,23.0
+2998,401013327,2018,12,regular,2018-11-17,Oklahoma State,Big 12,45,West Virginia,Big 12,41,West Virginia -6,6.0,-4,10.0,-6.0,4,-10.0,Oklahoma State,10.0
+2046,401013334,2018,12,regular,2018-11-17,Minnesota,Big Ten,14,Northwestern,Big Ten,24,Minnesota -3,-3.0,10,-13.0,3.0,-10,13.0,Northwestern,13.0
+2104,401013353,2018,12,regular,2018-11-17,Purdue,Big Ten,44,Wisconsin,Big Ten,47,Purdue -4,-4.0,3,-7.0,4.0,-3,7.0,Wisconsin,7.0
+3519,401013375,2018,12,regular,2018-11-17,Army,FBS Independents,28,Colgate,Patriot,14,Army -10,-10.0,-14,4.0,10.0,14,-4.0,Army,4.0
+2070,401015044,2018,12,regular,2018-11-17,Charlotte,Conference USA,35,Florida International,Conference USA,42,Florida International -4,4.0,7,-3.0,-4.0,-7,3.0,Florida International,3.0
+2108,401015046,2018,12,regular,2018-11-17,Southern Mississippi,Conference USA,21,Louisiana Tech,Conference USA,20,Southern Mississippi -2,-2.0,-1,-1.0,2.0,1,1.0,Louisiana Tech,1.0
+2074,401015047,2018,12,regular,2018-11-17,Marshall,Conference USA,23,UT San Antonio,Conference USA,0,Marshall -27.5,-27.5,-23,-4.5,27.5,23,4.5,UT San Antonio,4.5
+3533,401015048,2018,12,regular,2018-11-17,Old Dominion,Conference USA,77,VMI,Southern,14,Old Dominion -31.5,-31.5,-63,31.5,31.5,63,-31.5,Old Dominion,31.5
+2004,401019530,2018,12,regular,2018-11-17,SMU,American Athletic,18,Memphis,American Athletic,28,Memphis -7.5,7.5,10,-2.5,-7.5,-10,2.5,Memphis,2.5
+2062,401019533,2018,12,regular,2018-11-17,Temple,American Athletic,27,South Florida,American Athletic,17,Temple -14,-14.0,-10,-4.0,14.0,10,4.0,South Florida,4.0
+2112,401019534,2018,12,regular,2018-11-17,Navy,American Athletic,37,Tulsa,American Athletic,29,Navy -6,-6.0,-8,2.0,6.0,8,-2.0,Navy,2.0
+354,401020784,2018,12,regular,2018-11-17,Akron,Mid-American,6,Bowling Green,Mid-American,21,Akron -6.5,-6.5,15,-21.5,6.5,-15,21.5,Bowling Green,21.5
+2078,401021693,2018,12,regular,2018-11-17,Arkansas State,Sun Belt,31,Louisiana Monroe,Sun Belt,17,Arkansas State -8,-8.0,-14,6.0,8.0,14,-6.0,Arkansas State,6.0
+358,401021694,2018,12,regular,2018-11-17,Coastal Carolina,Sun Belt,17,Georgia Southern,Sun Belt,41,Georgia Southern -7.5,7.5,24,-16.5,-7.5,-24,16.5,Georgia Southern,16.5
+362,401021695,2018,12,regular,2018-11-17,Louisiana,Sun Belt,48,South Alabama,Sun Belt,38,Louisiana -20,-20.0,-10,-10.0,20.0,10,10.0,South Alabama,10.0
+3037,401021696,2018,12,regular,2018-11-17,Troy,Sun Belt,12,Texas State,Sun Belt,7,Troy -22.5,-22.5,-5,-17.5,22.5,5,17.5,Texas State,17.5
+2120,401022559,2018,12,regular,2018-11-17,Wyoming,Mountain West,35,Air Force,Mountain West,27,Wyoming -3,-3.0,-8,5.0,3.0,8,-5.0,Wyoming,5.0
+2000,401022560,2018,12,regular,2018-11-17,New Mexico,Mountain West,14,Boise State,Mountain West,45,Boise State -21.5,21.5,31,-9.5,-21.5,-31,9.5,Boise State,9.5
+2656,401022561,2018,12,regular,2018-11-17,Colorado State,Mountain West,24,Utah State,Mountain West,29,Utah State -28.5,28.5,5,23.5,-28.5,-5,-23.5,Colorado State,23.5
+2719,401012343,2018,12,regular,2018-11-18,LSU,SEC,42,Rice,Conference USA,10,LSU -42,-42.0,-32,-10.0,42.0,32,10.0,Rice,10.0
+3535,401012345,2018,12,regular,2018-11-18,South Carolina,SEC,49,Chattanooga,Southern,9,South Carolina -31,-31.0,-40,9.0,31.0,40,-9.0,South Carolina,9.0
+2124,401012347,2018,12,regular,2018-11-18,Texas A&M,SEC,41,UAB,Conference USA,20,Texas A&M -17,-17.0,-21,4.0,17.0,21,-4.0,Texas A&M,4.0
+2132,401012348,2018,12,regular,2018-11-18,Vanderbilt,SEC,36,Ole Miss,SEC,29,Vanderbilt -3,-3.0,-7,4.0,3.0,7,-4.0,Vanderbilt,4.0
+2138,401012793,2018,12,regular,2018-11-18,Oregon,Pac-12,31,Arizona State,Pac-12,29,Oregon -3.5,-3.5,-2,-1.5,3.5,2,1.5,Arizona State,1.5
+2020,401012795,2018,12,regular,2018-11-18,Washington State,Pac-12,69,Arizona,Pac-12,28,Washington State -10.5,-10.5,-41,30.5,10.5,41,-30.5,Washington State,30.5
+2034,401013046,2018,12,regular,2018-11-18,Texas,Big 12,24,Iowa State,Big 12,10,Texas -2,-2.0,-14,12.0,2.0,14,-12.0,Texas,12.0
+2652,401013055,2018,12,regular,2018-11-18,Oklahoma,Big 12,55,Kansas,Big 12,40,Oklahoma -35,-35.0,-15,-20.0,35.0,15,20.0,Kansas,20.0
+2008,401013176,2018,12,regular,2018-11-18,Clemson,ACC,35,Duke,ACC,6,Clemson -28,-28.0,-29,1.0,28.0,29,-1.0,Clemson,1.0
+366,401015049,2018,12,regular,2018-11-18,Western Kentucky,Conference USA,40,UTEP,Conference USA,16,Western Kentucky -6.5,-6.5,-24,17.5,6.5,24,-17.5,Western Kentucky,17.5
+2128,401019532,2018,12,regular,2018-11-18,East Carolina,American Athletic,55,Connecticut,American Athletic,21,East Carolina -17,-17.0,-34,17.0,17.0,34,-17.0,East Carolina,17.0
+2142,401022563,2018,12,regular,2018-11-18,Fresno State,Mountain West,23,San Diego State,Mountain West,14,Fresno State -10.5,-10.5,-9,-1.5,10.5,9,1.5,San Diego State,1.5
+2146,401022564,2018,12,regular,2018-11-18,Hawai'i,Mountain West,35,UNLV,Mountain West,28,Hawai'i -7,-7.0,-7,0.0,7.0,7,-0.0,UNLV,0.0
+370,401020785,2018,13,regular,2018-11-21,Miami (OH),Mid-American,42,Ball State,Mid-American,21,Miami (OH) -15,-15.0,-21,6.0,15.0,21,-6.0,Miami (OH),6.0
+374,401020786,2018,13,regular,2018-11-21,Western Michigan,Mid-American,28,Northern Illinois,Mid-American,21,Northern Illinois -6.5,6.5,-7,13.5,-6.5,7,-13.5,Western Michigan,13.5
+2154,401022565,2018,13,regular,2018-11-22,Air Force,Mountain West,27,Colorado State,Mountain West,19,Air Force -14.5,-14.5,-8,-6.5,14.5,8,6.5,Colorado State,6.5
+2150,401012349,2018,13,regular,2018-11-23,Ole Miss,SEC,3,Mississippi State,SEC,35,Mississippi State -12.5,12.5,32,-19.5,-12.5,-32,19.5,Mississippi State,19.5
+2176,401012354,2018,13,regular,2018-11-23,Missouri,SEC,38,Arkansas,SEC,0,Missouri -24,-24.0,-38,14.0,24.0,38,-14.0,Missouri,14.0
+2180,401012797,2018,13,regular,2018-11-23,Oregon State,Pac-12,15,Oregon,Pac-12,55,Oregon -17.5,17.5,40,-22.5,-17.5,-40,22.5,Oregon,22.5
+2168,401012871,2018,13,regular,2018-11-23,Iowa,Big Ten,31,Nebraska,Big Ten,28,Iowa -8.5,-8.5,-3,-5.5,8.5,3,5.5,Nebraska,5.5
+3201,401013056,2018,13,regular,2018-11-23,Kansas,Big 12,17,Texas,Big 12,24,Texas -15.5,15.5,7,8.5,-15.5,-7,-8.5,Kansas,8.5
+2964,401013183,2018,13,regular,2018-11-23,Virginia Tech,ACC,34,Virginia,ACC,31,Virginia -5.5,5.5,-3,8.5,-5.5,3,-8.5,Virginia Tech,8.5
+2172,401019537,2018,13,regular,2018-11-23,Memphis,American Athletic,52,Houston,American Athletic,31,Memphis -9.5,-9.5,-21,11.5,9.5,21,-11.5,Memphis,11.5
+378,401020787,2018,13,regular,2018-11-23,Ohio,Mid-American,49,Akron,Mid-American,28,Ohio -24,-24.0,-21,-3.0,24.0,21,3.0,Akron,3.0
+386,401020790,2018,13,regular,2018-11-23,Kent State,Mid-American,20,Eastern Michigan,Mid-American,28,Eastern Michigan -13.5,13.5,8,5.5,-13.5,-8,-5.5,Kent State,5.5
+390,401021699,2018,13,regular,2018-11-23,South Alabama,Sun Belt,31,Coastal Carolina,Sun Belt,28,South Alabama -1,-1.0,-3,2.0,1.0,3,-2.0,South Alabama,2.0
+2184,401012350,2018,13,regular,2018-11-24,Alabama,SEC,52,Auburn,SEC,21,Alabama -26.5,-26.5,-31,4.5,26.5,31,-4.5,Alabama,4.5
+2200,401012351,2018,13,regular,2018-11-24,Florida State,ACC,14,Florida,SEC,41,Florida -8,8.0,27,-19.0,-8.0,-27,19.0,Florida,19.0
+2192,401012352,2018,13,regular,2018-11-24,Georgia,SEC,45,Georgia Tech,ACC,21,Georgia -17,-17.0,-24,7.0,17.0,24,-7.0,Georgia,7.0
+396,401012357,2018,13,regular,2018-11-24,Vanderbilt,SEC,38,Tennessee,SEC,13,Vanderbilt -3,-3.0,-25,22.0,3.0,25,-22.0,Vanderbilt,22.0
+2162,401012798,2018,13,regular,2018-11-24,Washington State,Pac-12,15,Washington,Pac-12,28,Washington State -3,-3.0,13,-16.0,3.0,-13,16.0,Washington,16.0
+2688,401012799,2018,13,regular,2018-11-24,Arizona,Pac-12,40,Arizona State,Pac-12,41,Arizona State -1,1.0,1,0.0,-1.0,-1,-0.0,Arizona State,0.0
+2261,401012801,2018,13,regular,2018-11-24,UCLA,Pac-12,42,Stanford,Pac-12,49,Stanford -7,7.0,7,0.0,-7.0,-7,-0.0,Stanford,0.0
+2212,401012815,2018,13,regular,2018-11-24,Northwestern,Big Ten,24,Illinois,Big Ten,16,Northwestern -16,-16.0,-8,-8.0,16.0,8,8.0,Illinois,8.0
+2284,401012850,2018,13,regular,2018-11-24,Michigan State,Big Ten,14,Rutgers,Big Ten,10,Michigan State -24.5,-24.5,-4,-20.5,24.5,4,20.5,Rutgers,20.5
+2232,401012861,2018,13,regular,2018-11-24,Indiana,Big Ten,21,Purdue,Big Ten,28,Purdue -3.5,3.5,7,-3.5,-3.5,-7,3.5,Purdue,3.5
+2204,401012879,2018,13,regular,2018-11-24,Penn State,Big Ten,38,Maryland,Big Ten,3,Penn State -13,-13.0,-35,22.0,13.0,35,-22.0,Penn State,22.0
+2188,401012895,2018,13,regular,2018-11-24,Ohio State,Big Ten,62,Michigan,Big Ten,39,Michigan -4.5,4.5,-23,27.5,-4.5,23,-27.5,Ohio State,27.5
+3193,401013037,2018,13,regular,2018-11-24,Texas Tech,Big 12,24,Baylor,Big 12,35,Texas Tech -6,-6.0,11,-17.0,6.0,-11,17.0,Baylor,17.0
+2158,401013071,2018,13,regular,2018-11-24,West Virginia,Big 12,56,Oklahoma,Big 12,59,Oklahoma -3,3.0,3,0.0,-3.0,-3,-0.0,Oklahoma,0.0
+2216,401013184,2018,13,regular,2018-11-24,Boston College,ACC,21,Syracuse,ACC,42,Boston College -5,-5.0,21,-26.0,5.0,-21,26.0,Syracuse,26.0
+2243,401013185,2018,13,regular,2018-11-24,Duke,ACC,7,Wake Forest,ACC,59,Duke -10,-10.0,52,-62.0,10.0,-52,62.0,Wake Forest,62.0
+2224,401013186,2018,13,regular,2018-11-24,Miami,ACC,24,Pittsburgh,ACC,3,Miami -6,-6.0,-21,15.0,6.0,21,-15.0,Miami,15.0
+2239,401013187,2018,13,regular,2018-11-24,North Carolina,ACC,28,NC State,ACC,34,NC State -7,7.0,6,1.0,-7.0,-6,-1.0,North Carolina,1.0
+2276,401013335,2018,13,regular,2018-11-24,Wisconsin,Big Ten,15,Minnesota,Big Ten,37,Wisconsin -12.5,-12.5,22,-34.5,12.5,-22,34.5,Minnesota,34.5
+2292,401015050,2018,13,regular,2018-11-24,Florida Atlantic,Conference USA,24,Charlotte,Conference USA,27,Florida Atlantic -17,-17.0,3,-20.0,17.0,-3,20.0,Charlotte,20.0
+2235,401015051,2018,13,regular,2018-11-24,Florida International,Conference USA,25,Marshall,Conference USA,28,Marshall -3.5,3.5,3,0.5,-3.5,-3,-0.5,Florida International,0.5
+3239,401015052,2018,13,regular,2018-11-24,Louisiana Tech,Conference USA,15,Western Kentucky,Conference USA,30,Louisiana Tech -10.5,-10.5,15,-25.5,10.5,-15,25.5,Western Kentucky,25.5
+2265,401015053,2018,13,regular,2018-11-24,Middle Tennessee,Conference USA,27,UAB,Conference USA,3,UAB -3,3.0,-24,27.0,-3.0,24,-27.0,Middle Tennessee,27.0
+2247,401015055,2018,13,regular,2018-11-24,Rice,Conference USA,27,Old Dominion,Conference USA,13,Old Dominion -7.5,7.5,-14,21.5,-7.5,14,-21.5,Rice,21.5
+2268,401015056,2018,13,regular,2018-11-24,UTEP,Conference USA,7,Southern Mississippi,Conference USA,39,Southern Mississippi -13.5,13.5,32,-18.5,-13.5,-32,18.5,Southern Mississippi,18.5
+3243,401019538,2018,13,regular,2018-11-24,Connecticut,American Athletic,7,Temple,American Athletic,57,Temple -30.5,30.5,50,-19.5,-30.5,-50,19.5,Temple,19.5
+2723,401019539,2018,13,regular,2018-11-24,Tulane,American Athletic,29,Navy,American Athletic,28,Tulane -6.5,-6.5,-1,-5.5,6.5,1,5.5,Navy,5.5
+2280,401019540,2018,13,regular,2018-11-24,Tulsa,American Athletic,27,SMU,American Athletic,24,SMU -2.5,2.5,-3,5.5,-2.5,3,-5.5,Tulsa,5.5
+2253,401021697,2018,13,regular,2018-11-24,Appalachian State,Sun Belt,21,Troy,Sun Belt,10,Appalachian State -11,-11.0,-11,0.0,11.0,11,-0.0,Troy,0.0
+2288,401021698,2018,13,regular,2018-11-24,Texas State,Sun Belt,7,Arkansas State,Sun Belt,33,Arkansas State -13.5,13.5,26,-12.5,-13.5,-26,12.5,Arkansas State,12.5
+2272,401021701,2018,13,regular,2018-11-24,Louisiana Monroe,Sun Belt,28,Louisiana,Sun Belt,31,Louisiana Monroe -1.5,-1.5,3,-4.5,1.5,-3,4.5,Louisiana,4.5
+2257,401022567,2018,13,regular,2018-11-24,New Mexico,Mountain West,3,Wyoming,Mountain West,31,Wyoming -7,7.0,28,-21.0,-7.0,-28,21.0,Wyoming,21.0
+3331,401012353,2018,13,regular,2018-11-25,Louisville,ACC,10,Kentucky,SEC,56,Kentucky -17,17.0,46,-29.0,-17.0,-46,29.0,Kentucky,29.0
+905,401012355,2018,13,regular,2018-11-25,Clemson,ACC,56,South Carolina,SEC,35,Clemson -26,-26.0,-21,-5.0,26.0,21,5.0,South Carolina,5.0
+2196,401012356,2018,13,regular,2018-11-25,Texas A&M,SEC,74,LSU,SEC,72,Texas A&M -3,-3.0,-2,-1.0,3.0,2,1.0,LSU,1.0
+2393,401012800,2018,13,regular,2018-11-25,USC,Pac-12,17,Notre Dame,FBS Independents,24,Notre Dame -14,14.0,7,7.0,-14.0,-7,-7.0,USC,7.0
+2208,401012802,2018,13,regular,2018-11-25,Utah,Pac-12,35,BYU,FBS Independents,27,Utah -10.5,-10.5,-8,-2.5,10.5,8,2.5,BYU,2.5
+2296,401012803,2018,13,regular,2018-11-25,California,Pac-12,33,Colorado,Pac-12,21,California -10.5,-10.5,-12,1.5,10.5,12,-1.5,California,1.5
+2228,401013047,2018,13,regular,2018-11-25,Iowa State,Big 12,42,Kansas State,Big 12,38,Iowa State -10.5,-10.5,-4,-6.5,10.5,4,6.5,Kansas State,6.5
+2302,401013078,2018,13,regular,2018-11-25,TCU,Big 12,31,Oklahoma State,Big 12,24,Oklahoma State -5.5,5.5,-7,12.5,-5.5,7,-12.5,TCU,12.5
+3043,401015054,2018,13,regular,2018-11-25,UT San Antonio,Conference USA,21,North Texas,Conference USA,24,North Texas -24.5,24.5,3,21.5,-24.5,-3,-21.5,UT San Antonio,21.5
+2220,401022566,2018,13,regular,2018-11-25,Boise State,Mountain West,33,Utah State,Mountain West,24,Boise State -2.5,-2.5,-9,6.5,2.5,9,-6.5,Boise State,6.5
+2310,401022568,2018,13,regular,2018-11-25,San Diego State,Mountain West,30,Hawai'i,Mountain West,31,San Diego State -17.5,-17.5,1,-18.5,17.5,-1,18.5,Hawai'i,18.5
+2306,401022569,2018,13,regular,2018-11-25,UNLV,Mountain West,34,Nevada,Mountain West,29,Nevada -14,14.0,-5,19.0,-14.0,5,-19.0,UNLV,19.0
+3383,401056698,2018,14,regular,2018-12-01,Oklahoma,Big 12,39,Texas,Big 12,27,Oklahoma -9.5,-9.5,-12,2.5,9.5,12,-2.5,Oklahoma,2.5
+2338,401056701,2018,14,regular,2018-12-01,Appalachian State,Sun Belt,30,Louisiana,Sun Belt,19,Appalachian State -17,-17.0,-11,-6.0,17.0,11,6.0,Louisiana,6.0
+476,401056703,2018,14,regular,2018-12-01,Middle Tennessee,Conference USA,25,UAB,Conference USA,27,Middle Tennessee -1,-1.0,2,-3.0,1.0,-2,3.0,UAB,3.0
+2314,401056704,2018,14,regular,2018-12-01,Washington,Pac-12,10,Utah,Pac-12,3,Washington -4.5,-4.5,-7,2.5,4.5,7,-2.5,Washington,2.5
+2320,401056705,2018,14,regular,2018-12-01,Georgia,SEC,28,Alabama,SEC,35,Alabama -12,12.0,7,5.0,-12.0,-7,-5.0,Georgia,5.0
+399,401081953,2018,14,regular,2018-12-01,Liberty,FBS Independents,52,Norfolk State,MEAC,17,Liberty -30.5,-30.5,-35,4.5,30.5,35,-4.5,Liberty,4.5
+2671,401082044,2018,14,regular,2018-12-01,Iowa State,Big 12,27,Drake,Pioneer,24,Iowa State -41,-41.0,-3,-38.0,41.0,3,38.0,Drake,38.0
+468,401088766,2018,14,regular,2018-12-01,NC State,ACC,58,East Carolina,American Athletic,3,NC State -25.5,-25.5,-55,29.5,25.5,55,-29.5,NC State,29.5
+2797,401098253,2018,14,regular,2018-12-01,South Carolina,SEC,28,Akron,Mid-American,3,South Carolina -29,-29.0,-25,-4.0,29.0,25,4.0,Akron,4.0
+2692,401099853,2018,14,regular,2018-12-01,California,Pac-12,13,Stanford,Pac-12,23,Stanford -3,3.0,10,-7.0,-3.0,-10,7.0,Stanford,7.0
+472,401100159,2018,14,regular,2018-12-01,Virginia Tech,ACC,41,Marshall,Conference USA,20,Virginia Tech -3.5,-3.5,-21,17.5,3.5,21,-17.5,Virginia Tech,17.5
+2324,401056697,2018,14,regular,2018-12-02,Pittsburgh,ACC,10,Clemson,ACC,42,Clemson -28,28.0,32,-4.0,-28.0,-32,4.0,Clemson,4.0
+2334,401056700,2018,14,regular,2018-12-02,Boise State,Mountain West,16,Fresno State,Mountain West,19,Boise State -1.5,-1.5,3,-4.5,1.5,-3,4.5,Fresno State,4.5
+2328,401056702,2018,14,regular,2018-12-02,Ohio State,Big Ten,45,Northwestern,Big Ten,24,Ohio State -16.5,-16.5,-21,4.5,16.5,21,-4.5,Ohio State,4.5
+479,401013376,2018,15,regular,2018-12-08,Army,FBS Independents,17,Navy,American Athletic,10,Army -7,-7.0,-7,0.0,7.0,7,-0.0,Navy,0.0
