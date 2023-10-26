@@ -21,14 +21,10 @@
 
 
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center"> How accurate are predictions for college football games? </h3>
+  <h2 align="center"> How accurate are predictions for college football games? </h2>
 
   <p align="center">
     A deep dive into the world of Las Vegas predicting college football games over the last 5 years.
@@ -44,7 +40,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#process">Process</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#deliverables">Deliverables</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -54,8 +50,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 College football is one of the greatest sports in the world. Every Saturday in the fall, there are hundreds of games all across the country featuring some of the best (and worst) football there is to offer. With the rise in popularity of sports gambling, there is more and more talk about how Las Vegas casinos predict the outcomes of these games.
 
@@ -89,12 +83,17 @@ From there, my goal was to aggregate the data into one data frame so I could com
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Deliverables -->
+## Deliverables
 
-Below is a link to my Tableau dashboard where I have reported my findings in this preject.
+Below is a link to my presentation slides and video where I have reported my findings in this project.
 
-_[Tableau Dashboard](https://example.com)_
+_[Presentation Slides](https://example.com)_
+_[Presentation Video](https://example.com)_
+
+I have also built a PowerBi dashboard to chekc out how well Las Vegas can predict your favorite team when they play at home and when they play away.
+
+_[Dashboard](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,12 +116,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
