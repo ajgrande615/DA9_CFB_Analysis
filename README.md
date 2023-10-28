@@ -81,7 +81,7 @@ _[Dashboard](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-A.J. Grande - [@your_twitter](https://twitter.com/your_username) - email@example.com
+A.J. Grande - [LinkedIn](https://www.linkedin.com/in/ajgrande615/)
 
 [Project Link](https://github.com/ajgrande615/DA9_CFB_Analysis)
 
@@ -92,10 +92,11 @@ A.J. Grande - [@your_twitter](https://twitter.com/your_username) - email@example
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I want to shout out some of the resources that helped me through this project:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* Special thanks to Nashville Software School, especially the instructors of Data Analytics Part-Time Cohort 9.
+* My DA9 classmates, I really enjoyed walking through this with you and helping each other along the way
+* [collegefootballdata.com](https://collegefootballdata.com/) for being a great resource to find all the data I needed to do this analysis.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
