@@ -102,7 +102,7 @@ _[Dashboard](https://example.com)_
 
 A.J. Grande - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+[Project Link](https://github.com/ajgrande615/DA9_CFB_Analysis)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
