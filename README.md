@@ -61,8 +61,8 @@ It is most easily explained with an example:
 * Team B's spread for the game would be +3.5 points, meaning their score must lose by less than 3 points or win the game to cover their spread.
 * For this example, let's say that Team A won the game by 2 points. Because their margin of victory does not cover the -3.5 spread set for them, the winning bet would be those who chose Team B +3.5 because they lost by less than 3.5.
 
-With that in mind, here is why it interests me and why I wanted to learn more:
-* Though it is used for casinos to make money on sports betting, it is also a very fascinating way to predict the outcomes of these college football games. 
+With that in mind, here is why it interests me and why I want to learn more:
+* Though it is used for casinos to make money on sports betting, it is also a fascinating way to predict the outcomes of these college football games. 
 * The casinos setting these lines (and those that bet these games regularly) have to be doing tons of research on these games. How accurately can they actually predict the outcomes?
 * Are there teams or conferences they can or cannot predict accurately on a regular basis?
 
@@ -88,10 +88,9 @@ From there, my goal was to aggregate the data into one data frame so I could com
 
 Below is a link to my presentation slides and video where I have reported my findings in this project.
 
-_[Presentation Slides](https://example.com)_
-_[Presentation Video](https://example.com)_
+_[Presentation Slides](https://www.canva.com/design/DAFyOAern8k/ueN7V9QsyQEQEhL0gTomBg/view?utm_content=DAFyOAern8k&utm_campaign=designshare&utm_medium=link&utm_source=editor)_
 
-I have also built a PowerBi dashboard to chekc out how well Las Vegas can predict your favorite team when they play at home and when they play away.
+I have also built a PowerBi dashboard to check out how well Las Vegas can predict your favorite team when they play at home and when they play away.
 
 _[Dashboard](https://example.com)_
 
@@ -119,37 +118,3 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
