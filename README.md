@@ -67,13 +67,10 @@ From there, my goal was to aggregate the data into one data frame so I could com
 <!-- Deliverables -->
 ## Deliverables
 
-Below is a link to my presentation slides and video where I have reported my findings in this project.
-
-_[Presentation Slides](https://www.canva.com/design/DAFyOAern8k/ueN7V9QsyQEQEhL0gTomBg/view?utm_content=DAFyOAern8k&utm_campaign=designshare&utm_medium=link&utm_source=editor)_
-
+The PowerPoint above is my presentation that goes through the whole project.
 I have also built a PowerBi dashboard to check out how well Las Vegas can predict your favorite team when they play at home and when they play away.
+That is also in the PowerPoint embedded towards the end.
 
-_[Dashboard](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
